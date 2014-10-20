@@ -1,0 +1,4 @@
+services:
+#    mh3up_menu.example:
+#        class: mh3up\MenuBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]

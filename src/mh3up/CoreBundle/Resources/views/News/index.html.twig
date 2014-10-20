@@ -1,0 +1,15 @@
+{% extends 'mh3upCoreBundle::layout.html.twig' %}
+
+{% block main_container %}
+    <div class="row">
+        <div class="col-lg-12">
+            <h1 class="page-header">News</h1>
+        </div>
+        <!-- /.col-lg-12 -->
+    </div>
+    <!-- /.row -->
+    {% for news_content in news %}
+        {% include 'mh3upCoreBundle:News:news-details.html.twig' %}
+    {% endfor %}
+
+{% endblock %}

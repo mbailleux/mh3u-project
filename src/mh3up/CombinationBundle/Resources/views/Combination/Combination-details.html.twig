@@ -1,0 +1,26 @@
+<div class="table-responsive">
+    <table class="table table-striped table-bordered table-hover">
+        <thead>
+        <tr>
+            <th>#</th>
+            <th>Item A</th>
+            <th>Item B</th>
+            <th>Result</th>
+            <th>Percent</th>
+            <th>Quantity</th>
+        </tr>
+        </thead>
+        <tbody>
+        {% for combination in combinations %}
+            <tr>
+                <td>{{ combination.id }}</td>
+                <td>{{ combination.itemA.name }}</td>
+                <td>{{ combination.itemB.name }}</td>
+                <td>{{ combination.itemResult.name }}</td>
+                <td>{{ combination.percent }}</td>
+                <td>{{ combination.quantity }}</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>

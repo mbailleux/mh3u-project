@@ -1,0 +1,3 @@
+mh3u_combinations:
+    path:     /combinations
+    defaults: { _controller: mh3upCombinationBundle:Default:index }
