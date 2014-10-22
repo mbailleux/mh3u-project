@@ -1,0 +1,7 @@
+core_homepage:
+    path:     /
+    defaults: { _controller: CoreCoreBundle:Default:index }
+
+core_news:
+    path:     /news
+    defaults: { _controller: CoreCoreBundle:Default:news }

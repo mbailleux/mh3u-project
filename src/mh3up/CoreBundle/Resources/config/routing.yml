@@ -1,7 +1,0 @@
-core_homepage:
-    path:     /
-    defaults: { _controller: mh3upCoreBundle:Default:index }
-
-core_news:
-    path:     /news
-    defaults: { _controller: mh3upCoreBundle:Default:news }

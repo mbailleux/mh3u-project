@@ -17,14 +17,15 @@ class AppKernel extends Kernel
             new Doctrine\Bundle\DoctrineBundle\DoctrineBundle(),
             new Doctrine\Bundle\FixturesBundle\DoctrineFixturesBundle(),
             new Sensio\Bundle\FrameworkExtraBundle\SensioFrameworkExtraBundle(),
-            new mh3up\ArmorBundle\mh3upArmorBundle(),
-            new mh3up\CombinationBundle\mh3upCombinationBundle(),
-            new mh3up\CoreBundle\mh3upCoreBundle(),
-            new mh3up\ItemBundle\mh3upItemBundle(),
-            new mh3up\MenuBundle\mh3upMenuBundle(),
-            new mh3up\UserBundle\mh3upUserBundle(),
-            new mh3up\WeaponBundle\mh3upWeaponBundle(),
             new Knp\Bundle\MenuBundle\KnpMenuBundle(),
+            new FOS\UserBundle\FOSUserBundle(),
+            new Core\CoreBundle\CoreCoreBundle(),
+            new Core\MenuBundle\CoreMenuBundle(),
+            new Core\UserBundle\CoreUserBundle(),
+            new MH3U\ArmorBundle\MH3UArmorBundle(),
+            new MH3U\CombinationBundle\MH3UCombinationBundle(),
+            new MH3U\ItemBundle\MH3UItemBundle(),
+            new MH3U\WeaponBundle\MH3UWeaponBundle(),
         );
 
         if (in_array($this->getEnvironment(), array('dev', 'test'))) {

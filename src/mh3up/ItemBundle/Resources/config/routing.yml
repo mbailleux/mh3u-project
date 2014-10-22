@@ -1,3 +1,0 @@
-mh3u_items:
-    path:     /items
-    defaults: { _controller: mh3upItemBundle:Default:index }

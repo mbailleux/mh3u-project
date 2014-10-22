@@ -1,0 +1,4 @@
+services:
+#    mh3up_armor.example:
+#        class: mh3up\ArmorBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]

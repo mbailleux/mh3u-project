@@ -35,7 +35,8 @@
         "knplabs/knp-menu": "2.0.x-dev",
         "knplabs/knp-menu-bundle": "2.0.x-dev",
         "twbs/bootstrap": "3.2.*",
-        "jquery/jquery":  "1.10.*"
+        "jquery/jquery":  "1.10.*",
+        "friendsofsymfony/user-bundle": "2.0.x-dev"
     },
     "require-dev": {
         "sensio/generator-bundle": "~2.3"

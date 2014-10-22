@@ -1,0 +1,4 @@
+services:
+#    mh3up_user.example:
+#        class: mh3up\UserBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]

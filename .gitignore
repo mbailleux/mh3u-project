@@ -12,6 +12,3 @@
 /bin/
 /composer.phar
 /.idea
-/src/mh3up/WeaponBundle
-/src/mh3up/ArmorBundle
-/src/mh3up/UserBundle

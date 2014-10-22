@@ -1,28 +1,30 @@
-mh3up_combination:
-    resource: "@mh3upCombinationBundle/Resources/config/routing.yml"
+core_core:
+    resource: "@CoreCoreBundle/Resources/config/routing.yml"
     prefix:   /
 
-mh3up_armor:
-    resource: "@mh3upArmorBundle/Resources/config/routing.yml"
+core_menu:
+    resource: "@CoreMenuBundle/Resources/config/routing.yml"
     prefix:   /
 
-mh3up_weapon:
-    resource: "@mh3upWeaponBundle/Resources/config/routing.yml"
+core_user:
+    resource: "@CoreUserBundle/Resources/config/routing.yml"
     prefix:   /
 
-mh3up_item:
-    resource: "@mh3upItemBundle/Resources/config/routing.yml"
+MH3U_combination:
+    resource: "@MH3UCombinationBundle/Resources/config/routing.yml"
     prefix:   /
 
-mh3up_user:
-    resource: "@mh3upUserBundle/Resources/config/routing.yml"
+MH3U_armor:
+    resource: "@MH3UArmorBundle/Resources/config/routing.yml"
     prefix:   /
 
-mh3up_menu:
-    resource: "@mh3upMenuBundle/Resources/config/routing.yml"
+MH3U_weapon:
+    resource: "@MH3UWeaponBundle/Resources/config/routing.yml"
     prefix:   /
 
-mh3up_core:
-    resource: "@mh3upCoreBundle/Resources/config/routing.yml"
+MH3U_item:
+    resource: "@MH3UItemBundle/Resources/config/routing.yml"
     prefix:   /
+
+
 
