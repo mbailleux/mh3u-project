@@ -7,27 +7,37 @@ use Symfony\Component\DependencyInjection\ContainerAware;
 
 class MenuBuilder extends ContainerAware
 {
-    public function navMenu(FactoryInterface $factory, array $options)
+    public function navWithNoUserLoggedMenu(FactoryInterface $factory, array $options)
     {
-        $menu = $factory->createItem('root');
+        $menu = $factory->createItem('navbar');
 
         $menu->setChildrenAttributes(array('class' => 'nav navbar-top-links navbar-right'));
+
+        $menu->addChild('User', array('uri' => '#'));
+        $menu['User']->setAttributes(array('class' => 'dropdown'));
+        $menu['User']->setLinkAttributes(array('class' => 'dropdown-toggle', 'data-toggle' => 'dropdown'));
+        $menu['User']->setChildrenAttributes(array('class' => 'dropdown-menu'));
+
+        $menu['User']->addChild('Login',    array('route' => 'fos_user_security_login'));
+        $menu['User']->addChild('Register', array('route' => 'fos_user_registration_register'));
 
         return $menu;
     }
 
-    public function sideMenu(FactoryInterface $factory, array $options)
+    public function navWithUserLoggedMenu(FactoryInterface $factory, array $options)
     {
-        $menu = $factory->createItem('root');
+        $menu = $factory->createItem('navbar');
 
-        $menu->setChildrenAttributes(array('class' => 'nav'));
+        $menu->setChildrenAttributes(array('class' => 'nav navbar-top-links navbar-right'));
 
-        $menu->addChild('Monsters',     array('route' => 'core_homepage'));
-        $menu->addChild('Items',        array('route' => 'mh3u_items'));
-        $menu->addChild('Combinations', array('route' => 'mh3u_combinations'));
-        $menu->addChild('Weapons',      array('route' => 'core_homepage'));
-        $menu->addChild('Armors',       array('route' => 'core_homepage'));
-        $menu->addChild('Quests',       array('route' => 'core_homepage'));
+        $menu->addChild('User', array('uri' => '#'));
+
+        $menu['User']->setAttributes(array('class' => 'dropdown'));
+        $menu['User']->setLinkAttributes(array('class' => 'dropdown-toggle', 'data-toggle' => 'dropdown'));
+        $menu['User']->setChildrenAttributes(array('class' => 'dropdown-menu'));
+
+        $menu['User']->addChild('Settings', array('route' => 'fos_user_profile_edit'));
+        $menu['User']->addChild('Logout',   array('route' => 'fos_user_security_logout'));
 
         return $menu;
     }

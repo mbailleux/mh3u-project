@@ -1,1 +1,5 @@
-{{ knp_menu_render('CoreMenuBundle:MenuBuilder:navMenu') }}
+{%  if is_granted("IS_AUTHENTICATED_REMEMBERED") %}
+    {{ knp_menu_render('CoreMenuBundle:MenuBuilder:navWithUserLoggedMenu') }}
+{% else %}
+    {{ knp_menu_render('CoreMenuBundle:MenuBuilder:navWithNoUserLoggedMenu') }}
+{% endif %}

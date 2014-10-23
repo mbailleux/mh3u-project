@@ -1,0 +1,11 @@
+{% extends "CoreUserBundle::layout.html.twig" %}
+
+{% trans_default_domain 'CoreUserBundle' %}
+
+{% block fos_user_title %}
+    {{ 'layout.register'|trans }}
+{% endblock fos_user_title %}
+
+{% block fos_user_content %}
+    {% include "CoreUserBundle:Registration:register_content.html.twig" %}
+{% endblock fos_user_content %}

@@ -2,9 +2,9 @@
     <div class="panel panel-default">
         <div class="panel-heading">
             {{ news_content.title }}
-            <div class="pull-right" >
+            <small class="pull-right text-muted">
                 {{ news_content.createdAt | date("d/m/Y H:i") }}
-            </div>
+            </small>
         </div>
         <div class="panel-body">
             <div class="row">

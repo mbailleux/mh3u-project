@@ -6,10 +6,12 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="{{ url('core_homepage') }}">Monster Hunter Helper</a>
+        <a class="navbar-brand" href="{{ url('core_homepage') }}">
+            <img src="{{ asset('bundles/coremenu/images/MH3U-logo.png') }}" class="navbar-logo"/>
+            Monster Hunter Helper
+        </a>
     </div>
+    {% include 'CoreMenuBundle:Menu:navbar.html.twig' %}
 
-    {#{% include 'mh3upMenuBundle:Menu:navbar.html.twig' %}#}
-
-    {% include 'CoreMenuBundle:Menu:sidebar.html.twig' %}
+    {% include 'MH3UMenuBundle:Menu:sidebar.html.twig' %}
 </nav>

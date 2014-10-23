@@ -1,0 +1,11 @@
+{% extends "CoreUserBundle::layout.html.twig" %}
+
+{% trans_default_domain 'CoreUserBundle' %}
+
+{% block fos_user_title %}
+    {{ 'layout.edit'|trans }}
+{% endblock fos_user_title %}
+
+{% block fos_user_content %}
+    {% include "CoreUserBundle:Profile:edit_content.html.twig" %}
+{% endblock fos_user_content %}

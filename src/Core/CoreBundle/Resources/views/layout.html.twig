@@ -8,8 +8,8 @@
         {% block stylesheets %}
             {% stylesheets
                 'css/bootstrap.css'
-                'bundles/mh3upcore/css/*'
-                'bundles/mh3upmenu/css/*'
+                'bundles/corecore/css/*'
+                'bundles/coremenu/css/*'
                 filter='cssrewrite'
             %}
                 <link rel="stylesheet" href="{{ asset_url }}" />
@@ -26,6 +26,9 @@
             {% endblock %}
 
             <div id="page-wrapper">
+                {% block user_container %}
+                {% endblock %}
+
                 {% block main_container %}
                 {% endblock %}
             </div>
@@ -37,7 +40,7 @@
         {% javascripts
             'js/jquery.js'
             'js/bootstrap.js'
-            'bundles/mh3upmenu/js/*'
+            'bundles/coremenu/js/*'
         %}
             <script type="text/javascript" src="{{ asset_url }}"></script>
         {% endjavascripts %}

@@ -22,6 +22,7 @@ class AppKernel extends Kernel
             new Core\CoreBundle\CoreCoreBundle(),
             new Core\MenuBundle\CoreMenuBundle(),
             new Core\UserBundle\CoreUserBundle(),
+            new MH3U\MenuBundle\MH3UMenuBundle(),
             new MH3U\ArmorBundle\MH3UArmorBundle(),
             new MH3U\CombinationBundle\MH3UCombinationBundle(),
             new MH3U\ItemBundle\MH3UItemBundle(),
