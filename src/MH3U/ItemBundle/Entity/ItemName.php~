@@ -1,0 +1,56 @@
+<?php
+
+namespace MH3U\ItemBundle\Entity;
+
+use Doctrine\ORM\Mapping as ORM;
+
+/**
+ * Object
+ *
+ * @ORM\Table(name="mh3u_item_name")
+ * @ORM\Entity()
+ */
+class ItemName
+{
+    /**
+     * @ORM\OneToOne(targetEntity="MH3U\ItemBundle\Entity\Item", cascade={"persist"})
+     * @ORM\Id
+     */
+    private $item_id;
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="en_US", type="string", length=255)
+     */
+    private $en_US;
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="fr_FR", type="string", length=255)
+     */
+    private $fr_FR;
+
+    /**
+     * Set id
+     *
+     * @return Object
+     */
+    public function setId($id)
+    {
+        $this->id = $id;
+
+        return $this;
+    }
+
+    /**
+     * Get id
+     *
+     * @return integer 
+     */
+    public function getId()
+    {
+        return $this->id;
+    }
+}

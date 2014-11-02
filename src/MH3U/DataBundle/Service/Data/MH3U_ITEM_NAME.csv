@@ -1,0 +1,1332 @@
+item_id;en_US;fr_FR
+1;Book of Combos 1;Alchimie, tome 1
+2;Book of Combos 2;Alchimie, tome 2
+3;Book of Combos 3;Alchimie, tome 3
+4;Book of Combos 4;Alchimie, tome 4
+5;Book of Combos 5;Alchimie, tome 5
+6;Organizer Guide;Comment ranger, tome 1
+7;Pack Rat Guide;Comment ranger, tome 2
+8;Potion;Potion
+9;Mega Potion;Méga potion
+10;Nutrients;Nutriments
+11;Mega Nutrients;Méga nutriments
+12;Antidote;Antidote
+13;Immunizer;Immunisateur
+14;Dash Juice;Jus d'énergie
+15;Mega Dash Juice;Méga jus énergie
+16;Demondrug;Potion du démon
+17;Mega Demondrug;Potion du démon +
+18;Might Pill;Philtre du diable
+19;Armorskin;Potion de pierre
+20;Mega Armorskin;Potion de pierre +
+21;Adamant Pill;Philtre de métal
+22;Cool Drink;Breuvage frais
+23;Hot Drink;Breuvage chaud
+24;Cleanser;Nettoyant
+25;Deodorant;Déodorant
+26;Psychoserum;Sérum psy
+27;Herbal Medicine;Phyto médicament
+28;Max Potion;Potion secrète
+29;Ancient Potion;Potion ancestrale
+30;Catalyst;Catalyseur
+31;Energy Drink;Breuvage énergie
+32;Air Philter;Potion d'air
+33;Mega Air Philter;Potion d'air +
+34;Gunpowder;Poudre à canon
+35;Lifecrystals;Cristaux de vie
+36;Lifepowder;Poudre de vie
+37;Dust of Life;Poussière de vie
+38;Tanzia Chips;Snack de Tanzia
+39;Mystery Charm;Charme mystère
+40;Shining Charm;Charme brillant
+41;Timeworn Charm;Charme vétuste
+42;Enduring Charm;Charme immuable
+43;Powercharm;Charme pouvoir
+44;Powertalon;Griffe pouvoir
+45;Armorcharm;Charme armure
+46;Armortalon;Griffe armure
+47;Tranquilizer;Tranquilisant
+48;Raw Meat;Viandre crue
+49;Poisoned Meat;Viande poison
+50;Tinged Meat;Viande teintée
+51;Drugged Meat;Viande droguée
+52;Rare Steak;Steak saignant
+53;Well-done Steak;Steak à point
+54;Burnt Meat;Viande brûlée
+55;Hot Meat;Viande chaude
+56;Chilled Meat;Viande fraîche
+57;Pink Liver;Foie rose
+58;Ethnic Wyvrnmeat;Viand.wyv. ethnq
+59;Rathian Loin;Côtes Rathian
+60;P.Rathian Loin;Côtes Rathian R.
+61;Rathalos Ribs;Côtes Rathalos
+62;Boomerang;Boomerang
+63;Throwing Knife;Cout. de lancer
+64;Poison Knife;Couteau poison
+65;Sleep Knife;Cout. somnifère
+66;Paralysis Knife;Cout. paralysant
+67;Tranq Knife;Cout. tranq.
+68;Bomb Casing;Gaine bombe
+69;Paintball;Marqueur
+70;Flash Bomb;Bombe flash
+71;Sonic Bomb;Bombe sonique
+72;Dung;Bouse
+73;Super-sized Dung;Bouse démesurée
+74;Dung Bomb;Bombe de bouse
+75;Smoke Bomb;Bombe de fumée
+76;Poison Smoke Bmb;Bombe de poison
+77;Farcaster;Transporteur
+78;Tranq Bomb;Bombe tranq
+79;Oxygen Supply;Bonbonne oxygène
+80;Spider Web;Toile d'araignée
+81;Net;Filet
+82;Trap Tool;Pose-piège
+83;Pitfall Trap;Fosse piégée
+84;Shock Trap;Piège à choc
+85;Small Barrel;Petit baril
+86;Large Barrel;Grand baril
+87;Barrel Bomb S;Pt bombe baril
+88;Barrel Bomb S+;Pt bombe baril+
+89;Barrel Bomb L;Gd bombe baril
+90;Barrel Bomb L+;Gd bombe baril+
+91;Bounce Bomb;Bombe rebond
+92;Bounce Bomb+;Bombe rebond+
+93;Felvine Bomb;Bombe Felvine
+94;Huskberry;Baie-coque
+95;Bone Husk S;Pt coque d'os
+96;Bone Husk L;Gd coque d'os
+97;Normal S Lv1;Mn Normale Nv1
+98;Normal S Lv2;Mn Normale Nv2
+99;Normal S Lv3;Mn Normale Nv3
+100;Pierce S Lv1;Mn Perç. Nv1
+101;Pierce S Lv2;Mn Perç. Nv2
+102;Pierce S Lv3;Mn Perç. Nv3
+103;Pellet S Lv1;Mn Plomb Nv1
+104;Pellet S Lv2;Mn Plomb Nv2
+105;Pellet S Lv3;Mn Plomb Nv3
+106;Crag S Lv1;Mn Explos. Nv1
+107;Crag S Lv2;Mn Explos. Nv2
+108;Crag S Lv3;Mn Explos. Nv3
+109;Clust S Lv1;Mn Frag. Nv1
+110;Clust S Lv2;Mn Frag. Nv2
+111;Clust S Lv3;Mn Frag. Nv3
+112;Flaming S;Mn Enflammée
+113;Water S;Mn Eau
+114;Thunder S;Mn Foudre
+115;Freeze S;Mn Gel
+116;Dragon S;Mn Dragon
+117;Poison S Lv1;Mn Poison Nv1
+118;Poison S Lv2;Mn Poison Nv2
+119;Para S Lv1;Mn Para Nv1
+120;Para S Lv2;Mn Para Nv2
+121;Sleep S Lv1;Mn Sommeil Nv1
+122;Sleep S Lv2;Mn Sommeil Nv2
+123;Sub S Lv1;Mn SM Nv1
+124;Sub S Lv2;Mn SM Nv2
+125;Exhaust S Lv1;Mn Épuis. Nv1
+126;Exhaust S Lv2;Mn Épuis. Nv2
+127;Slicing S;Mn Tranchante
+128;WyvernFire;Feu wyvern
+129;Slime S;Mn Poisseuse
+130;UW Ballista Ammo;Mn baliste SM
+131;Recov S Lv1;Mn Guér. Nv1
+132;Recov S Lv2;Mn Guér. Nv2
+133;Demon S;Mn Démon
+134;Armor S;Mn Armure
+135;Paint S;Mn Marqueur
+136;Tranq S;Mn Tranq.
+137;Empty Phial;Fiole vide
+138;Power Coating;Enduit énergie
+139;C.Range Coating;Enduit càc
+140;Poison Coating;Enduit poison
+141;Para Coating;Enduit paralysie
+142;Sleep Coating;Enduit sommeil
+143;Exhaust Coating;Enduit épuis.
+144;Slime Coating;Enduit poisse
+145;Paint Coating;Enduit peinture
+146;Worm;Ver
+147;Mega Fishing Fly;Méga mouche
+148;Frog;Grenouille
+149;Whetfish Bait;App. Poissaiguis
+150;Sushifish Bait;App. Sushipoiss.
+151;Tuna Bait;Appât pour thon
+152;Goldenfish Bait;Appât Poissondor
+153;Burst Bait;Appât explosif
+154;Old Pickaxe;Vieille pioche
+155;Iron Pickaxe;Pioche de fer
+156;Mega Pickaxe;Méga pioche
+157;Old Bug Net;Vieux filinsecte
+158;Bug Net;Filinsecte
+159;Mega Bug Net;Méga filinsecte
+160;Fishing Harpoon;Harpon de pêche
+161;Mega Harpoon;Méga harpon
+162;BBQ Spit;Broche BBQ
+163;Double BBQ Spit;Super broche BBQ
+164;Whetstone;Aiguisoir
+165;Binoculars;Jumelles
+166;Garbage;Déchet
+167;Field Horn;Corne de chasse
+168;Health Horn;Flûte de vie
+169;Antidote Horn;Flûte antidote
+170;Demon Horn;Flûte du démon
+171;Armor Horn;Flûte de pierre
+172;Honey;Miel
+173;Herb;Herbe
+174;Antidote Herb;Herbe antidote
+175;Fire Herb;Herbe de feu
+176;Ivy;Lierre
+177;Sleep Herb;Herbe sommeil
+178;Sap Plant;Plante à sève
+179;Felvine;Felvine
+180;Cactus Flower;Fleur de cactus
+181;Airweed;Herbe d'air
+182;Hot Pepper;Piment fort
+183;Heftcorn;Maïs-maous
+184;Gloamgrass Bud;Fleur crépuscule
+185;Blue Mushroom;Champi bleu
+186;Nitroshroom;Champinitro
+187;Parashroom;Champaralysie
+188;Toadstool;Champi vénéneux
+189;Exciteshroom;Champexciteur
+190;Dragon Toadstool;Champi dragon
+191;Bindshroom;Champimmobile
+192;Paintberry;Baie-peinture
+193;Might Seed;Graine pouvoir
+194;Adamant Seed;Graine armure
+195;Dragonfell Berry;Baie dragon
+196;Scatternut;Frag-noix
+197;Needleberry;Baiguille
+198;Bomberry;Bombaie
+199;Nulberry;Baie-soin
+200;Bumblepumpkin;Potironron
+201;Broken Shell;Carapace cassée
+202;Black Pearl;Perle noire
+203;Jumbo Pearl;Perle Jumbo
+204;Stone;Pierre
+205;Iron Ore;Minerai de fer
+206;Earth Crystal;Cristal de terre
+207;Machalite Ore;Machalite
+208;Pelagicite Ore;Pelagicite
+209;Isisium;Isisium
+210;Lightcrystal;Cristal lumière
+211;Dragonite Ore;Dragonite
+212;Lava Nugget;Pépite-lave
+213;Firestone;Pierre-feu
+214;Carbalite Ore;Carbalite
+215;Bathycite Ore;Bathycite
+216;Fucium Ore;Fucium
+217;Gracium;Gracium
+218;Firecell Stone;Pierre-lave
+219;Antiseptic Stone;Pierre antisept.
+220;Ice Crystal;Cristal glacé
+221;Eltalite Ore;Eltalite
+222;Meldspar Ore;Meldium
+223;Purecrystal;Cristal pur
+224;Allfire Stone;Pierre ardente
+225;Armor Stone;Pierre d'armure
+226;Armor Sphere;Sphère d'armure
+227;Armor Sphere+;Sphère d'armure+
+228;Adv Armor Sphere;Sph. armure avc
+229;Hrd Armor Sphere;Sph. armure dure
+230;Hvy Armor Sphere;Sph. armure lrde
+231;Tru Armor Sphere;Sph. armure pure
+232;Whetfish;Poissaiguiseur
+233;Sushifish;Sushipoisson
+234;Sleepyfish;Somnipoisson
+235;Pin Tuna;Pointhon
+236;Popfish;Poisséclate
+237;Scatterfish;Frag-poisson
+238;Burst Arowana;Arowana éclat
+239;Bomb Arowana;Arowana bombe
+240;Glutton Tuna;Thon glouton
+241;Small Goldenfish;Pt Poissondor
+242;Wanchovy;Wanchois
+243;Blue Cutthroat;Couperet bleu
+244;Humspun Conch;Méloconque
+245;Speartuna;Lancethon
+246;Lrg Lobstershell;Coque-homard lge
+247;Insect Husk;Coque d'insecte
+248;Yambug;Patatinsecte
+249;Bughopper;Insecte sauteur
+250;Stinkhopper;Fétisauteur
+251;Snakebee Larva;Larve-serpent
+252;Godbug;Insecte-dieu
+253;Bitterbug;Amerinsecte
+254;Flashbug;Flashinsecte
+255;Thunderbug;Foudrinsecte
+256;Fulgurbug;Fulgurinsecte
+257;Dracophage Bug;Insecte draco
+258;Carpenterbug;Bâtinsecte
+259;Killer Beetle;Scarabée tueur
+260;Hercudrome;Hercudrome
+261;King Scarab;Roi scarabée
+262;Rare Scarab;Scarabée rare
+263;Flutterfly;Papiluit
+264;Emperor Hopper;Sauteur empereur
+265;Blossom Cricket;Grillon fleuri
+266;Butterfly Beetle;Scara-papillon
+267;Maiden Butterfly;Papillon pucelle
+268;Bomb Sac;Poche bombe
+269;Screamer;Hurleur
+270;Poison Sac;Poche de poison
+271;Toxin Sac;Poche de toxine
+272;Paralysis Sac;Poche paralysie
+273;Omniplegia Sac;Poche omniplégie
+274;Sleep Sac;Poche somnifère
+275;Coma Sac;Poche de coma
+276;Flame Sac;Poche de flamme
+277;Inferno Sac;Poche infernale
+278;Conflagrant Sac;Poche explosive
+279;Aqua Sac;Poche d'eau
+280;Torrent Sac;Poche de torrent
+281;Flood Sac;Poche crue
+282;Thunder Sac;Poche de foudre
+283;Lightning Sac;Poche d'éclair
+284;Frost Sac;Poche de givre
+285;Freezer Sac;Poche de gel
+286;Cryo Sac;Poche cryo
+287;Dash Extract;Extrait sprint
+288;Pale Extract;Extrait pâle
+289;Monster Bone S;Os monstre petit
+290;Monster Bone M;Os monstre moyen
+291;Monster Bone L;Os monstre grand
+292;Mystery Bone;Os mystère
+293;Unknown Skull;Crâne inconnu
+294;Bone;Os
+295;Monster Bone+;Os de monstre+
+296;Monster Keenbone;Acéros monstre
+297;Monster Hardbone;Duros monstre
+298;Monster Slogbone;Robustos monstre
+299;Avian Finebone;Finos aviaire
+300;Avian Stoutbone;Résistos aviaire
+301;Jumbo Bone;Jumbos
+302;Stoutbone;Résistos
+303;Massive Bone;Os massif
+304;Dragonbone Relic;Relique os drag.
+305;Elder Dragonbone;Os dragon ancien
+306;Wyvern Fang;Croc de Wyvern
+307;Wyvern Claw;Griffe de Wyvern
+308;Wyvern Stone;Pierre de Wyvern
+309;Lrg Wyvern Stone;Pierre Wyv. lge
+310;Bird Wyvern Gem;Gem. Wyv.aviaire
+311;Fey Wyvern Gem;Pierre Wyv. pure
+312;ElderDragonBlood;Sang Anc. dragon
+313;Beautiful Scale;Jolie écaille
+314;Shining Starfish;Étoile brillante
+315;Armorfish Morsel;Mrc. Poissarmure
+316;Fine Pelt;Belle peau
+317;Power Paddle;Rame puissante
+318;Curved Fang;Croc courbé
+319;Dragonbone Piece;Morc. os dragon
+320;Abalone Piece;Morc. d'Abalone
+321;Fossil Piece;Morc. de fossile
+322;Stunning Quill;Plume étourdi.
+323;Saturnian;Saturnien
+324;Mystic Narwhal;Narval mystique
+325;Perfect Paddle;Rame parfaite
+326;Moonlight Fang;Croc clair lune
+327;Glittering Scale;Écail. éclatante
+328;Giant Skull;Crâne géant
+329;Atlantis Crab;Crabe d'Atlantis
+330;Queen Needle;Dard reine
+331;Ancient Skin Oil;Huil.peau ancie.
+332;Flamboyant Quill;Plume flamboy.
+333;Eldest Saturnian;Ancien Saturnien
+334;Queen's Spirit;Esprit reine
+335;Vermillion Scale;Écail. vermillon
+336;Sea-King's Scale;Écaille roi mer
+337;Odd Egg;Œuf bizarre
+338;Giant Fossil;Fossil géant
+339;Mooncatcher Fang;Croc lunaire
+340;Glossy Scale;Écaille luisante
+341;Thick Skull;Crâne robuste
+342;Savory Bear Paw;Patte savoureuse
+343;Peco Pipes;Cornemuse Peco
+344;Billowy Mane;Crinière-houle
+345;Volvidon Tongue;Langue Volvidon
+346;Quality Mud Pack;Boue de qualité
+347;Tender Liver;Foie tendre
+348;Supersized Scale;Écaille géante
+349;Prime Plesioth;Plesioth extra
+350;Diablos Heart;Cœur Diablos
+351;Bag of Zs;Poche somnifère
+352;Large Obsidian;Obsidienne large
+353;Duram Truffle;Truffe Duram
+354;Zinogre Head;Tête Zinogre
+355;Nargacuga Eye;Œil Nargacuga
+356;Celestial Scale;Écaille céleste
+357;Alabaster Scale;Écaille albâtre
+358;Worldeater Belly;Ventre glouton
+359;Saturnian Trap;Piège Saturnien
+360;BugMaker! Pro;Pro des insectes
+361;Funky Pheromones;Super phéromones
+362;Shroom Germ;Champigerme
+363;Shroom Germ+;Champigerme +
+364;Bizzy Bees;Abeilles actives
+365;Fish Finder;Trouve-poisson
+366;Treasure Tracker;Marqueur trésor
+367;Spare Spear;Lance de secours
+368;Pittance Fang;Croc de pitance
+369;Fortune Fang;Croc de fortune
+370;Gold Needle;Aiguille d'or
+371;Wyverngold;Or Wyvern
+372;Bulky Pelt;Peau volumineuse
+373;Excellent Fang;Croc précieux
+374;Platinum Needle;Aiguille platine
+375;Goldmine Fang;Croc minedor
+376;Wyverngold Lode;Filon or Wyvern
+377;Pirate Booty;Butin de pirate
+378;Steel Egg;Œuf d'acier
+379;Silver Egg;Œuf d'argent
+380;Golden Egg;Œuf d'or
+381;Small Golden Egg;Petit œuf en or
+382;Bronze Coin;Pièce de bronze
+383;Silver Coin;Pièce d'argent
+384;Gold Coin;Pièce d'or
+385;Kelbi Horn Objet;Obj. corne Kelbi
+386;Twstd Horn Objet;Obj. corn.tordue
+387;MohranFang Objet;Obj. croc Mohran
+388;Poogie;Poogie
+389;Eggie Poogie;Poogie-œuf
+390;Rath Poogie;Poogie-rath
+391;Sandstone Plant;Plante en grès
+392;Marshland Plant;Plante marais
+393;Snowflake Plant;Plante flocon
+394;Prismshroom Lamp;Lampe champrisme
+395;Qurupeco Lamp;Lampe Qurupeco
+396;Sirensea Lamp;Lampe sirène
+397;Oceanic Fountain;Fontaine océan.
+398;Bubbly Fountain;Fontaine pétill.
+399;Magma Fountain;Fontaine magma
+400;Iron Figure;Sculpture en fer
+401;Machalite Figure;Sculp. Machalite
+402;Dragonite Figure;Sculp. Dragonite
+403;Model Sandskiff;Navire des dunes
+404;Model Airship;Dirigeable
+405;Model Poggieship;Zeppelin Poogie
+406;Guildie (Red);Mb guilde (Rg)
+407;Guildie (Green);Mb guilde (Vt)
+408;Guildie (Blue);Mb guilde (Bl)
+409;Port Gal (Red);Poupée (rouge)
+410;Port Gal (Blue);Poupée (bleue)
+411;Port Gal (Green);Poupée (verte)
+412;Port Gal (White);Poupée (blanche)
+413;Great Poogi;Grand Poogi
+414;Incomplete Crown;Couronne incomp.
+415;Crown's Gemstone;Gemme couronne
+416;Dazzling Crown;Couronne éclat.
+417;Crested Crown;Cour. armoiries
+418;Royal Crest;Armoiries royal.
+419;Realmless Crown;Cour. des déchus
+420;Prize Gold Sword;Épée or récomp.
+421;Golden Medallion;Médaillon or
+422;Slickaxe;Pioche lisse
+423;Kelbi Horn;Corne de Kelbi
+424;Blue Kelbi Horn;Corn.Kelbi bleue
+425;Warm Pelt;Peau chaude
+426;High-qualty Pelt;Peau gd qualité
+427;Prized Pelt;Peau prisée
+428;Gargwa Feather;Plume de Gargwa
+429;Anteka Antler;Corne d'Anteka
+430;Bnahabra Shell;Carapa. Bnahabra
+431;Bnaha Carapace;Cuira. Bnahabra
+432;Bnahabra Wing;Aile Bnahabra
+433;Bnahabra Cutwing;Tranch. Bnahabra
+434;Bnahabra Spine;Dard Bnahabra
+435;Altaroth Jaw;Mâch. Altaroth
+436;Altaroth Stomach;Estomac Altaroth
+437;Quality Sac;Poche qualité
+438;Prized Stomach;Estomac prisé
+439;Bullfango Pelt;Peau Bullfango
+440;Bullfango Head;Tête Bullfango
+441;Bullfango Tusk;Déf. Bullfango
+442;Monster Fluid;Fluide monstre
+443;Monster Broth;Brouet monstre
+444;Monster Essence;Essence monstre
+445;Rhenoplos Shell;Carap. Rhenoplos
+446;Rheno Carapace;Cuira. Rhenoplos
+447;Rhenoplos Scalp;Scalp Rhenoplos
+448;Rhenoplos Bone;Os Rhenoplos
+449;Slagtoth Hide+;Cuir Slagtoth+
+450;Big Fin;Grande nageoire
+451;Quality Fin;Nageoire qualité
+452;Giant Fin;Nageoire géante
+453;Sharpened Fang;Croc aiguisé
+454;Velvety Hide;Cuir feutré
+455;Sharqskin;Peau requin
+456;Jaggi Scale;Écaille Jaggi
+457;Jaggi Scale+;Écaille Jaggi+
+458;Jaggi Hide;Cuir Jaggi
+459;Bird Wyvern Fang;Croc wyv.aviaire
+460;G.Jaggi Hide;Cuir gd. Jaggi
+461;G.Jaggi Hide+;Cuir gd. Jaggi+
+462;Great Jaggi Piel;Pelage gd. Jaggi
+463;G.Jaggi Claw;Griffe gd. Jaggi
+464;G.Jaggi Claw+;Griffe gd.Jaggi+
+465;King's Frill;Collerette roi
+466;Imperial Frill;Collerette impé.
+467;Great Jaggi Head;Tête gd. Jaggi
+468;Baggi Hide;Cuir Baggi
+469;Baggi Scale;Écaille Baggi
+470;Baggi Scale+;Écaille Baggi+
+471;G.Baggi Hide;Cuir gd. Baggi
+472;G.Baggi Hide+;Cuir gd. Baggi+
+473;Great Baggi Piel;Pelage gd. Baggi
+474;G.Baggi Claw;Griffe gd. Baggi
+475;G.Baggi Claw+;Griffe gd.Baggi+
+476;King's Crest;Crête roi
+477;Imperial Crest;Crête impériale
+478;Wroggi Scale;Écaille Wroggi
+479;Wroggi Scale+;Écaille Wroggi+
+480;Wroggi Hide;Cuir Wroggi
+481;Wroggi Fang;Croc Wroggi
+482;G.Wroggi Hide;Cuir gd. Wroggi
+483;G.Wroggi Hide+;Cuir gd. Wroggi+
+484;G.Wroggi Piel;Pelage gd.Wroggi
+485;G.Wroggi Brace;Att. gd. Wroggi
+486;G.Wroggi Brace+;Att. gd. Wroggi+
+487;King's Beak;Bec roi
+488;Imperial Beak;Bec impérial
+489;Arzuros Pelt;Peau Arzuros
+490;Arzuros Pelt+;Peau Arzuros+
+491;Arzuros Shell;Carapace Arzuros
+492;Arzuros Carapace;Cuirasse Arzuros
+493;Arzuros Cortex;Cortex Arzuros
+494;Arzuros Brace;Attelle Arzuros
+495;Arzuros Brace+;Attelle Arzuros+
+496;Arzuros Allbrace;Suratt. Arzuros
+497;Crushing Fang;Croc broyeur
+498;Lagombi Pelt;Peau Lagombi
+499;Lagombi Pelt+;Peau Labombi+
+500;Lagombi Fur;Four. Lagombi
+501;Lagombi Ear;Oreille Lagombi
+502;Lagombi Ear+;Oreille Lagombi+
+503;Lagombi Auricle;Oreillette Lago.
+504;Lagom Plastron;Plastron Lagombi
+505;Lagom Plastron+;Plast. Lagombi+
+506;Lagombi Claw;Griffe Lagombi
+507;Lagombi Claw+;Griffe Lagombi+
+508;Volvidon Shell;Carap. Volvidon
+509;Volvi Carapace;Cuiras. Volvidon
+510;Volvidon Cortex;Cortex Volvidon
+511;Volvidon Claw;Griffe Volvidon
+512;Volvidon Claw+;Griffe Volvidon+
+513;Volvidon Talon;Serre Volvidon
+514;Volvi Rickrack;Feston Volvidon
+515;Qurupeco Scale;Écail. Qurupeco
+516;Qurupeco Scale+;Écail. Qurupeco+
+517;Qurupeco Shard;Éclat Qurupeco
+518;Qurupeco Feather;Plume Qurupeco
+519;Qurupeco Wing;Aile Qurupeco
+520;Peco Fellwing;Rigipl. Qurupeco
+521;Vivid Feather;Plume vive
+522;Lustrous Feather;Plume lustrée
+523;Strange Beak;Bec étrange
+524;Wonderful Beak;Bec merveilleux
+525;Alluring Beak;Bec élégant
+526;Flintstone;Silex
+527;Quality Flint;Silex de qualité
+528;C.Peco Scale+;Écail. Peco V.+
+529;C.Peco Shard;Éclat Peco V.
+530;C.Peco Wing;Aile Qurupeco V.
+531;C.Peco Fellwing;Rigipl. Peco V.
+532;Voltstone;Pierre-volt
+533;High Voltstone;Mega pierre-volt
+534;Hydro Hide;Cuir aquatique
+535;Hydro Hide+;Cuir aquatique+
+536;Immature Sponge;Éponge immature
+537;Quality Sponge;Éponge qualité
+538;Spongy Hide;Cuir spongieux
+539;Spongy Hide+;Cuir spongieux+
+540;Spongy Piel;Pelage spong.
+541;R.Ludroth Scale;Écail.Ludroth R.
+542;R.Ludroth Scale+;Écai.Ludroth R.+
+543;R.Ludroth Shard;Éclat Ludroth R.
+544;R.Ludroth Claw;Grif.Ludroth R.
+545;R.Ludroth Claw+;Grif.Ludroth R.+
+546;R.Ludroth Talon;Serre Ludroth R.
+547;R.Ludroth Crest;Crête Ludroth R.
+548;R.Ludroth Crest+;Crt Ludroth R.+
+549;Chic Crest;Crête chic
+550;R.Ludroth Tail;Queue Ludroth R.
+551;R.Ludroth Lash;Fouet Ludroth R.
+552;Plum Spongy Hide;Cuir spon. prune
+553;Plum Spongy Piel;Pel. spon. prune
+554;P.Ludroth Scale+;Éca. Ludroth P.+
+555;P.Ludroth Shard;Éclat Ludroth P.
+556;P.Ludroth Claw+;Gri. Ludroth P.+
+557;P.Ludroth Talon;Serre Ludroth P.
+558;Barroth Shell;Carapace Barroth
+559;Barroth Carapace;Cuirasse Barroth
+560;Barroth Cortex;Cortex Barroth
+561;Barroth Ridge;Vertèbre Barroth
+562;Barroth Ridge+;Vert. Barroth+
+563;Barroth Chine;Échine Barroth
+564;Barroth Claw;Griffe Barroth
+565;Barroth Claw+;Griffe Barroth+
+566;Barroth Talon;Serre Barroth
+567;Barroth Scalp;Scalp Barroth
+568;Barroth Crown;Couronne Barroth
+569;Barroth Tail;Queue Barroth
+570;Barroth Lash;Fouet Barroth
+571;Fertile Mud;Boue fertile
+572;J.Barr Carapace;Cuir. Barroth J.
+573;J.Barroth Cortex;Cort. Barroth J.
+574;J.Barroth Ridge+;Ver. Barroth J.+
+575;J.Barroth Chine;Éch. Barroth J.
+576;J.Barroth Claw+;Gri. Barroth J.+
+577;J.Barroth Talon;Ser. Barroth J.
+578;J.Barroth Scalp;Sca. Barroth J.
+579;J.Barroth Crown;Cour. Barroth J.
+580;J.Barroth Tail;Queue Barroth J.
+581;J.Barroth Lash;Fouet Barroth J.
+582;Frozen Glob;Globe gelé
+583;Gobul Hide;Cuir Gobul
+584;Gobul Hide+;Cuir Gobul+
+585;Gobul Piel;Pelage Gobul
+586;Gobul Fin;Nageoire Gobul
+587;Gobul Fin+;Nageoire Gobul+
+588;Fine Gobul Fin;Nag. raff. Gobul
+589;Gobul Spike;Pointe Gobul
+590;Gobul Spike+;Pointe Gobul+
+591;Gobul Surspike;Surpointe Gobul
+592;Gobul Whisker;Moustache Gobul
+593;Gobul Kingwhiskr;Bacchante Gobul
+594;Gobul Lantern;Lanterne Gobul
+595;Gobul Lantern+;Lanterne Gobul+
+596;Gobul Beacon;Balise Gobul
+597;Rathian Scale;Écaille Rathian
+598;Rathian Scale+;Écaille Rathian+
+599;Rathian Shard;Éclat Rathian
+600;Rathian Shell;Carapace Rathian
+601;Rathian Carapace;Cuirasse Rathian
+602;Rathian Cortex;Cortex Rathian
+603;Rathian Webbing;Palmure Rathian
+604;Rathian Spike;Pointe Rathian
+605;Rathian Spike+;Pointe Rathian+
+606;Rathian Surspike;Surpoin. Rathian
+607;Rathian Plate;Plaque Rathian
+608;Rathian Ruby;Rubis Rathian
+609;Rathian Mantle;Mante Rathian
+610;P.Rathian Scale+;Éca. Rathian R.+
+611;P.Rathian Shard;Écl. Rathian R.
+612;P.Rath Carapace;Cuir. Rathian R.
+613;P.Rathian Cortex;Cort. Rathian R.
+614;G.Rathian Shard;Écl. Rathian D.
+615;G.Rathian Cortex;Cort. Rathian D.
+616;G.Rath Surspike;Surp. Rathian D.
+617;Rathalos Scale;Écaille Rathalos
+618;Rathalos Scale+;Écail. Rathalos+
+619;Rathalos Shard;Éclat Rathalos
+620;Rathalos Shell;Carapa. Rathalos
+621;Rathlos Carapace;Cuiras. Rathalos
+622;Rathalos Cortex;Cortex Rathalos
+623;Rathalos Webbing;Palmure Rathalos
+624;Rathalos Wing;Aile Rathalos
+625;Rathlos Fellwing;Rigipl. Rathalos
+626;Rathalos Tail;Queue Rathalos
+627;Rathalos Lash;Fouet Rathalos
+628;Rathalos Plate;Plaque Rathalos
+629;Rathalos Ruby;Rubis Rathalos
+630;Rathalos Mantle;Mante Rathalos
+631;Rath Talon;Griffe Rath
+632;Rath Ripper;Déchireur Rath
+633;Rath Marrow;Moelle Rath
+634;Rath Medulla;Medulla Rath
+635;Rath Gleem;Lueur Rath
+636;A.Rath Scale+;Éca. Rath A.+
+637;A.Rathalos Shard;Éclat Rath A.
+638;A.Rath Carapace;Cuir. Rath A.
+639;A.Rath Cortex;Cortex Rath A.
+640;A.Rathalos Tail;Queue Rath A.
+641;A.Rathalos Lash;Fouet Rath A.
+642;A.Rathalos Wing;Aile Rath. A.
+643;S.Rathalos Shard;Éclat Rath Ar.
+644;S.Rath Cortex;Cortex Rath Ar.
+645;S.Rathalos Lash;Fouet Rath Ar.
+646;Gigginox Hide;Cuir Gigginox
+647;Gigginox Hide+;Cuir Gigginox+
+648;Gigginox Piel;Pelage Gigginox
+649;Uncanny Hide;Cuir étrange
+650;Uncanny Hide+;Cuir étrange+
+651;Revolting Piel;Pelage infect
+652;Gigginox Claw;Griffe Gigginox
+653;Gigginox Claw+;Griffe Gigginox+
+654;Gigginox Talon;Serre Gigginox
+655;Fearsome Maw;Gueule terrif.
+656;Nightmarish Maw;Gueule cauchemar
+657;Venom Gland;Glande venin
+658;Grim Venom Gland;G. venin infâme
+659;Foul Venom Gland;G. venin putride
+660;B.Giggi Hide+;Cuir Giggi F.+
+661;B.Giggi Piel;Pelage Giggi F.
+662;B.Giggi Claw+;Griffe Giggi F.+
+663;B.Giggi Talon;Serre Giggi F.
+664;Lagiacrus Scale;Écail. Lagiacrus
+665;Lagiacrus Scale+;Écail.Lagiacrus+
+666;Lagiacrus Shard;Éclat Lagiacrus
+667;Shell Shocker;Électricarapace
+668;Shell Shocker+;Électricarapace+
+669;Deathly Shocker;Électrichoc
+670;Lagiacrus Hide;Cuir Lagiacrus
+671;Lagiacrus Hide+;Cuir Lagiacrus+
+672;Lagiacrus Piel;Pelage Lagiacrus
+673;Lagiacrus Claw;Griffe Lagiacrus
+674;Lagiacrus Claw+;Grif. Lagiacrus+
+675;Lagiacrus Talon;Serre Lagiacrus
+676;Lagiacrus Tail;Queue Lagiacrus
+677;Lagiacrus Flail;Traîne Lagiacrus
+678;Lagiacrus Horn;Corne Lagiacrus
+679;Lagiacrus Horn+;Corne Lagiacrus+
+680;Lagia Hardhorn;Durcorne Lagia
+681;Lagiacrus Plate;Plaque Lagiacrus
+682;Lagia Sapphire;Saphir Lagia
+683;Lagiacrus Mantle;Mante Lagiacrus
+684;I.Lagi Scale+;Écaille Lagi I.+
+685;I.Lagi Shard;Éclat Lagi I.
+686;I.Lagi Shocker+;Électro Lagi I.+
+687;I.Lagi D-Shocker;Électric Lagi I.
+688;I.Lagi Hide+;Cuir Lagi I.+
+689;I.Lagi Piel;Pelage Lagi I.
+690;I.Lagi Horn+;Corne Lagi I.+
+691;I.Lagi Hardhorn;Durcorne Lagi I.
+692;A.Lagi Shard;Éclat Lagi A.
+693;A.Lagi D-Shocker;Électric Lagi A.
+694;A.Lagi Piel;Pelage Lagi A.
+695;A.Lagi Hardhorn;Durcorne Lagi A.
+696;A.Lagi Dynamo;Dynamo Lagi A.
+697;Barioth Shell;Carapace Barioth
+698;Barioth Carapace;Cuirasse Barioth
+699;Barioth Cortex;Cortex Barioth
+700;Barioth Pelt;Peau Barioth
+701;Barioth Pelt+;Peau Barioth+
+702;Barioth Fur;Fourrure Barioth
+703;Barioth Claw;Griffe Barioth
+704;Barioth Claw+;Griffe Barioth+
+705;Barioth Talon;Serre Barioth
+706;Barioth Spike;Pointe Barioth
+707;Barioth Tail;Queue Barioth
+708;Barioth Lash;Fouet Barioth
+709;Amber Tusks;Défenses ambre
+710;Amber Tusks+;Défenses ambre+
+711;Hvy Amber Tusks;Déf. ambre ldes
+712;S.Bari Carapace;Cuir. Barioth S.
+713;S.Barioth Cortex;Cort. Barioth S.
+714;S.Barioth Pelt+;Peau Barioth S.+
+715;S.Barioth Fur;Four. Barioth S.
+716;S.Barioth Claw+;Gri. Barioth S.+
+717;S.Barioth Talon;Ser. Barioth S.
+718;S.Barioth Tail;Queue Barioth S.
+719;S.Barioth Lash;Fouet Barioth S.
+720;Indigo Tusks+;Défenses indigo+
+721;Hvy Indigo Tusks;Déf. indigo ldes
+722;Rugged Pleura;Plèvre coriace
+723;Rugged Pleura+;Plèvre coriace+
+724;Diablos Shell;Carapace Diablos
+725;Diablos Carapace;Cuirasse Diablos
+726;Diablos Cortex;Cortex Diablos
+727;Diablos Ridge;Vertèbre Diablos
+728;Diablos Ridge+;Vert. Diablos+
+729;Diablos Chine;Échine Diablos
+730;Diablos Tailcase;Étui queue Diab.
+731;Diablos Hardtail;Durqueue Diablos
+732;Diablos Fang;Croc Diablos
+733;Twisted Horn;Corne tordue
+734;Majestic Horn;Corne grandiose
+735;Stout Horn;Corne épaisse
+736;Diablos Hardhorn;Durcorne Diablos
+737;Diablos Marrow;Moelle Diablos
+738;Diablos Medulla;Medulla Diablos
+739;B.Diab Carapace;Cuir. Diablos N.
+740;B.Diablos Cortex;Cort. Diablos N.
+741;B.Diablos Ridge+;Ver. Diablos N.+
+742;B.Diablos Chine;Éch. Diablos N.
+743;Blackcurl Horn;Corne torsadée
+744;Blackcurl Horn+;Corne torsadée+
+745;Uragaan Scale;Écaille Uragaan
+746;Uragaan Scale+;Écaille Uragaan+
+747;Uragaan Shard;Éclat Uragaan
+748;Uragaan Shell;Carapace Uragaan
+749;Uragaan Carapace;Cuirasse Uragaan
+750;Uragaan Cortex;Cortex Uragaan
+751;Uragaan Jaw;Mâchoire Uragaan
+752;Uragaan Jaw+;Mâch. Uragaan+
+753;Uragaan Scute;Scutum Uragaan
+754;Uragaan Scute+;Scutum Uragaan+
+755;Uragaan Marrow;Moelle Uragaan
+756;Uragaan Ruby;Rubis Uragaan
+757;Uragaan Pallium;Pallium Uragaan
+758;S.Uragaan Scale+;Éca. Uragaan A.+
+759;S.Uragaan Shard;Écl. Uragaan A.+
+760;S.Urag Carapace;Cuir. Uragaan A.
+761;S.Uragaan Cortex;Cor. Uragaan. A.
+762;S.Uragaan Maw;Mâc. Uragaan A.
+763;S.Uragaan Jaw+;Mâc. Uragaan A.+
+764;S.Uragaan Scute;Scu. Uragaan A.
+765;S.Uragaan Scute+;Scu. Uragaan A.+
+766;Uroktor Scale;Écaille Uroktor
+767;Uroktor Scale+;Écaille Uroktor+
+768;Supple Piel;Pelage souple
+769;Agnaktor Scale;Écaille Agnaktor
+770;Agnaktor Shell;Carapa. Agnaktor
+771;Agnak Carapace;Cuiras. Agnaktor
+772;Agnaktor Cortex;Cortex Agnaktor
+773;Agnaktor Hide;Cuir Agnaktor
+774;Agnaktor Hide+;Cuir Agnaktor+
+775;Agnaktor Piel;Pelage Agnaktor
+776;Agnaktor Claw;Griffe Agnaktor
+777;Agnaktor Claw+;Griffe Agnaktor+
+778;Agnaktor Talon;Serre Agnaktor
+779;Agnaktor Fin;Nageoi. Agnaktor
+780;Agnaktor Fin+;Nageo. Agnaktor+
+781;Fine Agnak Fin;Nag. raff. Agnak
+782;Agnaktor Beak;Bec Agnaktor
+783;Agnaktor Tail;Queue Agnaktor
+784;Scalding Pleura;Plèvre brûlante
+785;Scalding Pleura+;Plèvre brûlante+
+786;Scorching Pleura;Plèvre torride
+787;G.Agnak Carapace;Cuir. Agnak G.
+788;G.Agnak Cortex;Cortex Agnak G.
+789;G.Agnak Hide+;Cuir Agnak G.+
+790;G.Agnak Piel;Pelage Agnak G.
+791;G.Agnak Claw+;Griffe Agnak G.+
+792;G.Agnak Talon;Serre Agnak G.
+793;G.Agnak Fin+;Nag. Agnak G.
+794;Fine G.Agnak Fin;N. raf. Agnak G.
+795;G.Agnak Beak;Bec Agnaktor G.
+796;G.Agnak Tail;Queue Agnak G.
+797;Dewy Pleura+;Plèvre humide+
+798;Drenched Pleura;Plèvre trempée
+799;Ceadeus Scale;Écaille Ceadeus
+800;Ceadeus Hide;Cuir Ceadeus
+801;Ceadeus Fur;Fourrure Ceadeus
+802;Ceadeus Tail;Queue Ceadeus
+803;Crooked Horn;Corne courbée
+804;Luminous Organ;Organe lumineux
+805;Deep Dragongem;Gem.dragon prof.
+806;G.Ceadeus Shard;Éclat Ceadeus B.
+807;G.Ceadeus Coat;Pela. Ceadeus B.
+808;G.Ceadeus Fur;Four. Ceadeus B.
+809;Crooked Hardhorn;Durcorne courbée
+810;Dark Dragongem;Gem.dragon noire
+811;Nibelsnarf Shell;Cara. Nibelsnarf
+812;Nibel Carapace;Cuir. Nibelsnarf
+813;Nibel Cortex;Cortex Nibel
+814;Nibelsnarf Hide;Peau Nibelsnarf
+815;Nibelsnarf Hide+;Peau Nibelsnarf+
+816;Nibelsnarf Piel;Pela. Nibelsnarf
+817;Nibelsnarf Claw;Gri. Nibelsnarf
+818;Nibelsnarf Claw+;Gri. Nibelsnarf+
+819;Nibelsnarf Talon;Serre Nibelsnarf
+820;Nibelsnarf Scalp;Scalp Nibelsnarf
+821;Vivid Fluid;Fluide vif
+822;Brilliant Fluid;Fluide brillant
+823;Dazzling Fluid;Fluide éclatant
+824;Mohran Scale+;Écaille Mohran+
+825;Mohran Shard;Éclat Mohran
+826;Mohran Carapace;Cuirasse Mohran
+827;Mohran Rockskin;Cuiroc Mohran
+828;Mohran Brace+;Attelle Mohran+
+829;Mohran Allbrace;Suratt. Mohran
+830;Sturdy Fang+;Croc solide+
+831;Earth Dragongem;Gem.dragon terre
+832;Earth Drgnsphire;Sph. drag. terre
+833;H.Jhen Shard;Éclat Jhen S.
+834;H.Jhen Rockskin;Cuiroc Jhen S.
+835;H.Jhen Allbrace;Suratt. Jhen. S.
+836;Deific Fang;Croc divin
+837;Ghostly Quartz;Quartz fantôme
+838;Brach Carapace;Cuir. Brachydios
+839;Brach Cortex;Cort. Brachydios
+840;Brach Ebonshell;Coquébène Brach
+841;Brach Ebonshell+;Coquébène Brach+
+842;Brach Scalp;Scalp Brachydios
+843;Brach Scalp+;Scalp Brach+
+844;Mystery Slime;Poisse étrange
+845;Glowing Slime;Poisse luisante
+846;Brach Pounder;Poudre Brach
+847;Brach Pounder+;Poudre Brach+
+848;Brachydios Tail;Queue Brachydios
+849;Brachydios Gem;Gemme Brachydios
+850;Brach Pallium;Pallium Brach
+851;Plesioth Fang+;Croc Plesioth+
+852;Hvy Plesio Fang;Croc Plesio lrd
+853;Plesioth Scale+;Écai. Plesioth+
+854;Plesioth Shard;Éclat Plesioth
+855;Plesioth Fin+;Nag. Plesioth+
+856;Fine Plesio Fin;N. raf. Plesioth
+857;Plesioth Webbing;Palmure Plesioth
+858;Hrd Ples Webbing;Pal. Plesio dure
+859;Plesioth Head;Tête Plesioth
+860;Uber Plesio Head;Super tête Ples
+861;G.Plesio Shard;Écl. Plesioth V.
+862;Fine G.Plesi Fin;N. raf. Plesi V.
+863;Duramboros Shell;Cara. Duramboros
+864;Duram Carapace;Cuir. Duramboros
+865;Duram Cortex;Cort. Duramboros
+866;Duram Mossplate;Mous. Duramboros
+867;Hard Mossplate;Mousse robuste
+868;Heavy Mossplate;Mousse lourde
+869;Duramboros Hump;Bosse Duramboros
+870;Marbled Hump;Bosse marbrée
+871;Duram Tailcase;Étui queue Duram
+872;Duram Tailcase+;Ét. queue Duram+
+873;Duram Hardtail;Durqueue Duram
+874;Duramboros Horn;Corne Duramboros
+875;Duramboros Horn+;Corne Duram+
+876;Duram Hardhorn;Durcorne Duram
+877;Duram Tailbone;Coccyx Duram
+878;Duram Sacrum;Sacrum Duram
+879;Durambolite;Durambolite
+880;R.Duram Shell;Carapa. Duram R.
+881;R.Duram Plate;Plaque Duram R.
+882;R.Duram Hardtail;Durq. Duram R.
+883;Zinogre Carapace;Cuirasse Zinogre
+884;Zinogre Cortex;Cortex Zinogre
+885;Zin Electrofur;Électrif. Zino
+886;Zin Electrofur+;Électrif. Zino+
+887;Zinogre Horn+;Corne Zinogre+
+888;Zinogre Hardhorn;Durcorne Zinogre
+889;Zinogre Claw+;Griffe Zinogre+
+890;Zinogre Talon;Serre Zinogre
+891;Zinogre Tail;Queue Zinogre
+892;Zinogre Lash;Fouet Zinogre
+893;Zinogre Shocker+;Électro Zinogre+
+894;Zin D-Shocker;Électric Zinogre
+895;Zinogre Jasper;Jaspe Zinogre
+896;Zin Skymerald;Célémeraude Zin
+897;S.Zin Cortex;Cort. Zinogre S.
+898;S.Zin Dragonhair;Dracopeau Zin S.
+899;S.Zin Hardhorn;Durc. Zinogre S.
+900;S.Zinogre Talon;Serre Zinogre S.
+901;S.Zinogre Lash;Fouet Zinogre S.
+902;S.Zin Dragnshell;Coque Zinogre S.
+903;S.Zin Skymerald;Célé. Zinogre S.
+904;Nargacuga Scale+;Écai. Nargacuga+
+905;Nargacuga Shard;Éclat Nargacuga
+906;Nargacuga Pelt+;Peau Nargacuga+
+907;Nargacuga Fur;Four. Nargacuga
+908;Nargacuga Tail;Queue Nargacuga
+909;Nargacuga Lash;Fouet Nargacuga
+910;Narga Tailspike;Piqueue Narga
+911;Narga Tailspear;Poinqueue Narga
+912;Narga Razor;Rasoir Narga
+913;Narga Razor+;Rasoir Narga+
+914;Nargacuga Fang+;Croc Nargacuga+
+915;Hvy Narga Fang;Croc Narga lrd
+916;Narga Medulla;Medulla Narga
+917;Nargacuga Mantle;Mante Nargacuga
+918;G.Narga Shard;Éclat Narga V.
+919;G.Narga Dapples;Taches Narga V.
+920;G.Narga Razor+;Rasoir Narga V.+
+921;Hvy G.Narga Fang;Croc Narg V. lrd
+922;G.Narg Tailspear;Poinq. Narga V.
+923;L.Narga Shard;Éclat Narga S.
+924;L.Narga Dapples;Taches Narga S.
+925;L.Narga Razor;Rasoir Narga S.
+926;Hvy L.Narga Fang;Croc Narg S. lrd
+927;L.Narg Tailspear;Poinq. Narga S.
+928;Cloudy Moonshard;Éclalune trouble
+929;Deviljho Scale;Écaille Deviljho
+930;Deviljho Shard;Éclat Deviljho
+931;Deviljho Hide;Cuir Deviljho
+932;Deviljho Coat;Pelage Deviljho
+933;Deviljho Fang;Croc Deviljho
+934;Vile Fang;Croc vile
+935;Deviljho Talon;Griffe Deviljho
+936;Deviljho Ripper;Déchir. Deviljho
+937;Deviljho Scalp;Scalp Deviljho
+938;Deviljho Tail;Queue Deviljho
+939;Deviljho Flail;Traîne Deviljho
+940;Deviljho Saliva;Salive Deviljho
+941;Black Blood;Sang noir
+942;Deviljho Gem;Gemme Deviljho
+943;Deviljho Crook;Crochet Deviljho
+944;Alatreon Scute;Scutum Alatreon
+945;Alatreon Pallium;Pallium Alatreon
+946;Alatreon Plate;Plaque Alatreon
+947;Alatreon Mantle;Mante Alatreon
+948;Alatreon Talon;Griffe Alatreon
+949;Alatreon Ripper;Déchir. Alatreon
+950;Alatreon Webbing;Palmure Alatreon
+951;Alatreo Direwing;Vilaile Alatreon
+952;Alatreon Tail;Queue Alatreon
+953;Alatreo Diretail;Vileq. Alatreon
+954;Brkn Skypiercer;Perce-ciel brisé
+955;Skypiercer;Perce-ciel
+956;Skyswayer;Règne-ciel
+957;Azure Dragongem;Gem.dragon azur
+958;Azure Drgnsphire;Sph. dragon azur
+959;Miralis Scale;Écaille Miralis
+960;Miralis Fireback;Coque-f. Miralis
+961;Miralis Fireclaw;Griffeu Miralis
+962;Miralis Evil Eye;Malœil Miralis
+963;Miralis Hellwing;Ailenfer Miralis
+964;Miralis Smelter;Fonderie Miralis
+965;Immortal Heart;Cœur immortel
+966;Gushing Magma;Magma explosif
+967;Dire Dragongem;Gem.dragon Miral
+968;Rustshard;Rouille-éclat
+969;Ancient Shard;Ancien éclat
+970;Rusted Fragment;Fragment rouillé
+971;Large Fragment;Large fragment
+972;Slender Fragment;Fragment effilé
+973;Long Fragment;Long fragment
+974;Map;Carte
+975;First-aid Med;Premiers soins
+976;Ration;Ration
+977;Mini Whetstone;Mini aiguisoir
+978;EZ Shock Trap;Piège choc port.
+979;EZ Flash Bomb;Flash bmb four.
+980;EZ Sonic Bomb;Bombe son. four.
+981;EZ Max Potion;Potion max four.
+982;EZ Pitfall Trap;Fosse pié. four.
+983;Mini Oxy Supply;Mini bonb. oxy.
+984;EZ Barrel Bomb L;Gd bmb brl four.
+985;Ballista Ammo;Mn Baliste
+986;Ballista Binder;Baliste agglom.
+987;Cannon Ammo;Mn Canon
+988;Anti-dragon Bomb;Bombe antidragon
+989;Torch;Torche
+990;Paw Pass Ticket;Ticket Passechat
+991;Royal Honey;Miel royal
+992;Unique Mushroom;Champi spécial
+993;Choice Mushroom;Champi parfait
+994;Ripened Mushroom;Champi unique
+995;Great Shroom;Grand champi
+996;Super Sprout;Super pousse
+997;Goldenfish;Poissondor
+998;Silverfish;Poissondargent
+999;Royal Rhino;Rhino royal
+1000;Divine Rhino;Rhino divin
+1001;Silver Cricket;Grillon argenté
+1002;Gold Cricket;Grillon doré
+1003;Auristone Piece;Morc. auripierre
+1004;Auristone Chunk;Frag. auripierre
+1005;Balmstone Piece;Mor. odoripierre
+1006;Balmstone Chunk;Fra. odoripierre
+1007;Crystal Bone;Os cristal
+1008;Golden Bone;Os en or
+1009;Bloodstone;Pierre-sang
+1010;Deep Bloodstone;Pierre-sg grenat
+1011;Coal;Charbon
+1012;Volatile Coal;Charbon volatil
+1013;Wyvern Egg;Œuf de Wyvern
+1014;Herbivore Egg;Œuf d'herbivore
+1015;Gargwa Egg;Œuf de Gargwa
+1016;Gold Gargwa Egg;Œuf en or Gargwa
+1017;Powderstone;Pierre-poudre
+1018;Gargwa Guano;Guano de Gargwa
+1019;White Liver;Foie blanc
+1020;Slagtoth Oil;Huile Slagtoth
+1021;Popo Tongue;Langue de Popo
+1022;Secret Stash;Poche secrète
+1023;Round Acorn;Gland rond
+1024;Clean Pouch;Estomac raffiné
+1025;Sparkling Pouch;Estomac lumineux
+1026;Giggi Extract;Extrait Giggi
+1027;Monster Guts;Boyaux monstre
+1028;Red Coral Stone;Corail rouge
+1029;Wyvern Tear;Larmes de Wyvern
+1030;Lrg Wyvern Tear;Larmes Wyv. lges
+1031;Beast Tear;Larmes de bête
+1032;Lrg Beast Tear;Larmes bête lges
+1033;Bird Coin;Pièce aviaire
+1034;Leviathan Coin;Pièce Leviathan
+1035;Pinnacle Coin;Pièce apogée
+1036;Hunter King Coin;Pièce roi chass.
+1037;Beast Coin;Pièce bêtes
+1038;Flying Coin;Pièce volants
+1039;Piscine Coin;Pièce nageurs
+1040;Brute Coin;Pièce brutaux
+1041;Voucher;Coupon
+1042;Gourmet Voucher;Coupon gourmet
+1043;Sharq Ticket;Ticket Requin
+1044;Thunderclap Diploma;Diplôme Thunderclap
+1045;(JP only) Pirate J Ticket;(JP only) Pirate J Ticket
+1046;(JP only) Armament Invitation;(JP only) Armament Invitation
+1047;Shadowed Edge;Lame sombre
+1048;Medal Voucher L;Coupon-médaille L
+1049;Lion's Claw;Griffe de lion
+1050;Exquisite Meat;Viande exquise
+1051;(JP only) Swordmaster's Scroll;(JP only) Swordmaster's Scroll
+1052;Top Secret Formula;Formule top secrète
+1053;Flashbolt Diploma;Diplôme Flashbolt
+1054;(JP only) The King's Proof;(JP only) The King's Proof
+1055;Captain's IOU;Gratitude capitaine
+1056;Hades's Skull;Crâne de Hadès
+1057;(JP only) Legend J Ticket;(JP only) Legend J Ticket
+1058;Crown of Glory;Couronne de gloire
+1059;(JP only) Studio Pass;(JP only) Studio Pass
+1060;(JP only) Studio Pass G;(JP only) Studio Pass G
+1061;Medal Voucher G;Coupon-médaille G
+1062;Far East Sword;Épée de l'est
+1063;(JP only) Training Corps Pass;(JP only) Training Corps Pass
+1064;(JP only) Soul of Sgt. Frog;(JP only) Soul of Sgt. Frog
+1065;Miniature Ticket;Ticket miniature
+1066;Fierce Soul;Âme brutale
+1067;Sparkly Fragment;Fragment étincelant
+1068;Commendation;Récompense
+1069;Conqueror's Seal;Sceau conquérant
+1070;Pawprint Stamp;Pattes-de-chat
+1071;VE Ticket;Ticket AL
+1072;VE Deluxe Ticket;Ticket luxe AL
+1073;VE Bronze Ticket;Ticket bronze AL
+1074;VE Silver Ticket;Ticket argent AL
+1075;VE Golden Ticket;Ticket or AL
+1076;VE Cosmic Ticket;Ticket extra AL
+1077;Chum-Chum Ticket;Ticket ami
+1078;Aquaglow Jewel;J. reflet aqua
+1079;Sunspire Jewel;J.flèche solaire
+1080;Bloodrun Jewel;Joyau de sang
+1081;Lazurite Jewel;Joyau Lazurite
+1082;Adamant Orb;Orbe armure
+1083;Paralysis Jwl 1;J. paralysie 1
+1084;Paralysis Jwl 2;J. paralysie 2
+1085;Pep Jewel 1;Joyau ardeur 1
+1086;Pep Jewel 2;Joyau ardeur 2
+1087;Steadfast Jwl 1;Joyau ténacité 1
+1088;Standfast Jwl 1;Joyau fermeté 1
+1089;Antidote Jewel 1;Joyau antidote 1
+1090;Antidote Jewel 2;Joyau antidote 2
+1091;Tracker Jewel 1;Joyau traqueur 1
+1092;Trekker Jewel 1;Joyau rôdeur 1
+1093;Ninja Jewel 1;Joyau ninja 1
+1094;Vitality Jewel 1;Joyau vitalité 1
+1095;Recovery Jewel 1;Joyau récup. 1
+1096;Recovery Jewel 2;Joyau récup. 2
+1097;Razor Jewel 1;Joyau rasoir 1
+1098;Razor Jewel 3;Joyau rasoir 3
+1099;Handicraft Jwl 2;Joyau artisan 2
+1100;Handicraft Jwl 3;Joyau artisan 3
+1101;Fencer Jewel 1;Joyau escrim. 1
+1102;Fencer Jewel 3;Joyau escrim. 3
+1103;Expert Jewel 1;Joyau expert 1
+1104;Expert Jewel 2;Joyau expert 2
+1105;Expert Jewel 3;Joyau expert 3
+1106;Grinder Jewel 1;Joyau pileur 1
+1107;Ironwall Jewel 1;Joyau mur fer 1
+1108;Ironwall Jewel 2;Joyau mur fer 2
+1109;Shield Jewel 1;Joyau bouclier 1
+1110;Shield Jewel 2;Joyau bouclier 2
+1111;Quickload Jwl 1;J. charge rap. 1
+1112;Quickload Jwl 2;J. charge rap. 2
+1113;Absorber Jewel 1;J. absorbeur 1
+1114;Absorber Jewel 3;J. absorbeur 3
+1115;Forceshot Jwl 1;J. tir puiss. 1
+1116;Forceshot Jwl 3;J. tir puiss. 3
+1117;Pierce Jewel 1;Joyau perçant 1
+1118;Pierce Jewel 3;Joyau perçant 3
+1119;Pellet Jewel 1;Joyau plomb 1
+1120;Pellet Jewel 3;Joyau plomb 3
+1121;ShotPlus Jewel 1;J. bonus tir 1
+1122;ShotPlus Jewel 2;J. bonus tir 2
+1123;PiercePlus Jwl 1;J. bonus prc. 1
+1124;PelletPlus Jwl 1;J. bonus plomb 1
+1125;CragPlus Jewel 1;J. bonus expl. 1
+1126;ClustPlus Jwl 1;J. bonus frag 1
+1127;Disabler Jewel 1;J. infirmant 1
+1128;Disabler Jewel 2;J. infirmant 2
+1129;Element Jewel 1;Joyau élément 1
+1130;Element Jewel 3;Joyau élément 3
+1131;Bombardier Jwl 1;J. bombardier 1
+1132;Hungerless Jwl 1;Joyau repu 1
+1133;Metabolism Jwl 1;J. métabolisme 1
+1134;Attack Jewel 1;Joyau attaque 1
+1135;Attack Jewel 2;Joyau attaque 2
+1136;Attack Jewel 3;Joyau attaque 3
+1137;Defense Jewel 1;Joyau défense 1
+1138;Defense Jewel 2;Joyau défense 2
+1139;Protection Jwl 1;J. projection 1
+1140;Asylum Jewel 1;Joyau asile 1
+1141;Earplug Jewel 1;Joyau bouchon 1
+1142;Earplug Jewel 3;Joyau bouchon 3
+1143;Alarm Jewel 1;Joyau alarme 1
+1144;Friendship Jwl 1;Joyau amitié 1
+1145;Friendship Jwl 2;Joyau amitié 2
+1146;Transportr Jwl 1;J. transport 1
+1147;Fire Res Jewel 1;Joyau feu 1
+1148;Water Res Jwl 1;Joyau eau 1
+1149;Ice Res Jewel 1;Joyau glace 1
+1150;ThunderRes Jwl 1;Joyau foudre 1
+1151;Dragon Res Jwl 1;Joyau dragon 1
+1152;Heat Res Jewel 1;Joyau chaleur 1
+1153;Cold Res Jewel 1;Joyau froid 1
+1154;Wind Res Jewel 1;Joyau vent 1
+1155;Wind Res Jewel 2;Joyau vent 2
+1156;Gathering Jwl 1;Joyau collecte 1
+1157;Spree Jewel 1;Joyau Enchaîn. 1
+1158;Blessing Jewel 1;Joyau béni 1
+1159;Fate Jewel 1;Joyau destin 1
+1160;Fate Jewel 3;Joyau destin 3
+1161;Psychic Jewel 1;J. psychique 1
+1162;Medicine Jewel 1;Joyau remède 1
+1163;Medicine Jewel 2;Joyau remède 2
+1164;Professor Jwl 1;J. professeur 1
+1165;Factory Jewel 1;Joyau usine 1
+1166;Evasion Jewel 1;Joyau évasion 1
+1167;Evasion Jewel 2;Joyau évasion 2
+1168;Potential Jwl 1;J. potentiel 1
+1169;Potential Jwl 2;J. potentiel 2
+1170;Enduring Jewel 1;Joyau durable 1
+1171;Sprinter Jewel 1;Joyau sprinter 1
+1172;Sprinter Jewel 3;Joyau sprinter 3
+1173;Capacity Jewel 2;Joyau capacité 2
+1174;Capacity Jewel 3;Joyau capacité 3
+1175;Sniper Jewel 1;Joyau sniper 1
+1176;Gobbler Jewel 1;Joyau glouton 1
+1177;Gobbler Jewel 3;Joyau glouton 3
+1178;Carver Jewel 1;J. découpeur 1
+1179;Carver Jewel 3;J. découpeur 3
+1180;Footing Jewel 1;Joyau appui 1
+1181;Tectonic Jewel 1;J. tectonique 1
+1182;Jumping Jewel 1;Joyau de saut 1
+1183;Draw Jewel 1;Joyau dégaine 1
+1184;Draw Jewel 2;Joyau dégaine 2
+1185;Trapmaster Jwl 1;J. m. piégeur 1
+1186;Physique Jewel 1;Joyau physique 1
+1187;Physique Jewel 2;Joyau physique 2
+1188;Capture Jewel 1;Joyau capture 1
+1189;Capture Jewel 3;Joyau capture 3
+1190;Perception Jwl 1;J. perception 1
+1191;Charger Jewel 1;Joyau chargeur 1
+1192;Charger Jewel 3;Joyau chargeur 3
+1193;Fresh Air Jwl 1;J. air frais 1
+1194;Stopflow Jewel 1;Joyau digue 1
+1195;Swimmer Jewel 1;Joyau nageur 1
+1196;Diver Jewel 1;Joyau plongeur 1
+1197;Gambit Jewel 1;Joyau tactique 1
+1198;Gambit Jewel 3;Joyau tactique 3
+1199;Resistor Jewel 1;J. résistance 1
+1200;Release Jewel 2;J. libération 1
+1201;Catalyst Jewel 3;J. catalyste 3
+1202;Fortitude Jwl 1;Joyau courage 1
+1203;Fortitude Jwl 2;Joyau courage 2
+1204;Salvo Jewel 1;Joyau salve 1
+1205;Salvo Jewel 3;Joyau salve 3
+1206;Dungmaster Jwl 1;Joyau bousier 1
+1207;Torchlight Jwl 1;Joyau torche 1
+1208;Def Lock Jewel 1;J. assurance 1
+1209;Sterile Jewel 1;Joyau stérile 1
+1210;Aseptic Jewel 1;J. aseptique 1
+1211;Blaze Jewel 1;Joyau brasier 1
+1212;Blaze Jewel 2;Joyau brasier 2
+1213;Stream Jewel 1;Joyau flot 1
+1214;Stream Jewel 2;Joyau flot 2
+1215;Bolt Jewel 1;Joyau éclair 1
+1216;Bolt Jewel 2;Joyau éclair 2
+1217;Frost Jewel 1;Joyau givre 1
+1218;Frost Jewel 2;Joyau givre 2
+1219;Dragon Jewel 1;Joyau dragon 1
+1220;Dragon Jewel 2;Joyau dragon 2
+1221;Tenderizer Jwl 1;J. attendris. 1
+1222;Tenderizer Jwl 3;J. attendris. 3
+1223;Destroyer Jwl 1;J. destructeur 1
+1224;Destroyer Jwl 3;J. destructeur 3
+1225;Throttle Jewel 1;J. autorité 1
+1226;Throttle Jewel 2;J. autorité 2
+1227;KO Jewel 1;Joyau KO 1
+1228;Drain Jewel 1;Joyau drainage 1
+1229;Drain Jewel 2;Joyau drainage 2
+1230;Sonorous Jewel 1;Joyau sonore 1
+1231;Artillery Jwl 1;J. artillerie 1
+1232;Resistor Jewel 3;J. résistance 3
+1233;Nul-Fire Jewel 1;Joyau anti-feu 1
+1234;Nul-Water Jwl 1;Joyau anti-eau 1
+1235;Nul-Thundr Jwl 1;J. anti-foudre 1
+1236;Nul-Ice Jewel 1;J. anti-glace 1
+1237;Nul-Dragon Jwl 1;J. anti-dragon 1
+1238;Sheath Jewel 1;J. rengainage 1
+1239;Sheath Jewel 2;J. rengainage 2
+1240;Refresh Jewel 1;J. revigorant 1
+1241;Refresh Jewel 2;J. revigorant 2
+1242;Ranger Jewel 1;Joyau ranger 1
+1243;SlicePlus Jwl 1;J. bonus tran. 1
+1244;Paracoat Jwl 1;J. end. para. 1
+1245;Paracoat Jwl 2;J. end. para. 2
+1246;Sleepcoat Jwl 1;J. end. som. 1
+1247;Poisoncoat Jwl 1;J. end. poison 1
+1248;Powercoat Jwl 1;J. end. éner. 1
+1249;Powercoat Jwl 2;J. end. éner. 2
+1250;Rangecoat Jwl 1;J. end. càc 1
+1251;Draincoat Jwl 1;J. end. épuis. 1
+1252;Stopflow Jewel 2;Joyau digue 2
+1253;Guts Jewel 1;Joyau bravoure 1
+1254;Guts Jewel 2;Joyau bravoure 2
+1255;Meateater Jwl 1;J. carnivore 1
+1256;Meatlover Jwl 1;J. carnassier 1
+1257;Slider Jewel 1;Joyau esquive 1
+1258;Glider Jewel 1;Joyau glissade 1
+1259;Honeybee Jewel 1;Joyau abeille 1
+1260;Queenbee Jewel 1;Joyau ruche 1
+1261;Biology Jewel 1;Joyau biologie 1
+1262;Microbio Jewel 1;Joyau microbio 1
+1263;Spirit Jewel 1;Joyau courage 1
+1264;Spirit Jewel 2;Joyau courage 2
+1265;Flawless Jewel 1;Joyau parfait 1
+1266;Flawless Jewel 2;Joyau parfait 2
+1267;Steady Jewel 1;Joyau stable 1
+1268;Steady Jewel 3;Joyau stable 3
+1269;Fish Jewel 1;Joyau poisson 1
+1270;Fish Jewel 2;Joyau poisson 2
+1271;Player Jewel 1;Joyau joueur 1
+1272;Morale Jewel 1;Joyau moral 1
+1273;Leader Jewel 1;Joyau leader 1
+1274;Leader Jewel 2;Joyau leader 2
+1275;KO Jewel 2;Joyau KO 2
+1276;Charmer Jewel 1;Joyau charme 1
+1277;SlimePlus Jwl 1;J. bonus pois. 1
+1278;Slimecoat Jwl 1;J. end. poisse 1
+1279;Flying Wyverns Vol 1;Wyv. volants 1
+1280;Flying Wyverns Vol 2;Wyv. volants 2
+1281;Flying Wyverns Vol 3;Wyv. volants 3
+1282;Flying Wyverns Vol 4;Wyv. volants 4
+1283;Flying Wyverns Vol 5;Wyv. volants 5
+1284;Bird Wyverns Vol 1;Wyv. aviaires 1
+1285;Bird Wyverns Vol 2;Wyv. aviaires 2
+1286;Brute Wyverns Vol 1;Wyv. brutaux 1
+1287;Brute Wyverns Vol 2;Wyv. brutaux 2
+1288;Brute Wyverns Vol 3;Wyv. brutaux 3
+1289;Leviathans Vol 1;Leviathans 1
+1290;Leviathans Vol 2;Leviathans 2
+1291;Leviathans Vol 3;Leviathans 3
+1292;Fanged Wyverns Vol 1;Wyv. à crocs 1
+1293;Fanged Wyverns Vol 2;Wyv. à crocs 2
+1294;Fanged Beasts;Bêtes à crocs
+1295;Piscine Wyverns;Wyverns nageurs
+1296;Elder Dragons Vol 1;Dragons anciens 1
+1297;Elder Dragons Vol 2;Dragons anciens 2
+1298;Elder Dragons Vol 3;Dragons anciens 3
+1299;Lynians;Lyniens
+1300;Neopteron;Neopteron
+1301;Herbivores Vol 1;Herbivores 1
+1302;Herbivores Vol 2;Herbivores 2
+1303;Fish;Poisson
+1304;Deviljho;Deviljho
+1305;Brachydios;Brachydios
+1306;Dire Miralis;Dire Miralis
+1307;Plesioth Vol 1;Plesioth 1
+1308;Plesioth Vol 2;Plesioth 2
+1309;Captain Plus;Capitaine Plus
+1310;Redspear Plus;Lance Rouge +
+1311;Blackspear Plus;Lance Noire +
+1312;Pygmelion;Pastèque
+1313;Angel Leotard;Collant d'ange
+1314;Sleepy Sheepy;Mouton dort
+1315;Hog in a Frog;Cochongrenouille
+1316;Waka-Waka Dance;Danse Waka-Waka
+1317;Weapon Codex;Codex arme
+1318;Bowgun Codex;Codex fusarbal.
+1319;Hunter Tome;Livre de chasse
+1320;Seven Lives Tome;Livre Sept vies
+1321;Captain Max;Capitaine Max
+1322;Redspear Max;Lance Rouge Max
+1323;Blackspear Max;Lance Noire Max
+1324;Gatherer Tome;Livre jardinage
+1325;Last Stand Tome;Livre de combat
+1326;Boom-Boom Dance;Danse Boom-boom
+1327;False Felyne;Faux Felyne
+1328;Stink Mask;Masque puant
+1329;Whetstone Mask;Masque-aiguisoir
+1330;Idol Mask;Masque d'idole
+1331;Bombardier Tome;Livre explosif

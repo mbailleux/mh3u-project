@@ -1,0 +1,1331 @@
+book.of.combos.1: Alchimie, tome 1
+book.of.combos.2: Alchimie, tome 2
+book.of.combos.3: Alchimie, tome 3
+book.of.combos.4: Alchimie, tome 4
+book.of.combos.5: Alchimie, tome 5
+organizer.guide: Comment ranger, tome 1
+pack.rat.guide: Comment ranger, tome 2
+potion: Potion
+mega.potion: Méga potion
+nutrients: Nutriments
+mega.nutrients: Méga nutriments
+antidote: Antidote
+immunizer: Immunisateur
+dash.juice: Jus d'énergie
+mega.dash.juice: Méga jus énergie
+demondrug: Potion du démon
+mega.demondrug: Potion du démon +
+might.pill: Philtre du diable
+armorskin: Potion de pierre
+mega.armorskin: Potion de pierre +
+adamant.pill: Philtre de métal
+cool.drink: Breuvage frais
+hot.drink: Breuvage chaud
+cleanser: Nettoyant
+deodorant: Déodorant
+psychoserum: Sérum psy
+herbal.medicine: Phyto médicament
+max.potion: Potion secrète
+ancient.potion: Potion ancestrale
+catalyst: Catalyseur
+energy.drink: Breuvage énergie
+air.philter: Potion d'air
+mega.air.philter: Potion d'air +
+gunpowder: Poudre à canon
+lifecrystals: Cristaux de vie
+lifepowder: Poudre de vie
+dust.of.life: Poussière de vie
+tanzia.chips: Snack de Tanzia
+mystery.charm: Charme mystère
+shining.charm: Charme brillant
+timeworn.charm: Charme vétuste
+enduring.charm: Charme immuable
+powercharm: Charme pouvoir
+powertalon: Griffe pouvoir
+armorcharm: Charme armure
+armortalon: Griffe armure
+tranquilizer: Tranquilisant
+raw.meat: Viandre crue
+poisoned.meat: Viande poison
+tinged.meat: Viande teintée
+drugged.meat: Viande droguée
+rare.steak: Steak saignant
+well-done.steak: Steak à point
+burnt.meat: Viande brûlée
+hot.meat: Viande chaude
+chilled.meat: Viande fraîche
+pink.liver: Foie rose
+ethnic.wyvrnmeat: Viand.wyv. ethnq
+rathian.loin: Côtes Rathian
+p.rathian.loin: Côtes Rathian R.
+rathalos.ribs: Côtes Rathalos
+boomerang: Boomerang
+throwing.knife: Cout. de lancer
+poison.knife: Couteau poison
+sleep.knife: Cout. somnifère
+paralysis.knife: Cout. paralysant
+tranq.knife: Cout. tranq.
+bomb.casing: Gaine bombe
+paintball: Marqueur
+flash.bomb: Bombe flash
+sonic.bomb: Bombe sonique
+dung: Bouse
+super-sized.dung: Bouse démesurée
+dung.bomb: Bombe de bouse
+smoke.bomb: Bombe de fumée
+poison.smoke.bmb: Bombe de poison
+farcaster: Transporteur
+tranq.bomb: Bombe tranq
+oxygen.supply: Bonbonne oxygène
+spider.web: Toile d'araignée
+net: Filet
+trap.tool: Pose-piège
+pitfall.trap: Fosse piégée
+shock.trap: Piège à choc
+small.barrel: Petit baril
+large.barrel: Grand baril
+barrel.bomb.s: Pt bombe baril
+barrel.bomb.s+: Pt bombe baril+
+barrel.bomb.l: Gd bombe baril
+barrel.bomb.l+: Gd bombe baril+
+bounce.bomb: Bombe rebond
+bounce.bomb+: Bombe rebond+
+felvine.bomb: Bombe Felvine
+huskberry: Baie-coque
+bone.husk.s: Pt coque d'os
+bone.husk.l: Gd coque d'os
+normal.s.lv1: Mn Normale Nv1
+normal.s.lv2: Mn Normale Nv2
+normal.s.lv3: Mn Normale Nv3
+pierce.s.lv1: Mn Perç. Nv1
+pierce.s.lv2: Mn Perç. Nv2
+pierce.s.lv3: Mn Perç. Nv3
+pellet.s.lv1: Mn Plomb Nv1
+pellet.s.lv2: Mn Plomb Nv2
+pellet.s.lv3: Mn Plomb Nv3
+crag.s.lv1: Mn Explos. Nv1
+crag.s.lv2: Mn Explos. Nv2
+crag.s.lv3: Mn Explos. Nv3
+clust.s.lv1: Mn Frag. Nv1
+clust.s.lv2: Mn Frag. Nv2
+clust.s.lv3: Mn Frag. Nv3
+flaming.s: Mn Enflammée
+water.s: Mn Eau
+thunder.s: Mn Foudre
+freeze.s: Mn Gel
+dragon.s: Mn Dragon
+poison.s.lv1: Mn Poison Nv1
+poison.s.lv2: Mn Poison Nv2
+para.s.lv1: Mn Para Nv1
+para.s.lv2: Mn Para Nv2
+sleep.s.lv1: Mn Sommeil Nv1
+sleep.s.lv2: Mn Sommeil Nv2
+sub.s.lv1: Mn SM Nv1
+sub.s.lv2: Mn SM Nv2
+exhaust.s.lv1: Mn Épuis. Nv1
+exhaust.s.lv2: Mn Épuis. Nv2
+slicing.s: Mn Tranchante
+wyvernfire: Feu wyvern
+slime.s: Mn Poisseuse
+uw.ballista.ammo: Mn baliste SM
+recov.s.lv1: Mn Guér. Nv1
+recov.s.lv2: Mn Guér. Nv2
+demon.s: Mn Démon
+armor.s: Mn Armure
+paint.s: Mn Marqueur
+tranq.s: Mn Tranq.
+empty.phial: Fiole vide
+power.coating: Enduit énergie
+c.range.coating: Enduit càc
+poison.coating: Enduit poison
+para.coating: Enduit paralysie
+sleep.coating: Enduit sommeil
+exhaust.coating: Enduit épuis.
+slime.coating: Enduit poisse
+paint.coating: Enduit peinture
+worm: Ver
+mega.fishing.fly: Méga mouche
+frog: Grenouille
+whetfish.bait: App. Poissaiguis
+sushifish.bait: App. Sushipoiss.
+tuna.bait: Appât pour thon
+goldenfish.bait: Appât Poissondor
+burst.bait: Appât explosif
+old.pickaxe: Vieille pioche
+iron.pickaxe: Pioche de fer
+mega.pickaxe: Méga pioche
+old.bug.net: Vieux filinsecte
+bug.net: Filinsecte
+mega.bug.net: Méga filinsecte
+fishing.harpoon: Harpon de pêche
+mega.harpoon: Méga harpon
+bbq.spit: Broche BBQ
+double.bbq.spit: Super broche BBQ
+whetstone: Aiguisoir
+binoculars: Jumelles
+garbage: Déchet
+field.horn: Corne de chasse
+health.horn: Flûte de vie
+antidote.horn: Flûte antidote
+demon.horn: Flûte du démon
+armor.horn: Flûte de pierre
+honey: Miel
+herb: Herbe
+antidote.herb: Herbe antidote
+fire.herb: Herbe de feu
+ivy: Lierre
+sleep.herb: Herbe sommeil
+sap.plant: Plante à sève
+felvine: Felvine
+cactus.flower: Fleur de cactus
+airweed: Herbe d'air
+hot.pepper: Piment fort
+heftcorn: Maïs-maous
+gloamgrass.bud: Fleur crépuscule
+blue.mushroom: Champi bleu
+nitroshroom: Champinitro
+parashroom: Champaralysie
+toadstool: Champi vénéneux
+exciteshroom: Champexciteur
+dragon.toadstool: Champi dragon
+bindshroom: Champimmobile
+paintberry: Baie-peinture
+might.seed: Graine pouvoir
+adamant.seed: Graine armure
+dragonfell.berry: Baie dragon
+scatternut: Frag-noix
+needleberry: Baiguille
+bomberry: Bombaie
+nulberry: Baie-soin
+bumblepumpkin: Potironron
+broken.shell: Carapace cassée
+black.pearl: Perle noire
+jumbo.pearl: Perle Jumbo
+stone: Pierre
+iron.ore: Minerai de fer
+earth.crystal: Cristal de terre
+machalite.ore: Machalite
+pelagicite.ore: Pelagicite
+isisium: Isisium
+lightcrystal: Cristal lumière
+dragonite.ore: Dragonite
+lava.nugget: Pépite-lave
+firestone: Pierre-feu
+carbalite.ore: Carbalite
+bathycite.ore: Bathycite
+fucium.ore: Fucium
+gracium: Gracium
+firecell.stone: Pierre-lave
+antiseptic.stone: Pierre antisept.
+ice.crystal: Cristal glacé
+eltalite.ore: Eltalite
+meldspar.ore: Meldium
+purecrystal: Cristal pur
+allfire.stone: Pierre ardente
+armor.stone: Pierre d'armure
+armor.sphere: Sphère d'armure
+armor.sphere+: Sphère d'armure+
+adv.armor.sphere: Sph. armure avc
+hrd.armor.sphere: Sph. armure dure
+hvy.armor.sphere: Sph. armure lrde
+tru.armor.sphere: Sph. armure pure
+whetfish: Poissaiguiseur
+sushifish: Sushipoisson
+sleepyfish: Somnipoisson
+pin.tuna: Pointhon
+popfish: Poisséclate
+scatterfish: Frag-poisson
+burst.arowana: Arowana éclat
+bomb.arowana: Arowana bombe
+glutton.tuna: Thon glouton
+small.goldenfish: Pt Poissondor
+wanchovy: Wanchois
+blue.cutthroat: Couperet bleu
+humspun.conch: Méloconque
+speartuna: Lancethon
+lrg.lobstershell: Coque-homard lge
+insect.husk: Coque d'insecte
+yambug: Patatinsecte
+bughopper: Insecte sauteur
+stinkhopper: Fétisauteur
+snakebee.larva: Larve-serpent
+godbug: Insecte-dieu
+bitterbug: Amerinsecte
+flashbug: Flashinsecte
+thunderbug: Foudrinsecte
+fulgurbug: Fulgurinsecte
+dracophage.bug: Insecte draco
+carpenterbug: Bâtinsecte
+killer.beetle: Scarabée tueur
+hercudrome: Hercudrome
+king.scarab: Roi scarabée
+rare.scarab: Scarabée rare
+flutterfly: Papiluit
+emperor.hopper: Sauteur empereur
+blossom.cricket: Grillon fleuri
+butterfly.beetle: Scara-papillon
+maiden.butterfly: Papillon pucelle
+bomb.sac: Poche bombe
+screamer: Hurleur
+poison.sac: Poche de poison
+toxin.sac: Poche de toxine
+paralysis.sac: Poche paralysie
+omniplegia.sac: Poche omniplégie
+sleep.sac: Poche somnifère
+coma.sac: Poche de coma
+flame.sac: Poche de flamme
+inferno.sac: Poche infernale
+conflagrant.sac: Poche explosive
+aqua.sac: Poche d'eau
+torrent.sac: Poche de torrent
+flood.sac: Poche crue
+thunder.sac: Poche de foudre
+lightning.sac: Poche d'éclair
+frost.sac: Poche de givre
+freezer.sac: Poche de gel
+cryo.sac: Poche cryo
+dash.extract: Extrait sprint
+pale.extract: Extrait pâle
+monster.bone.s: Os monstre petit
+monster.bone.m: Os monstre moyen
+monster.bone.l: Os monstre grand
+mystery.bone: Os mystère
+unknown.skull: Crâne inconnu
+bone: Os
+monster.bone+: Os de monstre+
+monster.keenbone: Acéros monstre
+monster.hardbone: Duros monstre
+monster.slogbone: Robustos monstre
+avian.finebone: Finos aviaire
+avian.stoutbone: Résistos aviaire
+jumbo.bone: Jumbos
+stoutbone: Résistos
+massive.bone: Os massif
+dragonbone.relic: Relique os drag.
+elder.dragonbone: Os dragon ancien
+wyvern.fang: Croc de Wyvern
+wyvern.claw: Griffe de Wyvern
+wyvern.stone: Pierre de Wyvern
+lrg.wyvern.stone: Pierre Wyv. lge
+bird.wyvern.gem: Gem. Wyv.aviaire
+fey.wyvern.gem: Pierre Wyv. pure
+elderdragonblood: Sang Anc. dragon
+beautiful.scale: Jolie écaille
+shining.starfish: Étoile brillante
+armorfish.morsel: Mrc. Poissarmure
+fine.pelt: Belle peau
+power.paddle: Rame puissante
+curved.fang: Croc courbé
+dragonbone.piece: Morc. os dragon
+abalone.piece: Morc. d'Abalone
+fossil.piece: Morc. de fossile
+stunning.quill: Plume étourdi.
+saturnian: Saturnien
+mystic.narwhal: Narval mystique
+perfect.paddle: Rame parfaite
+moonlight.fang: Croc clair lune
+glittering.scale: Écail. éclatante
+giant.skull: Crâne géant
+atlantis.crab: Crabe d'Atlantis
+queen.needle: Dard reine
+ancient.skin.oil: Huil.peau ancie.
+flamboyant.quill: Plume flamboy.
+eldest.saturnian: Ancien Saturnien
+queen's.spirit: Esprit reine
+vermillion.scale: Écail. vermillon
+sea-king's.scale: Écaille roi mer
+odd.egg: Œuf bizarre
+giant.fossil: Fossil géant
+mooncatcher.fang: Croc lunaire
+glossy.scale: Écaille luisante
+thick.skull: Crâne robuste
+savory.bear.paw: Patte savoureuse
+peco.pipes: Cornemuse Peco
+billowy.mane: Crinière-houle
+volvidon.tongue: Langue Volvidon
+quality.mud.pack: Boue de qualité
+tender.liver: Foie tendre
+supersized.scale: Écaille géante
+prime.plesioth: Plesioth extra
+diablos.heart: Cœur Diablos
+bag.of.zs: Poche somnifère
+large.obsidian: Obsidienne large
+duram.truffle: Truffe Duram
+zinogre.head: Tête Zinogre
+nargacuga.eye: Œil Nargacuga
+celestial.scale: Écaille céleste
+alabaster.scale: Écaille albâtre
+worldeater.belly: Ventre glouton
+saturnian.trap: Piège Saturnien
+bugmaker!.pro: Pro des insectes
+funky.pheromones: Super phéromones
+shroom.germ: Champigerme
+shroom.germ+: Champigerme +
+bizzy.bees: Abeilles actives
+fish.finder: Trouve-poisson
+treasure.tracker: Marqueur trésor
+spare.spear: Lance de secours
+pittance.fang: Croc de pitance
+fortune.fang: Croc de fortune
+gold.needle: Aiguille d'or
+wyverngold: Or Wyvern
+bulky.pelt: Peau volumineuse
+excellent.fang: Croc précieux
+platinum.needle: Aiguille platine
+goldmine.fang: Croc minedor
+wyverngold.lode: Filon or Wyvern
+pirate.booty: Butin de pirate
+steel.egg: Œuf d'acier
+silver.egg: Œuf d'argent
+golden.egg: Œuf d'or
+small.golden.egg: Petit œuf en or
+bronze.coin: Pièce de bronze
+silver.coin: Pièce d'argent
+gold.coin: Pièce d'or
+kelbi.horn.objet: Obj. corne Kelbi
+twstd.horn.objet: Obj. corn.tordue
+mohranfang.objet: Obj. croc Mohran
+poogie: Poogie
+eggie.poogie: Poogie-œuf
+rath.poogie: Poogie-rath
+sandstone.plant: Plante en grès
+marshland.plant: Plante marais
+snowflake.plant: Plante flocon
+prismshroom.lamp: Lampe champrisme
+qurupeco.lamp: Lampe Qurupeco
+sirensea.lamp: Lampe sirène
+oceanic.fountain: Fontaine océan.
+bubbly.fountain: Fontaine pétill.
+magma.fountain: Fontaine magma
+iron.figure: Sculpture en fer
+machalite.figure: Sculp. Machalite
+dragonite.figure: Sculp. Dragonite
+model.sandskiff: Navire des dunes
+model.airship: Dirigeable
+model.poggieship: Zeppelin Poogie
+guildie.(red): Mb guilde (Rg)
+guildie.(green): Mb guilde (Vt)
+guildie.(blue): Mb guilde (Bl)
+port.gal.(red): Poupée (rouge)
+port.gal.(blue): Poupée (bleue)
+port.gal.(green): Poupée (verte)
+port.gal.(white): Poupée (blanche)
+great.poogi: Grand Poogi
+incomplete.crown: Couronne incomp.
+crown's.gemstone: Gemme couronne
+dazzling.crown: Couronne éclat.
+crested.crown: Cour. armoiries
+royal.crest: Armoiries royal.
+realmless.crown: Cour. des déchus
+prize.gold.sword: Épée or récomp.
+golden.medallion: Médaillon or
+slickaxe: Pioche lisse
+kelbi.horn: Corne de Kelbi
+blue.kelbi.horn: Corn.Kelbi bleue
+warm.pelt: Peau chaude
+high-qualty.pelt: Peau gd qualité
+prized.pelt: Peau prisée
+gargwa.feather: Plume de Gargwa
+anteka.antler: Corne d'Anteka
+bnahabra.shell: Carapa. Bnahabra
+bnaha.carapace: Cuira. Bnahabra
+bnahabra.wing: Aile Bnahabra
+bnahabra.cutwing: Tranch. Bnahabra
+bnahabra.spine: Dard Bnahabra
+altaroth.jaw: Mâch. Altaroth
+altaroth.stomach: Estomac Altaroth
+quality.sac: Poche qualité
+prized.stomach: Estomac prisé
+bullfango.pelt: Peau Bullfango
+bullfango.head: Tête Bullfango
+bullfango.tusk: Déf. Bullfango
+monster.fluid: Fluide monstre
+monster.broth: Brouet monstre
+monster.essence: Essence monstre
+rhenoplos.shell: Carap. Rhenoplos
+rheno.carapace: Cuira. Rhenoplos
+rhenoplos.scalp: Scalp Rhenoplos
+rhenoplos.bone: Os Rhenoplos
+slagtoth.hide+: Cuir Slagtoth+
+big.fin: Grande nageoire
+quality.fin: Nageoire qualité
+giant.fin: Nageoire géante
+sharpened.fang: Croc aiguisé
+velvety.hide: Cuir feutré
+sharqskin: Peau requin
+jaggi.scale: Écaille Jaggi
+jaggi.scale+: Écaille Jaggi+
+jaggi.hide: Cuir Jaggi
+bird.wyvern.fang: Croc wyv.aviaire
+g.jaggi.hide: Cuir gd. Jaggi
+g.jaggi.hide+: Cuir gd. Jaggi+
+great.jaggi.piel: Pelage gd. Jaggi
+g.jaggi.claw: Griffe gd. Jaggi
+g.jaggi.claw+: Griffe gd.Jaggi+
+king's.frill: Collerette roi
+imperial.frill: Collerette impé.
+great.jaggi.head: Tête gd. Jaggi
+baggi.hide: Cuir Baggi
+baggi.scale: Écaille Baggi
+baggi.scale+: Écaille Baggi+
+g.baggi.hide: Cuir gd. Baggi
+g.baggi.hide+: Cuir gd. Baggi+
+great.baggi.piel: Pelage gd. Baggi
+g.baggi.claw: Griffe gd. Baggi
+g.baggi.claw+: Griffe gd.Baggi+
+king's.crest: Crête roi
+imperial.crest: Crête impériale
+wroggi.scale: Écaille Wroggi
+wroggi.scale+: Écaille Wroggi+
+wroggi.hide: Cuir Wroggi
+wroggi.fang: Croc Wroggi
+g.wroggi.hide: Cuir gd. Wroggi
+g.wroggi.hide+: Cuir gd. Wroggi+
+g.wroggi.piel: Pelage gd.Wroggi
+g.wroggi.brace: Att. gd. Wroggi
+g.wroggi.brace+: Att. gd. Wroggi+
+king's.beak: Bec roi
+imperial.beak: Bec impérial
+arzuros.pelt: Peau Arzuros
+arzuros.pelt+: Peau Arzuros+
+arzuros.shell: Carapace Arzuros
+arzuros.carapace: Cuirasse Arzuros
+arzuros.cortex: Cortex Arzuros
+arzuros.brace: Attelle Arzuros
+arzuros.brace+: Attelle Arzuros+
+arzuros.allbrace: Suratt. Arzuros
+crushing.fang: Croc broyeur
+lagombi.pelt: Peau Lagombi
+lagombi.pelt+: Peau Labombi+
+lagombi.fur: Four. Lagombi
+lagombi.ear: Oreille Lagombi
+lagombi.ear+: Oreille Lagombi+
+lagombi.auricle: Oreillette Lago.
+lagom.plastron: Plastron Lagombi
+lagom.plastron+: Plast. Lagombi+
+lagombi.claw: Griffe Lagombi
+lagombi.claw+: Griffe Lagombi+
+volvidon.shell: Carap. Volvidon
+volvi.carapace: Cuiras. Volvidon
+volvidon.cortex: Cortex Volvidon
+volvidon.claw: Griffe Volvidon
+volvidon.claw+: Griffe Volvidon+
+volvidon.talon: Serre Volvidon
+volvi.rickrack: Feston Volvidon
+qurupeco.scale: Écail. Qurupeco
+qurupeco.scale+: Écail. Qurupeco+
+qurupeco.shard: Éclat Qurupeco
+qurupeco.feather: Plume Qurupeco
+qurupeco.wing: Aile Qurupeco
+peco.fellwing: Rigipl. Qurupeco
+vivid.feather: Plume vive
+lustrous.feather: Plume lustrée
+strange.beak: Bec étrange
+wonderful.beak: Bec merveilleux
+alluring.beak: Bec élégant
+flintstone: Silex
+quality.flint: Silex de qualité
+c.peco.scale+: Écail. Peco V.+
+c.peco.shard: Éclat Peco V.
+c.peco.wing: Aile Qurupeco V.
+c.peco.fellwing: Rigipl. Peco V.
+voltstone: Pierre-volt
+high.voltstone: Mega pierre-volt
+hydro.hide: Cuir aquatique
+hydro.hide+: Cuir aquatique+
+immature.sponge: Éponge immature
+quality.sponge: Éponge qualité
+spongy.hide: Cuir spongieux
+spongy.hide+: Cuir spongieux+
+spongy.piel: Pelage spong.
+r.ludroth.scale: Écail.Ludroth R.
+r.ludroth.scale+: Écai.Ludroth R.+
+r.ludroth.shard: Éclat Ludroth R.
+r.ludroth.claw: Grif.Ludroth R.
+r.ludroth.claw+: Grif.Ludroth R.+
+r.ludroth.talon: Serre Ludroth R.
+r.ludroth.crest: Crête Ludroth R.
+r.ludroth.crest+: Crt Ludroth R.+
+chic.crest: Crête chic
+r.ludroth.tail: Queue Ludroth R.
+r.ludroth.lash: Fouet Ludroth R.
+plum.spongy.hide: Cuir spon. prune
+plum.spongy.piel: Pel. spon. prune
+p.ludroth.scale+: Éca. Ludroth P.+
+p.ludroth.shard: Éclat Ludroth P.
+p.ludroth.claw+: Gri. Ludroth P.+
+p.ludroth.talon: Serre Ludroth P.
+barroth.shell: Carapace Barroth
+barroth.carapace: Cuirasse Barroth
+barroth.cortex: Cortex Barroth
+barroth.ridge: Vertèbre Barroth
+barroth.ridge+: Vert. Barroth+
+barroth.chine: Échine Barroth
+barroth.claw: Griffe Barroth
+barroth.claw+: Griffe Barroth+
+barroth.talon: Serre Barroth
+barroth.scalp: Scalp Barroth
+barroth.crown: Couronne Barroth
+barroth.tail: Queue Barroth
+barroth.lash: Fouet Barroth
+fertile.mud: Boue fertile
+j.barr.carapace: Cuir. Barroth J.
+j.barroth.cortex: Cort. Barroth J.
+j.barroth.ridge+: Ver. Barroth J.+
+j.barroth.chine: Éch. Barroth J.
+j.barroth.claw+: Gri. Barroth J.+
+j.barroth.talon: Ser. Barroth J.
+j.barroth.scalp: Sca. Barroth J.
+j.barroth.crown: Cour. Barroth J.
+j.barroth.tail: Queue Barroth J.
+j.barroth.lash: Fouet Barroth J.
+frozen.glob: Globe gelé
+gobul.hide: Cuir Gobul
+gobul.hide+: Cuir Gobul+
+gobul.piel: Pelage Gobul
+gobul.fin: Nageoire Gobul
+gobul.fin+: Nageoire Gobul+
+fine.gobul.fin: Nag. raff. Gobul
+gobul.spike: Pointe Gobul
+gobul.spike+: Pointe Gobul+
+gobul.surspike: Surpointe Gobul
+gobul.whisker: Moustache Gobul
+gobul.kingwhiskr: Bacchante Gobul
+gobul.lantern: Lanterne Gobul
+gobul.lantern+: Lanterne Gobul+
+gobul.beacon: Balise Gobul
+rathian.scale: Écaille Rathian
+rathian.scale+: Écaille Rathian+
+rathian.shard: Éclat Rathian
+rathian.shell: Carapace Rathian
+rathian.carapace: Cuirasse Rathian
+rathian.cortex: Cortex Rathian
+rathian.webbing: Palmure Rathian
+rathian.spike: Pointe Rathian
+rathian.spike+: Pointe Rathian+
+rathian.surspike: Surpoin. Rathian
+rathian.plate: Plaque Rathian
+rathian.ruby: Rubis Rathian
+rathian.mantle: Mante Rathian
+p.rathian.scale+: Éca. Rathian R.+
+p.rathian.shard: Écl. Rathian R.
+p.rath.carapace: Cuir. Rathian R.
+p.rathian.cortex: Cort. Rathian R.
+g.rathian.shard: Écl. Rathian D.
+g.rathian.cortex: Cort. Rathian D.
+g.rath.surspike: Surp. Rathian D.
+rathalos.scale: Écaille Rathalos
+rathalos.scale+: Écail. Rathalos+
+rathalos.shard: Éclat Rathalos
+rathalos.shell: Carapa. Rathalos
+rathlos.carapace: Cuiras. Rathalos
+rathalos.cortex: Cortex Rathalos
+rathalos.webbing: Palmure Rathalos
+rathalos.wing: Aile Rathalos
+rathlos.fellwing: Rigipl. Rathalos
+rathalos.tail: Queue Rathalos
+rathalos.lash: Fouet Rathalos
+rathalos.plate: Plaque Rathalos
+rathalos.ruby: Rubis Rathalos
+rathalos.mantle: Mante Rathalos
+rath.talon: Griffe Rath
+rath.ripper: Déchireur Rath
+rath.marrow: Moelle Rath
+rath.medulla: Medulla Rath
+rath.gleem: Lueur Rath
+a.rath.scale+: Éca. Rath A.+
+a.rathalos.shard: Éclat Rath A.
+a.rath.carapace: Cuir. Rath A.
+a.rath.cortex: Cortex Rath A.
+a.rathalos.tail: Queue Rath A.
+a.rathalos.lash: Fouet Rath A.
+a.rathalos.wing: Aile Rath. A.
+s.rathalos.shard: Éclat Rath Ar.
+s.rath.cortex: Cortex Rath Ar.
+s.rathalos.lash: Fouet Rath Ar.
+gigginox.hide: Cuir Gigginox
+gigginox.hide+: Cuir Gigginox+
+gigginox.piel: Pelage Gigginox
+uncanny.hide: Cuir étrange
+uncanny.hide+: Cuir étrange+
+revolting.piel: Pelage infect
+gigginox.claw: Griffe Gigginox
+gigginox.claw+: Griffe Gigginox+
+gigginox.talon: Serre Gigginox
+fearsome.maw: Gueule terrif.
+nightmarish.maw: Gueule cauchemar
+venom.gland: Glande venin
+grim.venom.gland: G. venin infâme
+foul.venom.gland: G. venin putride
+b.giggi.hide+: Cuir Giggi F.+
+b.giggi.piel: Pelage Giggi F.
+b.giggi.claw+: Griffe Giggi F.+
+b.giggi.talon: Serre Giggi F.
+lagiacrus.scale: Écail. Lagiacrus
+lagiacrus.scale+: Écail.Lagiacrus+
+lagiacrus.shard: Éclat Lagiacrus
+shell.shocker: Électricarapace
+shell.shocker+: Électricarapace+
+deathly.shocker: Électrichoc
+lagiacrus.hide: Cuir Lagiacrus
+lagiacrus.hide+: Cuir Lagiacrus+
+lagiacrus.piel: Pelage Lagiacrus
+lagiacrus.claw: Griffe Lagiacrus
+lagiacrus.claw+: Grif. Lagiacrus+
+lagiacrus.talon: Serre Lagiacrus
+lagiacrus.tail: Queue Lagiacrus
+lagiacrus.flail: Traîne Lagiacrus
+lagiacrus.horn: Corne Lagiacrus
+lagiacrus.horn+: Corne Lagiacrus+
+lagia.hardhorn: Durcorne Lagia
+lagiacrus.plate: Plaque Lagiacrus
+lagia.sapphire: Saphir Lagia
+lagiacrus.mantle: Mante Lagiacrus
+i.lagi.scale+: Écaille Lagi I.+
+i.lagi.shard: Éclat Lagi I.
+i.lagi.shocker+: Électro Lagi I.+
+i.lagi.d-shocker: Électric Lagi I.
+i.lagi.hide+: Cuir Lagi I.+
+i.lagi.piel: Pelage Lagi I.
+i.lagi.horn+: Corne Lagi I.+
+i.lagi.hardhorn: Durcorne Lagi I.
+a.lagi.shard: Éclat Lagi A.
+a.lagi.d-shocker: Électric Lagi A.
+a.lagi.piel: Pelage Lagi A.
+a.lagi.hardhorn: Durcorne Lagi A.
+a.lagi.dynamo: Dynamo Lagi A.
+barioth.shell: Carapace Barioth
+barioth.carapace: Cuirasse Barioth
+barioth.cortex: Cortex Barioth
+barioth.pelt: Peau Barioth
+barioth.pelt+: Peau Barioth+
+barioth.fur: Fourrure Barioth
+barioth.claw: Griffe Barioth
+barioth.claw+: Griffe Barioth+
+barioth.talon: Serre Barioth
+barioth.spike: Pointe Barioth
+barioth.tail: Queue Barioth
+barioth.lash: Fouet Barioth
+amber.tusks: Défenses ambre
+amber.tusks+: Défenses ambre+
+hvy.amber.tusks: Déf. ambre ldes
+s.bari.carapace: Cuir. Barioth S.
+s.barioth.cortex: Cort. Barioth S.
+s.barioth.pelt+: Peau Barioth S.+
+s.barioth.fur: Four. Barioth S.
+s.barioth.claw+: Gri. Barioth S.+
+s.barioth.talon: Ser. Barioth S.
+s.barioth.tail: Queue Barioth S.
+s.barioth.lash: Fouet Barioth S.
+indigo.tusks+: Défenses indigo+
+hvy.indigo.tusks: Déf. indigo ldes
+rugged.pleura: Plèvre coriace
+rugged.pleura+: Plèvre coriace+
+diablos.shell: Carapace Diablos
+diablos.carapace: Cuirasse Diablos
+diablos.cortex: Cortex Diablos
+diablos.ridge: Vertèbre Diablos
+diablos.ridge+: Vert. Diablos+
+diablos.chine: Échine Diablos
+diablos.tailcase: Étui queue Diab.
+diablos.hardtail: Durqueue Diablos
+diablos.fang: Croc Diablos
+twisted.horn: Corne tordue
+majestic.horn: Corne grandiose
+stout.horn: Corne épaisse
+diablos.hardhorn: Durcorne Diablos
+diablos.marrow: Moelle Diablos
+diablos.medulla: Medulla Diablos
+b.diab.carapace: Cuir. Diablos N.
+b.diablos.cortex: Cort. Diablos N.
+b.diablos.ridge+: Ver. Diablos N.+
+b.diablos.chine: Éch. Diablos N.
+blackcurl.horn: Corne torsadée
+blackcurl.horn+: Corne torsadée+
+uragaan.scale: Écaille Uragaan
+uragaan.scale+: Écaille Uragaan+
+uragaan.shard: Éclat Uragaan
+uragaan.shell: Carapace Uragaan
+uragaan.carapace: Cuirasse Uragaan
+uragaan.cortex: Cortex Uragaan
+uragaan.jaw: Mâchoire Uragaan
+uragaan.jaw+: Mâch. Uragaan+
+uragaan.scute: Scutum Uragaan
+uragaan.scute+: Scutum Uragaan+
+uragaan.marrow: Moelle Uragaan
+uragaan.ruby: Rubis Uragaan
+uragaan.pallium: Pallium Uragaan
+s.uragaan.scale+: Éca. Uragaan A.+
+s.uragaan.shard: Écl. Uragaan A.+
+s.urag.carapace: Cuir. Uragaan A.
+s.uragaan.cortex: Cor. Uragaan. A.
+s.uragaan.maw: Mâc. Uragaan A.
+s.uragaan.jaw+: Mâc. Uragaan A.+
+s.uragaan.scute: Scu. Uragaan A.
+s.uragaan.scute+: Scu. Uragaan A.+
+uroktor.scale: Écaille Uroktor
+uroktor.scale+: Écaille Uroktor+
+supple.piel: Pelage souple
+agnaktor.scale: Écaille Agnaktor
+agnaktor.shell: Carapa. Agnaktor
+agnak.carapace: Cuiras. Agnaktor
+agnaktor.cortex: Cortex Agnaktor
+agnaktor.hide: Cuir Agnaktor
+agnaktor.hide+: Cuir Agnaktor+
+agnaktor.piel: Pelage Agnaktor
+agnaktor.claw: Griffe Agnaktor
+agnaktor.claw+: Griffe Agnaktor+
+agnaktor.talon: Serre Agnaktor
+agnaktor.fin: Nageoi. Agnaktor
+agnaktor.fin+: Nageo. Agnaktor+
+fine.agnak.fin: Nag. raff. Agnak
+agnaktor.beak: Bec Agnaktor
+agnaktor.tail: Queue Agnaktor
+scalding.pleura: Plèvre brûlante
+scalding.pleura+: Plèvre brûlante+
+scorching.pleura: Plèvre torride
+g.agnak.carapace: Cuir. Agnak G.
+g.agnak.cortex: Cortex Agnak G.
+g.agnak.hide+: Cuir Agnak G.+
+g.agnak.piel: Pelage Agnak G.
+g.agnak.claw+: Griffe Agnak G.+
+g.agnak.talon: Serre Agnak G.
+g.agnak.fin+: Nag. Agnak G.
+fine.g.agnak.fin: N. raf. Agnak G.
+g.agnak.beak: Bec Agnaktor G.
+g.agnak.tail: Queue Agnak G.
+dewy.pleura+: Plèvre humide+
+drenched.pleura: Plèvre trempée
+ceadeus.scale: Écaille Ceadeus
+ceadeus.hide: Cuir Ceadeus
+ceadeus.fur: Fourrure Ceadeus
+ceadeus.tail: Queue Ceadeus
+crooked.horn: Corne courbée
+luminous.organ: Organe lumineux
+deep.dragongem: Gem.dragon prof.
+g.ceadeus.shard: Éclat Ceadeus B.
+g.ceadeus.coat: Pela. Ceadeus B.
+g.ceadeus.fur: Four. Ceadeus B.
+crooked.hardhorn: Durcorne courbée
+dark.dragongem: Gem.dragon noire
+nibelsnarf.shell: Cara. Nibelsnarf
+nibel.carapace: Cuir. Nibelsnarf
+nibel.cortex: Cortex Nibel
+nibelsnarf.hide: Peau Nibelsnarf
+nibelsnarf.hide+: Peau Nibelsnarf+
+nibelsnarf.piel: Pela. Nibelsnarf
+nibelsnarf.claw: Gri. Nibelsnarf
+nibelsnarf.claw+: Gri. Nibelsnarf+
+nibelsnarf.talon: Serre Nibelsnarf
+nibelsnarf.scalp: Scalp Nibelsnarf
+vivid.fluid: Fluide vif
+brilliant.fluid: Fluide brillant
+dazzling.fluid: Fluide éclatant
+mohran.scale+: Écaille Mohran+
+mohran.shard: Éclat Mohran
+mohran.carapace: Cuirasse Mohran
+mohran.rockskin: Cuiroc Mohran
+mohran.brace+: Attelle Mohran+
+mohran.allbrace: Suratt. Mohran
+sturdy.fang+: Croc solide+
+earth.dragongem: Gem.dragon terre
+earth.drgnsphire: Sph. drag. terre
+h.jhen.shard: Éclat Jhen S.
+h.jhen.rockskin: Cuiroc Jhen S.
+h.jhen.allbrace: Suratt. Jhen. S.
+deific.fang: Croc divin
+ghostly.quartz: Quartz fantôme
+brach.carapace: Cuir. Brachydios
+brach.cortex: Cort. Brachydios
+brach.ebonshell: Coquébène Brach
+brach.ebonshell+: Coquébène Brach+
+brach.scalp: Scalp Brachydios
+brach.scalp+: Scalp Brach+
+mystery.slime: Poisse étrange
+glowing.slime: Poisse luisante
+brach.pounder: Poudre Brach
+brach.pounder+: Poudre Brach+
+brachydios.tail: Queue Brachydios
+brachydios.gem: Gemme Brachydios
+brach.pallium: Pallium Brach
+plesioth.fang+: Croc Plesioth+
+hvy.plesio.fang: Croc Plesio lrd
+plesioth.scale+: Écai. Plesioth+
+plesioth.shard: Éclat Plesioth
+plesioth.fin+: Nag. Plesioth+
+fine.plesio.fin: N. raf. Plesioth
+plesioth.webbing: Palmure Plesioth
+hrd.ples.webbing: Pal. Plesio dure
+plesioth.head: Tête Plesioth
+uber.plesio.head: Super tête Ples
+g.plesio.shard: Écl. Plesioth V.
+fine.g.plesi.fin: N. raf. Plesi V.
+duramboros.shell: Cara. Duramboros
+duram.carapace: Cuir. Duramboros
+duram.cortex: Cort. Duramboros
+duram.mossplate: Mous. Duramboros
+hard.mossplate: Mousse robuste
+heavy.mossplate: Mousse lourde
+duramboros.hump: Bosse Duramboros
+marbled.hump: Bosse marbrée
+duram.tailcase: Étui queue Duram
+duram.tailcase+: Ét. queue Duram+
+duram.hardtail: Durqueue Duram
+duramboros.horn: Corne Duramboros
+duramboros.horn+: Corne Duram+
+duram.hardhorn: Durcorne Duram
+duram.tailbone: Coccyx Duram
+duram.sacrum: Sacrum Duram
+durambolite: Durambolite
+r.duram.shell: Carapa. Duram R.
+r.duram.plate: Plaque Duram R.
+r.duram.hardtail: Durq. Duram R.
+zinogre.carapace: Cuirasse Zinogre
+zinogre.cortex: Cortex Zinogre
+zin.electrofur: Électrif. Zino
+zin.electrofur+: Électrif. Zino+
+zinogre.horn+: Corne Zinogre+
+zinogre.hardhorn: Durcorne Zinogre
+zinogre.claw+: Griffe Zinogre+
+zinogre.talon: Serre Zinogre
+zinogre.tail: Queue Zinogre
+zinogre.lash: Fouet Zinogre
+zinogre.shocker+: Électro Zinogre+
+zin.d-shocker: Électric Zinogre
+zinogre.jasper: Jaspe Zinogre
+zin.skymerald: Célémeraude Zin
+s.zin.cortex: Cort. Zinogre S.
+s.zin.dragonhair: Dracopeau Zin S.
+s.zin.hardhorn: Durc. Zinogre S.
+s.zinogre.talon: Serre Zinogre S.
+s.zinogre.lash: Fouet Zinogre S.
+s.zin.dragnshell: Coque Zinogre S.
+s.zin.skymerald: Célé. Zinogre S.
+nargacuga.scale+: Écai. Nargacuga+
+nargacuga.shard: Éclat Nargacuga
+nargacuga.pelt+: Peau Nargacuga+
+nargacuga.fur: Four. Nargacuga
+nargacuga.tail: Queue Nargacuga
+nargacuga.lash: Fouet Nargacuga
+narga.tailspike: Piqueue Narga
+narga.tailspear: Poinqueue Narga
+narga.razor: Rasoir Narga
+narga.razor+: Rasoir Narga+
+nargacuga.fang+: Croc Nargacuga+
+hvy.narga.fang: Croc Narga lrd
+narga.medulla: Medulla Narga
+nargacuga.mantle: Mante Nargacuga
+g.narga.shard: Éclat Narga V.
+g.narga.dapples: Taches Narga V.
+g.narga.razor+: Rasoir Narga V.+
+hvy.g.narga.fang: Croc Narg V. lrd
+g.narg.tailspear: Poinq. Narga V.
+l.narga.shard: Éclat Narga S.
+l.narga.dapples: Taches Narga S.
+l.narga.razor: Rasoir Narga S.
+hvy.l.narga.fang: Croc Narg S. lrd
+l.narg.tailspear: Poinq. Narga S.
+cloudy.moonshard: Éclalune trouble
+deviljho.scale: Écaille Deviljho
+deviljho.shard: Éclat Deviljho
+deviljho.hide: Cuir Deviljho
+deviljho.coat: Pelage Deviljho
+deviljho.fang: Croc Deviljho
+vile.fang: Croc vile
+deviljho.talon: Griffe Deviljho
+deviljho.ripper: Déchir. Deviljho
+deviljho.scalp: Scalp Deviljho
+deviljho.tail: Queue Deviljho
+deviljho.flail: Traîne Deviljho
+deviljho.saliva: Salive Deviljho
+black.blood: Sang noir
+deviljho.gem: Gemme Deviljho
+deviljho.crook: Crochet Deviljho
+alatreon.scute: Scutum Alatreon
+alatreon.pallium: Pallium Alatreon
+alatreon.plate: Plaque Alatreon
+alatreon.mantle: Mante Alatreon
+alatreon.talon: Griffe Alatreon
+alatreon.ripper: Déchir. Alatreon
+alatreon.webbing: Palmure Alatreon
+alatreo.direwing: Vilaile Alatreon
+alatreon.tail: Queue Alatreon
+alatreo.diretail: Vileq. Alatreon
+brkn.skypiercer: Perce-ciel brisé
+skypiercer: Perce-ciel
+skyswayer: Règne-ciel
+azure.dragongem: Gem.dragon azur
+azure.drgnsphire: Sph. dragon azur
+miralis.scale: Écaille Miralis
+miralis.fireback: Coque-f. Miralis
+miralis.fireclaw: Griffeu Miralis
+miralis.evil.eye: Malœil Miralis
+miralis.hellwing: Ailenfer Miralis
+miralis.smelter: Fonderie Miralis
+immortal.heart: Cœur immortel
+gushing.magma: Magma explosif
+dire.dragongem: Gem.dragon Miral
+rustshard: Rouille-éclat
+ancient.shard: Ancien éclat
+rusted.fragment: Fragment rouillé
+large.fragment: Large fragment
+slender.fragment: Fragment effilé
+long.fragment: Long fragment
+map: Carte
+first-aid.med: Premiers soins
+ration: Ration
+mini.whetstone: Mini aiguisoir
+ez.shock.trap: Piège choc port.
+ez.flash.bomb: Flash bmb four.
+ez.sonic.bomb: Bombe son. four.
+ez.max.potion: Potion max four.
+ez.pitfall.trap: Fosse pié. four.
+mini.oxy.supply: Mini bonb. oxy.
+ez.barrel.bomb.l: Gd bmb brl four.
+ballista.ammo: Mn Baliste
+ballista.binder: Baliste agglom.
+cannon.ammo: Mn Canon
+anti-dragon.bomb: Bombe antidragon
+torch: Torche
+paw.pass.ticket: Ticket Passechat
+royal.honey: Miel royal
+unique.mushroom: Champi spécial
+choice.mushroom: Champi parfait
+ripened.mushroom: Champi unique
+great.shroom: Grand champi
+super.sprout: Super pousse
+goldenfish: Poissondor
+silverfish: Poissondargent
+royal.rhino: Rhino royal
+divine.rhino: Rhino divin
+silver.cricket: Grillon argenté
+gold.cricket: Grillon doré
+auristone.piece: Morc. auripierre
+auristone.chunk: Frag. auripierre
+balmstone.piece: Mor. odoripierre
+balmstone.chunk: Fra. odoripierre
+crystal.bone: Os cristal
+golden.bone: Os en or
+bloodstone: Pierre-sang
+deep.bloodstone: Pierre-sg grenat
+coal: Charbon
+volatile.coal: Charbon volatil
+wyvern.egg: Œuf de Wyvern
+herbivore.egg: Œuf d'herbivore
+gargwa.egg: Œuf de Gargwa
+gold.gargwa.egg: Œuf en or Gargwa
+powderstone: Pierre-poudre
+gargwa.guano: Guano de Gargwa
+white.liver: Foie blanc
+slagtoth.oil: Huile Slagtoth
+popo.tongue: Langue de Popo
+secret.stash: Poche secrète
+round.acorn: Gland rond
+clean.pouch: Estomac raffiné
+sparkling.pouch: Estomac lumineux
+giggi.extract: Extrait Giggi
+monster.guts: Boyaux monstre
+red.coral.stone: Corail rouge
+wyvern.tear: Larmes de Wyvern
+lrg.wyvern.tear: Larmes Wyv. lges
+beast.tear: Larmes de bête
+lrg.beast.tear: Larmes bête lges
+bird.coin: Pièce aviaire
+leviathan.coin: Pièce Leviathan
+pinnacle.coin: Pièce apogée
+hunter.king.coin: Pièce roi chass.
+beast.coin: Pièce bêtes
+flying.coin: Pièce volants
+piscine.coin: Pièce nageurs
+brute.coin: Pièce brutaux
+voucher: Coupon
+gourmet.voucher: Coupon gourmet
+sharq.ticket: Ticket Requin
+thunderclap.diploma: Diplôme Thunderclap
+(jp.only).pirate.j.ticket: (JP only) Pirate J Ticket
+(jp.only).armament.invitation: (JP only) Armament Invitation
+shadowed.edge: Lame sombre
+medal.voucher.l: Coupon-médaille L
+lion's.claw: Griffe de lion
+exquisite.meat: Viande exquise
+(jp.only).swordmaster's.scroll: (JP only) Swordmaster's Scroll
+top.secret.formula: Formule top secrète
+flashbolt.diploma: Diplôme Flashbolt
+(jp.only).the.king's.proof: (JP only) The King's Proof
+captain's.iou: Gratitude capitaine
+hades's.skull: Crâne de Hadès
+(jp.only).legend.j.ticket: (JP only) Legend J Ticket
+crown.of.glory: Couronne de gloire
+(jp.only).studio.pass: (JP only) Studio Pass
+(jp.only).studio.pass.g: (JP only) Studio Pass G
+medal.voucher.g: Coupon-médaille G
+far.east.sword: Épée de l'est
+(jp.only).training.corps.pass: (JP only) Training Corps Pass
+(jp.only).soul.of.sgt..frog: (JP only) Soul of Sgt. Frog
+miniature.ticket: Ticket miniature
+fierce.soul: Âme brutale
+sparkly.fragment: Fragment étincelant
+commendation: Récompense
+conqueror's.seal: Sceau conquérant
+pawprint.stamp: Pattes-de-chat
+ve.ticket: Ticket AL
+ve.deluxe.ticket: Ticket luxe AL
+ve.bronze.ticket: Ticket bronze AL
+ve.silver.ticket: Ticket argent AL
+ve.golden.ticket: Ticket or AL
+ve.cosmic.ticket: Ticket extra AL
+chum-chum.ticket: Ticket ami
+aquaglow.jewel: J. reflet aqua
+sunspire.jewel: J.flèche solaire
+bloodrun.jewel: Joyau de sang
+lazurite.jewel: Joyau Lazurite
+adamant.orb: Orbe armure
+paralysis.jwl.1: J. paralysie 1
+paralysis.jwl.2: J. paralysie 2
+pep.jewel.1: Joyau ardeur 1
+pep.jewel.2: Joyau ardeur 2
+steadfast.jwl.1: Joyau ténacité 1
+standfast.jwl.1: Joyau fermeté 1
+antidote.jewel.1: Joyau antidote 1
+antidote.jewel.2: Joyau antidote 2
+tracker.jewel.1: Joyau traqueur 1
+trekker.jewel.1: Joyau rôdeur 1
+ninja.jewel.1: Joyau ninja 1
+vitality.jewel.1: Joyau vitalité 1
+recovery.jewel.1: Joyau récup. 1
+recovery.jewel.2: Joyau récup. 2
+razor.jewel.1: Joyau rasoir 1
+razor.jewel.3: Joyau rasoir 3
+handicraft.jwl.2: Joyau artisan 2
+handicraft.jwl.3: Joyau artisan 3
+fencer.jewel.1: Joyau escrim. 1
+fencer.jewel.3: Joyau escrim. 3
+expert.jewel.1: Joyau expert 1
+expert.jewel.2: Joyau expert 2
+expert.jewel.3: Joyau expert 3
+grinder.jewel.1: Joyau pileur 1
+ironwall.jewel.1: Joyau mur fer 1
+ironwall.jewel.2: Joyau mur fer 2
+shield.jewel.1: Joyau bouclier 1
+shield.jewel.2: Joyau bouclier 2
+quickload.jwl.1: J. charge rap. 1
+quickload.jwl.2: J. charge rap. 2
+absorber.jewel.1: J. absorbeur 1
+absorber.jewel.3: J. absorbeur 3
+forceshot.jwl.1: J. tir puiss. 1
+forceshot.jwl.3: J. tir puiss. 3
+pierce.jewel.1: Joyau perçant 1
+pierce.jewel.3: Joyau perçant 3
+pellet.jewel.1: Joyau plomb 1
+pellet.jewel.3: Joyau plomb 3
+shotplus.jewel.1: J. bonus tir 1
+shotplus.jewel.2: J. bonus tir 2
+pierceplus.jwl.1: J. bonus prc. 1
+pelletplus.jwl.1: J. bonus plomb 1
+cragplus.jewel.1: J. bonus expl. 1
+clustplus.jwl.1: J. bonus frag 1
+disabler.jewel.1: J. infirmant 1
+disabler.jewel.2: J. infirmant 2
+element.jewel.1: Joyau élément 1
+element.jewel.3: Joyau élément 3
+bombardier.jwl.1: J. bombardier 1
+hungerless.jwl.1: Joyau repu 1
+metabolism.jwl.1: J. métabolisme 1
+attack.jewel.1: Joyau attaque 1
+attack.jewel.2: Joyau attaque 2
+attack.jewel.3: Joyau attaque 3
+defense.jewel.1: Joyau défense 1
+defense.jewel.2: Joyau défense 2
+protection.jwl.1: J. projection 1
+asylum.jewel.1: Joyau asile 1
+earplug.jewel.1: Joyau bouchon 1
+earplug.jewel.3: Joyau bouchon 3
+alarm.jewel.1: Joyau alarme 1
+friendship.jwl.1: Joyau amitié 1
+friendship.jwl.2: Joyau amitié 2
+transportr.jwl.1: J. transport 1
+fire.res.jewel.1: Joyau feu 1
+water.res.jwl.1: Joyau eau 1
+ice.res.jewel.1: Joyau glace 1
+thunderres.jwl.1: Joyau foudre 1
+dragon.res.jwl.1: Joyau dragon 1
+heat.res.jewel.1: Joyau chaleur 1
+cold.res.jewel.1: Joyau froid 1
+wind.res.jewel.1: Joyau vent 1
+wind.res.jewel.2: Joyau vent 2
+gathering.jwl.1: Joyau collecte 1
+spree.jewel.1: Joyau Enchaîn. 1
+blessing.jewel.1: Joyau béni 1
+fate.jewel.1: Joyau destin 1
+fate.jewel.3: Joyau destin 3
+psychic.jewel.1: J. psychique 1
+medicine.jewel.1: Joyau remède 1
+medicine.jewel.2: Joyau remède 2
+professor.jwl.1: J. professeur 1
+factory.jewel.1: Joyau usine 1
+evasion.jewel.1: Joyau évasion 1
+evasion.jewel.2: Joyau évasion 2
+potential.jwl.1: J. potentiel 1
+potential.jwl.2: J. potentiel 2
+enduring.jewel.1: Joyau durable 1
+sprinter.jewel.1: Joyau sprinter 1
+sprinter.jewel.3: Joyau sprinter 3
+capacity.jewel.2: Joyau capacité 2
+capacity.jewel.3: Joyau capacité 3
+sniper.jewel.1: Joyau sniper 1
+gobbler.jewel.1: Joyau glouton 1
+gobbler.jewel.3: Joyau glouton 3
+carver.jewel.1: J. découpeur 1
+carver.jewel.3: J. découpeur 3
+footing.jewel.1: Joyau appui 1
+tectonic.jewel.1: J. tectonique 1
+jumping.jewel.1: Joyau de saut 1
+draw.jewel.1: Joyau dégaine 1
+draw.jewel.2: Joyau dégaine 2
+trapmaster.jwl.1: J. m. piégeur 1
+physique.jewel.1: Joyau physique 1
+physique.jewel.2: Joyau physique 2
+capture.jewel.1: Joyau capture 1
+capture.jewel.3: Joyau capture 3
+perception.jwl.1: J. perception 1
+charger.jewel.1: Joyau chargeur 1
+charger.jewel.3: Joyau chargeur 3
+fresh.air.jwl.1: J. air frais 1
+stopflow.jewel.1: Joyau digue 1
+swimmer.jewel.1: Joyau nageur 1
+diver.jewel.1: Joyau plongeur 1
+gambit.jewel.1: Joyau tactique 1
+gambit.jewel.3: Joyau tactique 3
+resistor.jewel.1: J. résistance 1
+release.jewel.2: J. libération 1
+catalyst.jewel.3: J. catalyste 3
+fortitude.jwl.1: Joyau courage 1
+fortitude.jwl.2: Joyau courage 2
+salvo.jewel.1: Joyau salve 1
+salvo.jewel.3: Joyau salve 3
+dungmaster.jwl.1: Joyau bousier 1
+torchlight.jwl.1: Joyau torche 1
+def.lock.jewel.1: J. assurance 1
+sterile.jewel.1: Joyau stérile 1
+aseptic.jewel.1: J. aseptique 1
+blaze.jewel.1: Joyau brasier 1
+blaze.jewel.2: Joyau brasier 2
+stream.jewel.1: Joyau flot 1
+stream.jewel.2: Joyau flot 2
+bolt.jewel.1: Joyau éclair 1
+bolt.jewel.2: Joyau éclair 2
+frost.jewel.1: Joyau givre 1
+frost.jewel.2: Joyau givre 2
+dragon.jewel.1: Joyau dragon 1
+dragon.jewel.2: Joyau dragon 2
+tenderizer.jwl.1: J. attendris. 1
+tenderizer.jwl.3: J. attendris. 3
+destroyer.jwl.1: J. destructeur 1
+destroyer.jwl.3: J. destructeur 3
+throttle.jewel.1: J. autorité 1
+throttle.jewel.2: J. autorité 2
+ko.jewel.1: Joyau KO 1
+drain.jewel.1: Joyau drainage 1
+drain.jewel.2: Joyau drainage 2
+sonorous.jewel.1: Joyau sonore 1
+artillery.jwl.1: J. artillerie 1
+resistor.jewel.3: J. résistance 3
+nul-fire.jewel.1: Joyau anti-feu 1
+nul-water.jwl.1: Joyau anti-eau 1
+nul-thundr.jwl.1: J. anti-foudre 1
+nul-ice.jewel.1: J. anti-glace 1
+nul-dragon.jwl.1: J. anti-dragon 1
+sheath.jewel.1: J. rengainage 1
+sheath.jewel.2: J. rengainage 2
+refresh.jewel.1: J. revigorant 1
+refresh.jewel.2: J. revigorant 2
+ranger.jewel.1: Joyau ranger 1
+sliceplus.jwl.1: J. bonus tran. 1
+paracoat.jwl.1: J. end. para. 1
+paracoat.jwl.2: J. end. para. 2
+sleepcoat.jwl.1: J. end. som. 1
+poisoncoat.jwl.1: J. end. poison 1
+powercoat.jwl.1: J. end. éner. 1
+powercoat.jwl.2: J. end. éner. 2
+rangecoat.jwl.1: J. end. càc 1
+draincoat.jwl.1: J. end. épuis. 1
+stopflow.jewel.2: Joyau digue 2
+guts.jewel.1: Joyau bravoure 1
+guts.jewel.2: Joyau bravoure 2
+meateater.jwl.1: J. carnivore 1
+meatlover.jwl.1: J. carnassier 1
+slider.jewel.1: Joyau esquive 1
+glider.jewel.1: Joyau glissade 1
+honeybee.jewel.1: Joyau abeille 1
+queenbee.jewel.1: Joyau ruche 1
+biology.jewel.1: Joyau biologie 1
+microbio.jewel.1: Joyau microbio 1
+spirit.jewel.1: Joyau courage 1
+spirit.jewel.2: Joyau courage 2
+flawless.jewel.1: Joyau parfait 1
+flawless.jewel.2: Joyau parfait 2
+steady.jewel.1: Joyau stable 1
+steady.jewel.3: Joyau stable 3
+fish.jewel.1: Joyau poisson 1
+fish.jewel.2: Joyau poisson 2
+player.jewel.1: Joyau joueur 1
+morale.jewel.1: Joyau moral 1
+leader.jewel.1: Joyau leader 1
+leader.jewel.2: Joyau leader 2
+ko.jewel.2: Joyau KO 2
+charmer.jewel.1: Joyau charme 1
+slimeplus.jwl.1: J. bonus pois. 1
+slimecoat.jwl.1: J. end. poisse 1
+flying.wyverns.vol.1: Wyv. volants 1
+flying.wyverns.vol.2: Wyv. volants 2
+flying.wyverns.vol.3: Wyv. volants 3
+flying.wyverns.vol.4: Wyv. volants 4
+flying.wyverns.vol.5: Wyv. volants 5
+bird.wyverns.vol.1: Wyv. aviaires 1
+bird.wyverns.vol.2: Wyv. aviaires 2
+brute.wyverns.vol.1: Wyv. brutaux 1
+brute.wyverns.vol.2: Wyv. brutaux 2
+brute.wyverns.vol.3: Wyv. brutaux 3
+leviathans.vol.1: Leviathans 1
+leviathans.vol.2: Leviathans 2
+leviathans.vol.3: Leviathans 3
+fanged.wyverns.vol.1: Wyv. à crocs 1
+fanged.wyverns.vol.2: Wyv. à crocs 2
+fanged.beasts: Bêtes à crocs
+piscine.wyverns: Wyverns nageurs
+elder.dragons.vol.1: Dragons anciens 1
+elder.dragons.vol.2: Dragons anciens 2
+elder.dragons.vol.3: Dragons anciens 3
+lynians: Lyniens
+neopteron: Neopteron
+herbivores.vol.1: Herbivores 1
+herbivores.vol.2: Herbivores 2
+fish: Poisson
+deviljho: Deviljho
+brachydios: Brachydios
+dire.miralis: Dire Miralis
+plesioth.vol.1: Plesioth 1
+plesioth.vol.2: Plesioth 2
+captain.plus: Capitaine Plus
+redspear.plus: Lance Rouge +
+blackspear.plus: Lance Noire +
+pygmelion: Pastèque
+angel.leotard: Collant d'ange
+sleepy.sheepy: Mouton dort
+hog.in.a.frog: Cochongrenouille
+waka-waka.dance: Danse Waka-Waka
+weapon.codex: Codex arme
+bowgun.codex: Codex fusarbal.
+hunter.tome: Livre de chasse
+seven.lives.tome: Livre Sept vies
+captain.max: Capitaine Max
+redspear.max: Lance Rouge Max
+blackspear.max: Lance Noire Max
+gatherer.tome: Livre jardinage
+last.stand.tome: Livre de combat
+boom-boom.dance: Danse Boom-boom
+false.felyne: Faux Felyne
+stink.mask: Masque puant
+whetstone.mask: Masque-aiguisoir
+idol.mask: Masque d'idole
+bombardier.tome: Livre explosif

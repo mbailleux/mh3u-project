@@ -1,6 +1,6 @@
 <?php
 
-namespace MH3U\ItemBundle\Entity;
+namespace MH3U\ItemBundle\Entity\Repository;
 
 use Doctrine\ORM\EntityRepository;
 

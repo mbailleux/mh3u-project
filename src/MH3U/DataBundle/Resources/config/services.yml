@@ -1,0 +1,4 @@
+services:
+    MH3U_import_data.service:
+        class: MH3U\DataBundle\Service\DataImport
+        arguments: [ @service_container ]

@@ -17,22 +17,21 @@ class Combination
      *
      * @ORM\Column(name="id", type="integer")
      * @ORM\Id
-     * @ORM\GeneratedValue(strategy="AUTO")
      */
     private $id;
 
     /**
-     * @ORM\OneToOne(targetEntity="MH3U\ItemBundle\Entity\Item", cascade={"persist"})
+     * @ORM\ManyToOne(targetEntity="MH3U\ItemBundle\Entity\Item", cascade={"persist"})
      */
     private $itemA;
 
     /**
-     * @ORM\OneToOne(targetEntity="MH3U\ItemBundle\Entity\Item", cascade={"persist"})
+     * @ORM\ManyToOne(targetEntity="MH3U\ItemBundle\Entity\Item", cascade={"persist"})
      */
     private $itemB;
 
     /**
-     * @ORM\OneToOne(targetEntity="MH3U\ItemBundle\Entity\Item", cascade={"persist"})
+     * @ORM\ManyToOne(targetEntity="MH3U\ItemBundle\Entity\Item", cascade={"persist"})
      */
     private $itemResult;
 
@@ -44,14 +43,23 @@ class Combination
     private $percent;
 
     /**
-     * @var integer
+     * @var String
      *
-     * @ORM\Column(name="quantity", type="integer")
+     * @ORM\Column(name="quantity", type="string", length=255)
      */
     private $quantity;
 
+    /**
+     * Set id
+     *
+     * @return Object
+     */
+    public function setId($id)
+    {
+        $this->id = $id;
 
-
+        return $this;
+    }
 
     /**
      * Get id

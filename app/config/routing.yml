@@ -1,3 +1,7 @@
+mh3_u_data:
+    resource: "@MH3UDataBundle/Resources/config/routing.yml"
+    prefix:   /
+
 core_core:
     resource: "@CoreCoreBundle/Resources/config/routing.yml"
     prefix:   /
