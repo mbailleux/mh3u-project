@@ -57,7 +57,7 @@ class MenuBuilder
         $menu['User']->setChildrenAttributes(array('class' => 'dropdown-menu'));
 
         if ($securityContext->isGranted("ROLE_ADMIN")) {
-            $menu['User']->addChild('Admin', array('route' => 'fos_user_profile_edit'));
+            $menu['User']->addChild('Admin', array('route' => 'sonata_admin_dashboard'));
         }
 
         $menu['User']->addChild('Settings', array('route' => 'fos_user_profile_edit'));

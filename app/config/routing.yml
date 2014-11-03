@@ -1,5 +1,5 @@
-mh3_u_data:
-    resource: "@MH3UDataBundle/Resources/config/routing.yml"
+core_admin:
+    resource: "@CoreAdminBundle/Resources/config/routing.yml"
     prefix:   /
 
 core_core:
@@ -18,6 +18,10 @@ MH3U_menu:
     resource: "@MH3UMenuBundle/Resources/config/routing.yml"
     prefix:   /
 
+MH3U_data:
+    resource: "@MH3UDataBundle/Resources/config/routing.yml"
+    prefix:   /
+
 MH3U_combination:
     resource: "@MH3UCombinationBundle/Resources/config/routing.yml"
     prefix:   /
@@ -33,6 +37,3 @@ MH3U_weapon:
 MH3U_item:
     resource: "@MH3UItemBundle/Resources/config/routing.yml"
     prefix:   /
-
-
-

@@ -18,6 +18,10 @@ class AppKernel extends Kernel
             new Doctrine\Bundle\FixturesBundle\DoctrineFixturesBundle(),
             new Sensio\Bundle\FrameworkExtraBundle\SensioFrameworkExtraBundle(),
             new Knp\Bundle\MenuBundle\KnpMenuBundle(),
+            new Sonata\CoreBundle\SonataCoreBundle(),
+            new Sonata\BlockBundle\SonataBlockBundle(),
+            new Sonata\DoctrineORMAdminBundle\SonataDoctrineORMAdminBundle(),
+            new Sonata\AdminBundle\SonataAdminBundle(),
             new FOS\UserBundle\FOSUserBundle(),
             new Core\CoreBundle\CoreCoreBundle(),
             new Core\MenuBundle\CoreMenuBundle(),
@@ -28,6 +32,7 @@ class AppKernel extends Kernel
             new MH3U\ItemBundle\MH3UItemBundle(),
             new MH3U\WeaponBundle\MH3UWeaponBundle(),
             new MH3U\DataBundle\MH3UDataBundle(),
+            new Core\AdminBundle\CoreAdminBundle(),
         );
 
         if (in_array($this->getEnvironment(), array('dev', 'test'))) {

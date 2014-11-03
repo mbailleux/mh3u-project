@@ -37,7 +37,9 @@
         "twbs/bootstrap": "3.2.*",
         "jquery/jquery":  "1.10.*",
         "friendsofsymfony/user-bundle": "2.0.x-dev",
-        "ddeboer/data-import-bundle": "dev-master"
+        "ddeboer/data-import-bundle": "dev-master",
+        "sonata-project/admin-bundle": "2.3.x-dev",
+        "sonata-project/doctrine-orm-admin-bundle": "2.3.0"
     },
     "require-dev": {
         "sensio/generator-bundle": "~2.3"

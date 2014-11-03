@@ -85,6 +85,10 @@ layout:
 
 # Form field labels
 form:
+    category:
+      general: Général
+      groups: Groupes
+      management: Gestion
     group_name: "Nom du groupe :"
     username: "Nom d'utilisateur :"
     email: "Adresse e-mail :"
