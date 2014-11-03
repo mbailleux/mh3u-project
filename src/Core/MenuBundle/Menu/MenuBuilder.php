@@ -3,13 +3,33 @@
 namespace Core\MenuBundle\Menu;
 
 use Knp\Menu\FactoryInterface;
-use Symfony\Component\DependencyInjection\ContainerAware;
+use Symfony\Component\HttpFoundation\Request;
+use Symfony\Component\Security\Core\SecurityContextInterface;
 
-class MenuBuilder extends ContainerAware
+class MenuBuilder
 {
-    public function navWithNoUserLoggedMenu(FactoryInterface $factory, array $options)
+    private $factory;
+
+    /**
+     * @param FactoryInterface $factory
+     */
+    public function __construct(FactoryInterface $factory)
     {
-        $menu = $factory->createItem('navbar');
+        $this->factory = $factory;
+    }
+
+    public function navBarMenu(Request $request, SecurityContextInterface $securityContext)
+    {
+        if ($securityContext->isGranted("ROLE_USER")) {
+            return $this->navBarMenuWithUserLoggedMenu($securityContext);
+        } else {
+            return $this->navBarMenuWithNoUserLoggedMenu();
+        }
+    }
+
+    public function navBarMenuWithNoUserLoggedMenu()
+    {
+        $menu = $this->factory->createItem('navbar');
 
         $menu->setChildrenAttributes(array('class' => 'nav navbar-top-links navbar-right'));
 
@@ -24,9 +44,9 @@ class MenuBuilder extends ContainerAware
         return $menu;
     }
 
-    public function navWithUserLoggedMenu(FactoryInterface $factory, array $options)
+    public function navBarMenuWithUserLoggedMenu($securityContext)
     {
-        $menu = $factory->createItem('navbar');
+        $menu = $this->factory->createItem('navbar');
 
         $menu->setChildrenAttributes(array('class' => 'nav navbar-top-links navbar-right'));
 
@@ -35,6 +55,10 @@ class MenuBuilder extends ContainerAware
         $menu['User']->setAttributes(array('class' => 'dropdown'));
         $menu['User']->setLinkAttributes(array('class' => 'dropdown-toggle', 'data-toggle' => 'dropdown'));
         $menu['User']->setChildrenAttributes(array('class' => 'dropdown-menu'));
+
+        if ($securityContext->isGranted("ROLE_ADMIN")) {
+            $menu['User']->addChild('Admin', array('route' => 'fos_user_profile_edit'));
+        }
 
         $menu['User']->addChild('Settings', array('route' => 'fos_user_profile_edit'));
         $menu['User']->addChild('Logout',   array('route' => 'fos_user_security_logout'));

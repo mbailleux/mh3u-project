@@ -1,5 +1,12 @@
 <div class="navbar-default sidebar" role="navigation">
     <div class="sidebar-nav navbar-collapse">
-        {{ knp_menu_render('MH3UMenuBundle:MenuBuilder:sideMenu') }}
+        {{
+            knp_menu_render(
+                'mh3u_sidebar',
+                {
+                    'currentClass': 'active'
+                }
+            )
+        }}
     </div>
 </div>

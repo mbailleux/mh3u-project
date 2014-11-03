@@ -3,13 +3,23 @@
 namespace MH3U\MenuBundle\Menu;
 
 use Knp\Menu\FactoryInterface;
-use Symfony\Component\DependencyInjection\ContainerAware;
+use Symfony\Component\HttpFoundation\Request;
 
-class MenuBuilder extends ContainerAware
+class MenuBuilder
 {
-    public function sideMenu(FactoryInterface $factory, array $options)
+    private $factory;
+
+    /**
+     * @param FactoryInterface $factory
+     */
+    public function __construct(FactoryInterface $factory)
     {
-        $menu = $factory->createItem('sidebar');
+        $this->factory = $factory;
+    }
+
+    public function sideBarMenu(Request $request)
+    {
+        $menu = $this->factory->createItem('sidebar');
 
         $menu->setChildrenAttributes(array('class' => 'nav'));
 

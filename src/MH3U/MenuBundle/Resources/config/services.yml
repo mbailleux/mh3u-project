@@ -1,4 +1,13 @@
 services:
-#    mh3up_menu.example:
-#        class: mh3up\MenuBundle\Example
-#        arguments: [@service_id, "plain_value", %parameter%]
+    mh3u.menu_builder:
+        class: MH3U\MenuBundle\Menu\MenuBuilder
+        arguments: ["@knp_menu.factory"]
+
+    mh3u.menu.sidebar:
+        class: Knp\Menu\MenuItem # the service definition requires setting the class
+        factory_service: mh3u.menu_builder
+        factory_method: sideBarMenu
+        arguments: ["@request"]
+        scope: request # needed as we have the request as a dependency here
+        tags:
+            - { name: knp_menu.menu, alias: mh3u_sidebar } # The alias is what is used to retrieve the menu
