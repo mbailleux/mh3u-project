@@ -8,15 +8,15 @@ services:
             - Core\CoreBundle\Entity\News
             - ~
         calls:
-            - [ setTranslationDomain, [Core\CoreBundle]]
+            - [ setTranslationDomain, [news]]
     sonata.admin.user:
-            class: Core\AdminBundle\Admin\UserAdmin
-            tags:
-                - { name: sonata.admin, manager_type: orm, group: "Core", label: "Users" }
-            arguments:
-                - ~
-                - Core\UserBundle\Entity\User
-                - ~
-            calls:
-                - [ setTranslationDomain, [CoreUserBundle]]
-                - [ setUserManager, ["@fos_user.user_manager"]]
+        class: Core\AdminBundle\Admin\UserAdmin
+        tags:
+            - { name: sonata.admin, manager_type: orm, group: "Core", label: "Users" }
+        arguments:
+            - ~
+            - Core\UserBundle\Entity\User
+            - ~
+        calls:
+            - [ setTranslationDomain, [CoreUserBundle]]
+            - [ setUserManager, ["@fos_user.user_manager"]]
