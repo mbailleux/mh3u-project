@@ -38,9 +38,9 @@ class News
     /**
      * @var boolean
      *
-     * @ORM\Column(name="active", type="boolean")
+     * @ORM\Column(name="enabled", type="boolean")
      */
-    private $active;
+    private $enabled;
 
     /**
      * @var \DateTime
@@ -111,26 +111,26 @@ class News
     }
 
     /**
-     * Set active
+     * Set enabled
      *
-     * @param boolean $active
+     * @param boolean $enabled
      * @return News
      */
-    public function setActive($active)
+    public function setEnabled($enabled)
     {
-        $this->active = $active;
+        $this->enabled = $enabled;
 
         return $this;
     }
 
     /**
-     * Get active
+     * Get enabled
      *
      * @return boolean 
      */
-    public function getActive()
+    public function getEnabled()
     {
-        return $this->active;
+        return $this->enabled;
     }
 
     /**

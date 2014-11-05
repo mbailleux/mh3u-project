@@ -24,7 +24,7 @@ class LoadNewsData extends AbstractFixture implements FixtureInterface, OrderedF
             dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
             deserunt mollit anim id est laborum."
         );
-        $firstNews->setActive(true);
+        $firstNews->setEnabled(true);
 
         $secondNews = new News();
         $secondNews->setTitle("Titre de test 2");
@@ -35,7 +35,7 @@ class LoadNewsData extends AbstractFixture implements FixtureInterface, OrderedF
             dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
             deserunt mollit anim id est laborum."
         );
-        $secondNews->setActive(true);
+        $secondNews->setEnabled(true);
 
         $manager->persist($firstNews);
         $manager->persist($secondNews);

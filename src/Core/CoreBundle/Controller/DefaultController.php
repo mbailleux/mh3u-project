@@ -13,7 +13,7 @@ class DefaultController extends Controller
 
     public function newsAction()
     {
-        $news = $this->getDoctrine()->getRepository('CoreCoreBundle:News')->findActiveOrderedByCreatedAt();
+        $news = $this->getDoctrine()->getRepository('CoreCoreBundle:News')->findEnabledOrderedByCreatedAt();
 
         return $this->render('CoreCoreBundle:News:index.html.twig', array('news' => $news));
     }

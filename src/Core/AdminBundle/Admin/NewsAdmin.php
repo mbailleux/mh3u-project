@@ -9,13 +9,15 @@ use Sonata\AdminBundle\Form\FormMapper;
 
 class NewsAdmin extends Admin
 {
+    public $supportsPreviewMode = true;
+
     // Fields to be shown on create/edit forms
     protected function configureFormFields(FormMapper $formMapper)
     {
         $formMapper
             ->add('title', 'text', array('label' => 'news.title'))
             ->add('content', 'textarea', array('label' => 'news.content'))
-            ->add('active')
+            ->add('enabled', 'checkbox', array('label' => 'news.enable'))
         ;
     }
 
@@ -24,7 +26,7 @@ class NewsAdmin extends Admin
     {
         $datagridMapper
             ->add('title')
-            ->add('active')
+            ->add('enabled')
         ;
     }
 
@@ -33,7 +35,7 @@ class NewsAdmin extends Admin
     {
         $listMapper
             ->addIdentifier('title')
-            ->add('active')
+            ->add('enabled')
         ;
     }
 } 
