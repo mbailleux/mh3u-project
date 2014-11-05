@@ -1,0 +1,10 @@
+user:
+    username: Username
+    email: Email
+    password: Password
+    locked: Locked
+    expired: Expired
+    enabled: Enabled
+    credentialsExpired: Credentials expired
+    last:
+        login: Last login

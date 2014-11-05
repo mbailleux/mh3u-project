@@ -14,20 +14,32 @@ class UserAdmin extends Admin
     protected function configureFormFields(FormMapper $formMapper)
     {
         $formMapper
-            ->with('form.category.general')
-                ->add('username',       'text', array('label' => 'form.username'))
-                ->add('email',          'text', array('label' => 'form.email'))
-                ->add('plainPassword',  'text', array('label' => 'form.password'))
+            ->with('admin.category.general')
+                ->add('username',       'text', array('label' => 'user.username'))
+                ->add('email',          'text', array('label' => 'user.email'))
+                ->add('plainPassword',  'text', array('label' => 'user.password'))
             ->end()
 //            ->with('form.category.groups')
 //                ->add('groups', 'sonata_type_model', array('required' => false))
 //            ->end()
-            ->with('form.category.management')
+            ->with('admin.category.management')
 //                ->add('roles', 'sonata_security_roles', array( 'multiple' => true))
-                ->add('locked', null, array('required' => false))
-                ->add('expired', null, array('required' => false))
-                ->add('enabled', null, array('required' => false))
-                ->add('credentialsExpired', null, array('required' => false))
+                ->add('locked',     null, array(
+                    'required' => false,
+                    'label' => 'user.locked'
+                ))
+                ->add('expired',    null, array(
+                    'required' => false,
+                    'label' => 'user.expired'
+                ))
+                ->add('enabled',    null, array(
+                    'required' => false,
+                    'label' => 'user.enabled'
+                ))
+                ->add('credentialsExpired', null, array(
+                    'required' => false,
+                    'label' => 'user.credentialsExpired'
+                ))
             ->end()
         ;
     }
@@ -36,9 +48,9 @@ class UserAdmin extends Admin
     protected function configureDatagridFilters(DatagridMapper $datagridMapper)
     {
         $datagridMapper
-            ->add('username')
-//            ->add('roles')
-            ->add('enabled')
+            ->add('username', null, array('label' => 'user.username'))
+//            ->add('roles', null, array('label' => 'user.roles'))
+            ->add('enabled', null, array('label' => 'user.enabled'))
         ;
     }
 
@@ -46,11 +58,11 @@ class UserAdmin extends Admin
     protected function configureListFields(ListMapper $listMapper)
     {
         $listMapper
-            ->addIdentifier('username')
-            ->add('email')
-//            ->add('roles')
-            ->add('enabled')
-            ->add('last_login', 'time')
+            ->addIdentifier('username', null, array('label' => 'user.username'))
+            ->add('email',      null,   array('label' => 'user.email'))
+//            ->add('roles',    null,   array('label' => 'user.roles'))
+            ->add('enabled',    null,   array('label' => 'user.enabled'))
+            ->add('last_login', 'time', array('label' => 'user.last.login'))
         ;
     }
 

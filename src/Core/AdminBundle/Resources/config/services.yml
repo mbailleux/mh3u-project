@@ -8,7 +8,7 @@ services:
             - Core\CoreBundle\Entity\News
             - ~
         calls:
-            - [ setTranslationDomain, [news]]
+            - [ setTranslationDomain, [adminNews]]
     sonata.admin.user:
         class: Core\AdminBundle\Admin\UserAdmin
         tags:
@@ -18,5 +18,5 @@ services:
             - Core\UserBundle\Entity\User
             - ~
         calls:
-            - [ setTranslationDomain, [CoreUserBundle]]
+            - [ setTranslationDomain, [adminUser]]
             - [ setUserManager, ["@fos_user.user_manager"]]
