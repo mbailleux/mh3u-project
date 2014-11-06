@@ -1,4 +1,12 @@
 services:
-#    mh3up_user.example:
-#        class: mh3up\UserBundle\Example
-#        arguments: [@service_id, "plain_value", %parameter%]
+    core_user.locale_listener:
+        class: Core\UserBundle\EventListener\LocaleListener
+        arguments: ["%kernel.default_locale%"]
+        tags:
+            - { name: kernel.event_subscriber }
+    core_user.login:
+            class: Core\UserBundle\EventListener\LoginListener
+            arguments: [@security.context, @router]
+            tags:
+                - { name: kernel.event_listener, event: security.authentication.success, method: handle }
+                - { name: kernel.event_listener, event: kernel.response, method: onKernelResponse }
