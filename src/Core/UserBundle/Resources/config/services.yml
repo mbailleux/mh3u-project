@@ -10,3 +10,7 @@ services:
             tags:
                 - { name: kernel.event_listener, event: security.authentication.success, method: handle }
                 - { name: kernel.event_listener, event: kernel.response, method: onKernelResponse }
+    core_user.profile.form.type:
+        class: Core\UserBundle\Form\Type\ProfileFormType
+        tags:
+            - { name: form.type, alias: core_user_profile }
