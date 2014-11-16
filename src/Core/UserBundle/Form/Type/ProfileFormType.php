@@ -9,8 +9,13 @@ class ProfileFormType extends AbstractType
 {
     public function buildForm(FormBuilderInterface $builder, array $options)
     {
-//        parent::buildForm($builder, $options);
-        $builder->add('locale', 'locale', array('label' => 'form.locale'));
+        $builder->add('locale', 'choice', array(
+            'label' => 'form.locale.label',
+            'choices' => array(
+                'en' => 'form.locale.english',
+                'fr' => 'form.locale.french'
+            )
+        ));
     }
 
     public function getParent()

@@ -1,0 +1,5 @@
+form:
+    locale:
+        label: Langue
+        english: Anglais
+        french: Français

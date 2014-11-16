@@ -4,7 +4,7 @@ services:
         arguments: ["%kernel.default_locale%"]
         tags:
             - { name: kernel.event_subscriber }
-    core_user.login:
+    core_user.login_listener:
             class: Core\UserBundle\EventListener\LoginListener
             arguments: [@security.context, @router]
             tags:
