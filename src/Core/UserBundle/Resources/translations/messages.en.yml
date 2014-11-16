@@ -1,5 +1,5 @@
 form:
     locale:
-        label: Locale
+        label: Locale :
         english: English
         french: French

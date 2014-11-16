@@ -1,0 +1,9 @@
+menu:
+    navbar:
+        core:
+            user: User
+            login: Login
+            logout: Logout
+            register: Register
+            settings: Settings
+            admin: Admin

@@ -1,0 +1,9 @@
+mh3u:
+    combination:
+        title: Combinations
+        header:
+            item_a: Item A
+            item_b: Item B
+            result: Result
+            percent: Percent
+            quantity: Quantity

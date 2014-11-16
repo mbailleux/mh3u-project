@@ -1,0 +1,9 @@
+mh3u:
+    items:
+        title: Objets
+        header:
+            item: Objet
+            rank: Rang
+            capacity: Capacité
+            purchase: Achat
+            sale: Vente
