@@ -8,7 +8,7 @@
         </button>
         <a class="navbar-brand" href="{{ url('core_homepage') }}">
             <img src="{{ asset('bundles/coremenu/images/MH3U-logo.png') }}" class="navbar-logo"/>
-            Monster Hunter Helper
+            {{ 'core.application.title' | trans }}
         </a>
     </div>
     {% include 'CoreMenuBundle:Menu:navbar.html.twig' %}

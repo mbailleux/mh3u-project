@@ -34,12 +34,13 @@ class MenuBuilder
         $menu->setChildrenAttributes(array('class' => 'nav navbar-top-links navbar-right'));
 
         $menu->addChild('User', array('uri' => '#'));
+        $menu['User']->setLabel('menu.navbar.core.user');
         $menu['User']->setAttributes(array('class' => 'dropdown'));
         $menu['User']->setLinkAttributes(array('class' => 'dropdown-toggle', 'data-toggle' => 'dropdown'));
         $menu['User']->setChildrenAttributes(array('class' => 'dropdown-menu'));
 
-        $menu['User']->addChild('Login',    array('route' => 'fos_user_security_login'));
-        $menu['User']->addChild('Register', array('route' => 'fos_user_registration_register'));
+        $menu['User']->addChild('menu.navbar.core.login',    array('route' => 'fos_user_security_login'));
+        $menu['User']->addChild('menu.navbar.core.register', array('route' => 'fos_user_registration_register'));
 
         return $menu;
     }
@@ -51,17 +52,17 @@ class MenuBuilder
         $menu->setChildrenAttributes(array('class' => 'nav navbar-top-links navbar-right'));
 
         $menu->addChild('User', array('uri' => '#'));
-
+        $menu['User']->setLabel('menu.navbar.core.user');
         $menu['User']->setAttributes(array('class' => 'dropdown'));
         $menu['User']->setLinkAttributes(array('class' => 'dropdown-toggle', 'data-toggle' => 'dropdown'));
         $menu['User']->setChildrenAttributes(array('class' => 'dropdown-menu'));
 
         if ($securityContext->isGranted("ROLE_ADMIN")) {
-            $menu['User']->addChild('Admin', array('route' => 'sonata_admin_dashboard'));
+            $menu['User']->addChild('menu.navbar.core.admin', array('route' => 'sonata_admin_dashboard'));
         }
 
-        $menu['User']->addChild('Settings', array('route' => 'fos_user_profile_edit'));
-        $menu['User']->addChild('Logout',   array('route' => 'fos_user_security_logout'));
+        $menu['User']->addChild('menu.navbar.core.settings', array('route' => 'fos_user_profile_edit'));
+        $menu['User']->addChild('menu.navbar.core.logout',   array('route' => 'fos_user_security_logout'));
 
         return $menu;
     }
