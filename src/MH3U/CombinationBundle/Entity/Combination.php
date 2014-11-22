@@ -8,7 +8,7 @@ use Doctrine\ORM\Mapping as ORM;
  * Combination
  *
  * @ORM\Table(name="mh3u_combination")
- * @ORM\Entity(repositoryClass="MH3U\CombinationBundle\Entity\CombinationRepository")
+ * @ORM\Entity(repositoryClass="MH3U\CombinationBundle\Entity\Repository\CombinationRepository")
  */
 class Combination
 {
