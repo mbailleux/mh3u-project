@@ -20,10 +20,12 @@ class Item
      */
     private $id;
 
-//    /**
-//     * @ORM\OneToOne(targetEntity="MH3U\ItemBundle\Entity\ItemName", cascade={"persist"})
-//     **/
-//    private $name;
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="name", type="string", length=255, nullable=true)
+     */
+    private $name;
 
 //    /**
 //     * @ORM\OneToOne(targetEntity="MH3U\ItemBundle\Entity\ItemGroup", cascade={"persist"})
@@ -80,28 +82,28 @@ class Item
         return $this->id;
     }
 
-//    /**
-//     * Set name
-//     *
-//     * @param string $name
-//     * @return Object
-//     */
-//    public function setName($name)
-//    {
-//        $this->name = $name;
-//
-//        return $this;
-//    }
-//
-//    /**
-//     * Get name
-//     *
-//     * @return string
-//     */
-//    public function getName()
-//    {
-//        return $this->name;
-//    }
+    /**
+     * Set name
+     *
+     * @param string $name
+     * @return Object
+     */
+    public function setName($name)
+    {
+        $this->name = $name;
+
+        return $this;
+    }
+
+    /**
+     * Get name
+     *
+     * @return string
+     */
+    public function getName()
+    {
+        return $this->name;
+    }
 
     /**
      * Set rank

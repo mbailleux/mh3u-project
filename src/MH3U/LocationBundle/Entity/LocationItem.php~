@@ -1,0 +1,87 @@
+<?php
+
+namespace MH3U\LocationBundle\Entity;
+
+use Doctrine\ORM\Mapping as ORM;
+
+/**
+ * Object
+ *
+ * @ORM\Table(name="mh3u_location_item")
+ * @ORM\Entity(repositoryClass="MH3U\ItemBundle\Entity\Repository\LocationItemRepository")
+ */
+class LocationItem
+{
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="id", type="integer")
+     * @ORM\Id
+     */
+    private $id;
+
+    /**
+     * @ORM\ManyToOne(targetEntity="MH3U\ItemBundle\Entity\Item", cascade={"persist"})
+     */
+    private $item;
+
+    /**
+     * @ORM\ManyToOne(targetEntity="MH3U\LocationBundle\Entity\LocationArea", cascade={"persist"})
+     */
+    private $area;
+
+    /**
+     * @ORM\ManyToOne(targetEntity="MH3U\LocationBundle\Entity\LocationRank", cascade={"persist"})
+     */
+    private $rank;
+
+    /**
+     * @ORM\ManyToOne(targetEntity="MH3U\LocationBundle\Entity\LocationType", cascade={"persist"})
+     */
+    private $type;
+
+    /**
+     * Set id
+     *
+     * @return Object
+     */
+    public function setId($id)
+    {
+        $this->id = $id;
+
+        return $this;
+    }
+
+    /**
+     * Get id
+     *
+     * @return integer 
+     */
+    public function getId()
+    {
+        return $this->id;
+    }
+
+    /**
+     * Set name
+     *
+     * @param string $name
+     * @return Object
+     */
+    public function setName($name)
+    {
+        $this->name = $name;
+
+        return $this;
+    }
+
+    /**
+     * Get name
+     *
+     * @return string
+     */
+    public function getName()
+    {
+        return $this->name;
+    }
+}

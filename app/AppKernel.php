@@ -23,6 +23,7 @@ class AppKernel extends Kernel
             new Sonata\DoctrineORMAdminBundle\SonataDoctrineORMAdminBundle(),
             new Sonata\AdminBundle\SonataAdminBundle(),
             new FOS\UserBundle\FOSUserBundle(),
+            new Core\AdminBundle\CoreAdminBundle(),
             new Core\CoreBundle\CoreCoreBundle(),
             new Core\MenuBundle\CoreMenuBundle(),
             new Core\UserBundle\CoreUserBundle(),
@@ -32,7 +33,7 @@ class AppKernel extends Kernel
             new MH3U\ItemBundle\MH3UItemBundle(),
             new MH3U\WeaponBundle\MH3UWeaponBundle(),
             new MH3U\DataBundle\MH3UDataBundle(),
-            new Core\AdminBundle\CoreAdminBundle(),
+            new MH3U\LocationBundle\MH3ULocationBundle(),
         );
 
         if (in_array($this->getEnvironment(), array('dev', 'test'))) {

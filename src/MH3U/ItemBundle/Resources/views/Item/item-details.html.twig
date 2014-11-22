@@ -17,21 +17,21 @@
                 <td>{{ item.name | trans({}, 'item') }}</td>
                 <td>{{ item.rarity }}</td>
                 <td>
-                    {% if item.capacity %}
+                    {% if item.capacity > 0 %}
                         {{ item.capacity }}
                     {% else %}
                         -
                     {% endif %}
                 </td>
                 <td>
-                    {% if item.pricePurchase %}
+                    {% if item.pricePurchase > 0 %}
                         {{ item.pricePurchase }}
                     {% else %}
                         -
                     {% endif %}
                 </td>
                 <td>
-                    {% if item.priceSale %}
+                    {% if item.priceSale > 0 %}
                         {{ item.priceSale }}
                     {% else %}
                         -

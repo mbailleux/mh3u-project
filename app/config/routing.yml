@@ -37,3 +37,7 @@ MH3U_weapon:
 MH3U_item:
     resource: "@MH3UItemBundle/Resources/config/routing.yml"
     prefix:   /
+
+MH3U_location:
+    resource: "@MH3ULocationBundle/Resources/config/routing.yml"
+    prefix:   /

@@ -2,10 +2,16 @@
 namespace MH3U\DataBundle\Service;
 
 use Ddeboer\DataImport\Reader\CsvReader;
-use Symfony\Component\DependencyInjection\Container;
 use MH3U\DataBundle\Service\DataTranslation;
 use MH3U\ItemBundle\Entity\Item;
 use MH3U\CombinationBundle\Entity\Combination;
+use MH3U\ItemBundle\Entity\ItemLocation;
+use MH3U\ItemBundle\Entity\ItemLocationType;
+use MH3U\LocationBundle\Entity\Location;
+use MH3U\LocationBundle\Entity\LocationArea;
+use MH3U\LocationBundle\Entity\LocationPlace;
+use MH3U\LocationBundle\Entity\LocationRank;
+use Symfony\Component\DependencyInjection\Container;
 
 class DataImport {
 
@@ -33,7 +39,13 @@ class DataImport {
         $connection = $this->_doctrineManager->getConnection();
         $connection->executeUpdate("SET FOREIGN_KEY_CHECKS=0;");
         $connection->executeUpdate($connection->getDatabasePlatform()->getTruncateTableSQL("mh3u_item"));
+        $connection->executeUpdate($connection->getDatabasePlatform()->getTruncateTableSQL("mh3u_item_location"));
+        $connection->executeUpdate($connection->getDatabasePlatform()->getTruncateTableSQL("mh3u_item_location_type"));
         $connection->executeUpdate($connection->getDatabasePlatform()->getTruncateTableSQL("mh3u_combination"));
+        $connection->executeUpdate($connection->getDatabasePlatform()->getTruncateTableSQL("mh3u_location"));
+        $connection->executeUpdate($connection->getDatabasePlatform()->getTruncateTableSQL("mh3u_location_area"));
+        $connection->executeUpdate($connection->getDatabasePlatform()->getTruncateTableSQL("mh3u_location_place"));
+        $connection->executeUpdate($connection->getDatabasePlatform()->getTruncateTableSQL("mh3u_location_rank"));
         $connection->executeUpdate("SET FOREIGN_KEY_CHECKS=1;");
     }
 
@@ -41,7 +53,13 @@ class DataImport {
     {
         $this->_importItemData();
         $this->_importItemNameData();
+        $this->_importItemLocationTypeData();
         $this->_importCombinationData();
+        $this->_importLocationAreaData();
+        $this->_importLocationPlaceData();
+        $this->_importLocationRankData();
+        $this->_importLocationData();
+        $this->_importItemLocationData();
     }
 
     private function _importItemData()
@@ -101,4 +119,124 @@ class DataImport {
         $this->_doctrineManager->flush();
     }
 
+    private function _importLocationAreaData()
+    {
+        $reader = $this->_openCVSReader('/Data/MH3U_LOCATION_AREA.csv');
+
+        $reader->setHeaderRowNumber(0);
+
+        $translationFile = new DataTranslation('LocationBundle', 'location_area');
+
+        foreach ($reader as $row) {
+            $translationId = $translationFile->createTranslationId($row['en_US']);
+            $translationFile->addTranslations($translationId, $row['en_US'], $row['fr_FR']);
+
+            $newLocationArea = new LocationArea();
+            $newLocationArea->setId($row['area_id']);
+            $newLocationArea->setName($translationId);
+            $this->_doctrineManager->persist($newLocationArea);
+        }
+        $this->_doctrineManager->flush();
+    }
+
+    private function _importLocationPlaceData()
+    {
+        $reader = $this->_openCVSReader('/Data/MH3U_LOCATION_PLACE.csv');
+
+        $reader->setHeaderRowNumber(0);
+
+        $translationFile = new DataTranslation('LocationBundle', 'location_place');
+
+        foreach ($reader as $row) {
+            $translationId = $translationFile->createTranslationId($row['en_US']);
+            $translationFile->addTranslations($translationId, $row['en_US'], $row['fr_FR']);
+
+            $newLocationPlace = new LocationPlace();
+            $newLocationPlace->setId($row['place_id']);
+            $newLocationPlace->setName($translationId);
+            $this->_doctrineManager->persist($newLocationPlace);
+        }
+        $this->_doctrineManager->flush();
+    }
+
+    private function _importLocationRankData()
+    {
+        $reader = $this->_openCVSReader('/Data/MH3U_LOCATION_RANK.csv');
+
+        $reader->setHeaderRowNumber(0);
+
+        $translationFile = new DataTranslation('LocationBundle', 'location_rank');
+
+        foreach ($reader as $row) {
+            $translationId = $translationFile->createTranslationId($row['en_US']);
+            $translationFile->addTranslations($translationId, $row['en_US'], $row['fr_FR']);
+
+            $newLocationRank = new LocationRank();
+            $newLocationRank->setId($row['rank_id']);
+            $newLocationRank->setName($translationId);
+            $this->_doctrineManager->persist($newLocationRank);
+        }
+        $this->_doctrineManager->flush();
+    }
+
+    private function _importLocationData()
+    {
+        $reader = $this->_openCVSReader('/Data/MH3U_LOCATION.csv');
+
+        $reader->setHeaderRowNumber(0);
+
+        foreach ($reader as $row) {
+            $locationPlace  = $this->_doctrineManager->getRepository('MH3ULocationBundle:LocationPlace')->find($row['place_id']);
+            $locationArea   = $this->_doctrineManager->getRepository('MH3ULocationBundle:LocationArea')->find($row['area_id']);
+            $locationRank   = $this->_doctrineManager->getRepository('MH3ULocationBundle:LocationRank')->find($row['rank_id']);
+
+            $location = new Location();
+            $location->setId($row['id']);
+            $location->setPlace($locationPlace);
+            $location->setArea($locationArea);
+            $location->setRank($locationRank);
+            $this->_doctrineManager->persist($location);
+        }
+        $this->_doctrineManager->flush();
+    }
+
+    private function _importItemLocationTypeData()
+    {
+        $reader = $this->_openCVSReader('/Data/MH3U_ITEM_LOCATION_TYPE.csv');
+
+        $reader->setHeaderRowNumber(0);
+
+        $translationFile = new DataTranslation('ItemBundle', 'item_location_type');
+
+        foreach ($reader as $row) {
+            $translationId = $translationFile->createTranslationId($row['en_US']);
+            $translationFile->addTranslations($translationId, $row['en_US'], $row['fr_FR']);
+
+            $newItemLocationType = new ItemLocationType();
+            $newItemLocationType->setId($row['item_location_type_id']);
+            $newItemLocationType->setName($translationId);
+            $this->_doctrineManager->persist($newItemLocationType);
+        }
+        $this->_doctrineManager->flush();
+    }
+
+    private function _importItemLocationData()
+    {
+        $reader = $this->_openCVSReader('/Data/MH3U_ITEM_LOCATION.csv');
+
+        $reader->setHeaderRowNumber(0);
+
+        foreach ($reader as $row) {
+            $location           = $this->_doctrineManager->getRepository('MH3ULocationBundle:Location')->find($row['location_id']);
+            $item               = $this->_doctrineManager->getRepository('MH3UItemBundle:Item')->find($row['item_id']);
+            $itemLocationType   = $this->_doctrineManager->getRepository('MH3UItemBundle:ItemLocationType')->find($row['item_location_type_id']);
+
+            $newItemLocation = new ItemLocation();
+            $newItemLocation->setItem($item);
+            $newItemLocation->setLocation($location);
+            $newItemLocation->setType($itemLocationType);
+            $this->_doctrineManager->persist($newItemLocation);
+        }
+        $this->_doctrineManager->flush();
+    }
 } 
