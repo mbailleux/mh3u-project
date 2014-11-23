@@ -31,9 +31,9 @@ class Location
     private $area;
 
     /**
-     * @ORM\ManyToOne(targetEntity="MH3U\LocationBundle\Entity\LocationRank", cascade={"persist"})
+     * @ORM\ManyToOne(targetEntity="MH3U\QuestBundle\Entity\QuestRank", cascade={"persist"})
      */
-    private $rank;
+    private $quest_rank;
 
 
     /**
@@ -56,5 +56,51 @@ class Location
     public function getId()
     {
         return $this->id;
+    }
+
+    /**
+     * Set place
+     *
+     * @param \MH3U\LocationBundle\Entity\LocationPlace $place
+     * @return Location
+     */
+    public function setPlace(\MH3U\LocationBundle\Entity\LocationPlace $place = null)
+    {
+        $this->place = $place;
+
+        return $this;
+    }
+
+    /**
+     * Get place
+     *
+     * @return \MH3U\LocationBundle\Entity\LocationPlace 
+     */
+    public function getPlace()
+    {
+        return $this->place;
+    }
+
+    /**
+     * Set area
+     *
+     * @param \MH3U\LocationBundle\Entity\LocationArea $area
+     * @return Location
+     */
+    public function setArea(\MH3U\LocationBundle\Entity\LocationArea $area = null)
+    {
+        $this->area = $area;
+
+        return $this;
+    }
+
+    /**
+     * Get area
+     *
+     * @return \MH3U\LocationBundle\Entity\LocationArea 
+     */
+    public function getArea()
+    {
+        return $this->area;
     }
 }

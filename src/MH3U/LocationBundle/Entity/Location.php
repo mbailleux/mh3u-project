@@ -31,9 +31,9 @@ class Location
     private $area;
 
     /**
-     * @ORM\ManyToOne(targetEntity="MH3U\CoreBundle\Entity\Rank", cascade={"persist"})
+     * @ORM\ManyToOne(targetEntity="MH3U\QuestBundle\Entity\QuestRank", cascade={"persist"})
      */
-    private $rank;
+    private $quest_rank;
 
 
     /**
@@ -105,25 +105,25 @@ class Location
     }
 
     /**
-     * Set rank
+     * Set quest_rank
      *
-     * @param \MH3U\CoreBundle\Entity\Rank $rank
+     * @param \MH3U\QuestBundle\Entity\QuestRank $questRank
      * @return Location
      */
-    public function setRank(\MH3U\CoreBundle\Entity\Rank $rank = null)
+    public function setQuestRank(\MH3U\QuestBundle\Entity\QuestRank $questRank = null)
     {
-        $this->rank = $rank;
+        $this->quest_rank = $questRank;
 
         return $this;
     }
 
     /**
-     * Get rank
+     * Get quest_rank
      *
-     * @return \MH3U\CoreBundle\Entity\Rank
+     * @return \MH3U\QuestBundle\Entity\QuestRank 
      */
-    public function getRank()
+    public function getQuestRank()
     {
-        return $this->rank;
+        return $this->quest_rank;
     }
 }

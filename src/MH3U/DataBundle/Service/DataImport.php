@@ -45,7 +45,7 @@ class DataImport {
         $connection->executeUpdate($connection->getDatabasePlatform()->getTruncateTableSQL("mh3u_location"));
         $connection->executeUpdate($connection->getDatabasePlatform()->getTruncateTableSQL("mh3u_location_area"));
         $connection->executeUpdate($connection->getDatabasePlatform()->getTruncateTableSQL("mh3u_location_place"));
-        $connection->executeUpdate($connection->getDatabasePlatform()->getTruncateTableSQL("mh3u_rank"));
+        $connection->executeUpdate($connection->getDatabasePlatform()->getTruncateTableSQL("mh3u_quest_rank"));
         $connection->executeUpdate("SET FOREIGN_KEY_CHECKS=1;");
     }
 
@@ -57,7 +57,7 @@ class DataImport {
         $this->_importCombinationData();
         $this->_importLocationAreaData();
         $this->_importLocationPlaceData();
-        $this->_importRankData();
+        $this->_importQuestRankData();
         $this->_importLocationData();
         $this->_importItemLocationData();
     }
@@ -159,19 +159,19 @@ class DataImport {
         $this->_doctrineManager->flush();
     }
 
-    private function _importRankData()
+    private function _importQuestRankData()
     {
         $reader = $this->_openCVSReader('/Data/MH3U_RANK.csv');
 
         $reader->setHeaderRowNumber(0);
 
-        $translationFile = new DataTranslation('CoreBundle', 'rank');
+        $translationFile = new DataTranslation('QuestBundle', 'quest_rank');
 
         foreach ($reader as $row) {
             $translationId = $translationFile->createTranslationId($row['en_US']);
             $translationFile->addTranslations($translationId, $row['en_US'], $row['fr_FR']);
 
-            $newRank = new Rank();
+            $newRank = new QuestRank();
             $newRank->setId($row['rank_id']);
             $newRank->setName($translationId);
             $this->_doctrineManager->persist($newRank);
