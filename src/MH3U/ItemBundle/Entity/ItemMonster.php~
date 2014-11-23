@@ -73,8 +73,6 @@ class ItemMonster
         return $this->item;
     }
 
-
-
     /**
      * Set monster
      *
@@ -119,5 +117,74 @@ class ItemMonster
     public function getType()
     {
         return $this->type;
+    }
+
+    /**
+     * Set quantity
+     *
+     * @param string $quantity
+     * @return ItemMonster
+     */
+    public function setQuantity($quantity)
+    {
+        $this->quantity = $quantity;
+
+        return $this;
+    }
+
+    /**
+     * Get quantity
+     *
+     * @return string 
+     */
+    public function getQuantity()
+    {
+        return $this->quantity;
+    }
+
+    /**
+     * Set percent
+     *
+     * @param integer $percent
+     * @return ItemMonster
+     */
+    public function setPercent($percent)
+    {
+        $this->percent = $percent;
+
+        return $this;
+    }
+
+    /**
+     * Get percent
+     *
+     * @return integer 
+     */
+    public function getPercent()
+    {
+        return $this->percent;
+    }
+
+    /**
+     * Set rank
+     *
+     * @param \MH3U\CoreBundle\Entity\Rank $rank
+     * @return ItemMonster
+     */
+    public function setRank(\MH3U\CoreBundle\Entity\Rank $rank)
+    {
+        $this->rank = $rank;
+
+        return $this;
+    }
+
+    /**
+     * Get rank
+     *
+     * @return \MH3U\CoreBundle\Entity\Rank 
+     */
+    public function getRank()
+    {
+        return $this->rank;
     }
 }
