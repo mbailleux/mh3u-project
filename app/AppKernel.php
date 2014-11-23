@@ -35,7 +35,7 @@ class AppKernel extends Kernel
             new MH3U\DataBundle\MH3UDataBundle(),
             new MH3U\LocationBundle\MH3ULocationBundle(),
             new MH3U\MonsterBundle\MH3UMonsterBundle(),
-            new MH3U\CoreBundle\MH3UCoreBundle(),
+            new MH3U\QuestBundle\MH3UQuestBundle(),
         );
 
         if (in_array($this->getEnvironment(), array('dev', 'test'))) {

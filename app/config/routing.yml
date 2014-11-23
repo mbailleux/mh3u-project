@@ -1,11 +1,3 @@
-mh3_u_core:
-    resource: "@MH3UCoreBundle/Resources/config/routing.yml"
-    prefix:   /
-
-mh3_u_monster:
-    resource: "@MH3UMonsterBundle/Resources/config/routing.yml"
-    prefix:   /
-
 core_admin:
     resource: "@CoreAdminBundle/Resources/config/routing.yml"
     prefix:   /
@@ -48,4 +40,12 @@ MH3U_item:
 
 MH3U_location:
     resource: "@MH3ULocationBundle/Resources/config/routing.yml"
+    prefix:   /
+
+MH3U_quest:
+    resource: "@MH3UQuestBundle/Resources/config/routing.yml"
+    prefix:   /
+
+MH3U_monster:
+    resource: "@MH3UMonsterBundle/Resources/config/routing.yml"
     prefix:   /

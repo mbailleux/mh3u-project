@@ -1,6 +1,6 @@
 <?php
 
-namespace MH3U\CoreBundle\Controller;
+namespace MH3U\QuestBundle\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 

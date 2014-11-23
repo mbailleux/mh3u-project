@@ -1,16 +1,16 @@
 <?php
 
-namespace MH3U\CoreBundle\Entity;
+namespace MH3U\QuestBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
 
 /**
  * Object
  *
- * @ORM\Table(name="mh3u_rank")
- * @ORM\Entity(repositoryClass="MH3U\CoreBundle\Entity\Repository\RankRepository")
+ * @ORM\Table(name="mh3u_quest_rank")
+ * @ORM\Entity(repositoryClass="MH3U\QuestBundle\Entity\Repository\QuestRankRepository")
  */
-class Rank
+class QuestRank
 {
     /**
      * @var integer
