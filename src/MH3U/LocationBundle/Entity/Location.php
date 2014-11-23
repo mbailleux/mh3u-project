@@ -31,7 +31,7 @@ class Location
     private $area;
 
     /**
-     * @ORM\ManyToOne(targetEntity="MH3U\LocationBundle\Entity\LocationRank", cascade={"persist"})
+     * @ORM\ManyToOne(targetEntity="MH3U\CoreBundle\Entity\Rank", cascade={"persist"})
      */
     private $rank;
 
@@ -107,10 +107,10 @@ class Location
     /**
      * Set rank
      *
-     * @param \MH3U\LocationBundle\Entity\LocationRank $rank
+     * @param \MH3U\CoreBundle\Entity\Rank $rank
      * @return Location
      */
-    public function setRank(\MH3U\LocationBundle\Entity\LocationRank $rank = null)
+    public function setRank(\MH3U\CoreBundle\Entity\Rank $rank = null)
     {
         $this->rank = $rank;
 
@@ -120,7 +120,7 @@ class Location
     /**
      * Get rank
      *
-     * @return \MH3U\LocationBundle\Entity\LocationRank 
+     * @return \MH3U\CoreBundle\Entity\Rank
      */
     public function getRank()
     {

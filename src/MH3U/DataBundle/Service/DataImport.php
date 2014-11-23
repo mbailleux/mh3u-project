@@ -10,7 +10,7 @@ use MH3U\ItemBundle\Entity\ItemLocationType;
 use MH3U\LocationBundle\Entity\Location;
 use MH3U\LocationBundle\Entity\LocationArea;
 use MH3U\LocationBundle\Entity\LocationPlace;
-use MH3U\LocationBundle\Entity\LocationRank;
+use MH3U\CoreBundle\Entity\Rank;
 use Symfony\Component\DependencyInjection\Container;
 
 class DataImport {
@@ -45,7 +45,7 @@ class DataImport {
         $connection->executeUpdate($connection->getDatabasePlatform()->getTruncateTableSQL("mh3u_location"));
         $connection->executeUpdate($connection->getDatabasePlatform()->getTruncateTableSQL("mh3u_location_area"));
         $connection->executeUpdate($connection->getDatabasePlatform()->getTruncateTableSQL("mh3u_location_place"));
-        $connection->executeUpdate($connection->getDatabasePlatform()->getTruncateTableSQL("mh3u_location_rank"));
+        $connection->executeUpdate($connection->getDatabasePlatform()->getTruncateTableSQL("mh3u_rank"));
         $connection->executeUpdate("SET FOREIGN_KEY_CHECKS=1;");
     }
 
@@ -57,7 +57,7 @@ class DataImport {
         $this->_importCombinationData();
         $this->_importLocationAreaData();
         $this->_importLocationPlaceData();
-        $this->_importLocationRankData();
+        $this->_importRankData();
         $this->_importLocationData();
         $this->_importItemLocationData();
     }
@@ -159,22 +159,22 @@ class DataImport {
         $this->_doctrineManager->flush();
     }
 
-    private function _importLocationRankData()
+    private function _importRankData()
     {
-        $reader = $this->_openCVSReader('/Data/MH3U_LOCATION_RANK.csv');
+        $reader = $this->_openCVSReader('/Data/MH3U_RANK.csv');
 
         $reader->setHeaderRowNumber(0);
 
-        $translationFile = new DataTranslation('LocationBundle', 'location_rank');
+        $translationFile = new DataTranslation('CoreBundle', 'rank');
 
         foreach ($reader as $row) {
             $translationId = $translationFile->createTranslationId($row['en_US']);
             $translationFile->addTranslations($translationId, $row['en_US'], $row['fr_FR']);
 
-            $newLocationRank = new LocationRank();
-            $newLocationRank->setId($row['rank_id']);
-            $newLocationRank->setName($translationId);
-            $this->_doctrineManager->persist($newLocationRank);
+            $newRank = new Rank();
+            $newRank->setId($row['rank_id']);
+            $newRank->setName($translationId);
+            $this->_doctrineManager->persist($newRank);
         }
         $this->_doctrineManager->flush();
     }
@@ -188,7 +188,7 @@ class DataImport {
         foreach ($reader as $row) {
             $locationPlace  = $this->_doctrineManager->getRepository('MH3ULocationBundle:LocationPlace')->find($row['place_id']);
             $locationArea   = $this->_doctrineManager->getRepository('MH3ULocationBundle:LocationArea')->find($row['area_id']);
-            $locationRank   = $this->_doctrineManager->getRepository('MH3ULocationBundle:LocationRank')->find($row['rank_id']);
+            $locationRank   = $this->_doctrineManager->getRepository('MH3UCoreBundle:Rank')->find($row['rank_id']);
 
             $location = new Location();
             $location->setId($row['id']);

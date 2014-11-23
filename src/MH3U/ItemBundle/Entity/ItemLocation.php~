@@ -13,49 +13,22 @@ use Doctrine\ORM\Mapping as ORM;
 class ItemLocation
 {
     /**
-     * @var integer
-     *
-     * @ORM\Column(name="id", type="integer")
-     * @ORM\Id
-     */
-    private $id;
-
-    /**
      * @ORM\ManyToOne(targetEntity="MH3U\ItemBundle\Entity\Item", cascade={"persist"})
+     * @ORM\Id
      */
     private $item;
 
     /**
      * @ORM\ManyToOne(targetEntity="MH3U\LocationBundle\Entity\Location", cascade={"persist"})
+     * @ORM\Id
      */
     private $location;
 
     /**
      * @ORM\ManyToOne(targetEntity="MH3U\ItemBundle\Entity\ItemLocationType", cascade={"persist"})
+     * @ORM\Id
      */
     private $type;
-
-    /**
-     * Set id
-     *
-     * @return Object
-     */
-    public function setId($id)
-    {
-        $this->id = $id;
-
-        return $this;
-    }
-
-    /**
-     * Get id
-     *
-     * @return integer 
-     */
-    public function getId()
-    {
-        return $this->id;
-    }
 
     /**
      * Set item
@@ -106,10 +79,10 @@ class ItemLocation
     /**
      * Set type
      *
-     * @param \MH3U\ItemBundle\Entity\ItemType $type
+     * @param \MH3U\ItemBundle\Entity\ItemLocationType $type
      * @return ItemLocation
      */
-    public function setType(\MH3U\ItemBundle\Entity\ItemType $type = null)
+    public function setType(\MH3U\ItemBundle\Entity\ItemLocationType $type = null)
     {
         $this->type = $type;
 
@@ -119,7 +92,7 @@ class ItemLocation
     /**
      * Get type
      *
-     * @return \MH3U\ItemBundle\Entity\ItemType 
+     * @return \MH3U\ItemBundle\Entity\ItemLocationType
      */
     public function getType()
     {

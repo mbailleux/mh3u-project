@@ -1,0 +1,531 @@
+Mon_Part_ID;Mon_Part_0;Mon_Part_6
+-1;---;---
+1;Head;Tête
+2;Body;Corps
+3;Body;Corps
+4;Head;Tête
+5;Body;Corps
+6;Head;Tête
+7;Body;Corps
+8;Body;Corps
+9;Body;Corps
+10;Body;Corps
+11;Body;Corps
+12;Body;Corps
+13;Body;Corps
+14;Body;Corps
+15;Body;Corps
+16;Body;Corps
+17;Body;Corps
+18;Head;Tête
+19;Body;Corps
+20;Head;Tête
+21;Body;Corps
+22;Body;Corps
+23;Head;Tête
+24;Body;Corps
+25;Head;Tête
+26;Body;Corps
+27;Body;Corps
+28;Head;Tête
+29;Body;Corps
+30;Body;Corps
+31;Head;Tête
+32;Body;Corps
+33;Head;Tête
+34;Body;Corps
+35;Head;Tête
+36;Body;Corps
+37;Head;Tête
+38;Upper Body;Corps (haut)
+39;Front Legs;Pattes avant
+40;Belly/Back Legs;Ventre/pattes arrière
+41;Butt;Derrière
+42;Head;Tête
+43;Upper Body;Corps (haut)
+44;Front Legs;Pattes avant
+45;Belly/Back Legs;Ventre/pattes arrière
+46;Butt;Derrière
+47;Head;Tête
+48;Upper Body;Corps (haut)
+49;Front Legs;Pattes avant
+50;Belly/Back Legs;Ventre/pattes arrière
+51;Butt;Derrière
+52;Head;Tête
+53;Upper Body;Corps (haut)
+54;Upper Back;Dos (haut)
+55;Lower Back;Dos (bas)
+56;Front Legs;Pattes avant
+57;Belly/Back Legs;Ventre/pattes arrière
+58;Roll Attack;En boule
+59;Head;Tête
+60;Breast;Torse
+61;Body;Corps
+62;Wing (Flintstone);Silex
+63;Wing (Inside);Aile
+64;Wing (Outside);Aile (bord)
+65;Legs;Pattes
+66;Tail;Queue
+67;Head;Tête
+68;Breast;Torse
+69;Body;Corps
+70;Wing (Voltstone);Pierre-volt
+71;Wing (Inside);Aile
+72;Wing (Outside);Aile (bord)
+73;Legs;Pattes
+74;Tail;Queue
+75;Head;Tête
+76;Body;Corps
+77;Front Legs;Pattes avant
+78;Left Back Leg;Patte arrière gauche
+79;Right Back Leg;Patte arrière droite
+80;Tail;Queue
+81;Head;Tête
+82;Body;Corps
+83;Front Legs;Pattes avant
+84;Left Back Leg;Patte arrière gauche
+85;Right Back Leg;Patte arrière droite
+86;Tail;Queue
+87;Head;Tête
+88;Body;Corps
+89;Front Legs;Pattes avant
+90;Left Back Leg;Patte arrière gauche
+91;Right Back Leg;Patte arrière droite
+92;Tail;Queue
+93;Head;Tête
+94;Body;Corps
+95;Front Legs;Pattes avant
+96;Left Back Leg;Patte arrière gauche
+97;Right Back Leg;Patte arrière droite
+98;Tail;Queue
+99;Head;Tête
+100;Neck;Cou
+101;Back;Dos
+102;Belly;Ventre
+103;Front Legs;Pattes avant
+104;Back Legs;Pattes arrière
+105;Tail;Queue
+106;Tail Tip;Queue (extrémité)
+107;Head;Tête
+108;Neck;Cou
+109;Back;Dos
+110;Belly;Ventre
+111;Front Legs;Pattes avant
+112;Back Legs;Pattes arrière
+113;Tail;Queue
+114;Tail Tip;Queue (extrémité)
+115;Head;Tête
+116;Neck;Cou
+117;Back;Dos
+118;Belly;Ventre
+119;Front Legs;Pattes avant
+120;Back Legs;Pattes arrière
+121;Tail;Queue
+122;Tail Tip;Queue (extrémité)
+123;Head;Tête
+124;Neck;Cou
+125;Back;Dos
+126;Belly;Ventre
+127;Front Legs;Pattes avant
+128;Back Legs;Pattes arrière
+129;Tail;Queue
+130;Tail Tip;Queue (extrémité)
+131;Horn;Corne
+132;Head;Tête
+133;Body;Corps
+134;Bump;Bosse
+135;Front Legs;Pattes avant
+136;Back Legs;Pattes arrière
+137;Tail;Queue
+138;Tail Tip;Queue (extrémité)
+139;Horn;Corne
+140;Head;Tête
+141;Body;Corps
+142;Bump;Bosse
+143;Front Legs;Pattes avant
+144;Back Legs;Pattes arrière
+145;Tail;Queue
+146;Tail Tip;Queue (extrémité)
+147;Horn;Corne
+148;Head;Tête
+149;Body;Corps
+150;Bump;Bosse
+151;Front Legs;Pattes avant
+152;Back Legs;Pattes arrière
+153;Tail;Queue
+154;Tail Tip;Queue (extrémité)
+155;Horn;Corne
+156;Head;Tête
+157;Body;Corps
+158;Bump;Bosse
+159;Front Legs;Pattes avant
+160;Back Legs;Pattes arrière
+161;Tail;Queue
+162;Tail Tip;Queue (extrémité)
+163;Head;Tête
+164;Neck;Cou
+165;Belly;Ventre
+166;Back;Dos
+167;Wing;Aile
+168;Legs;Pattes
+169;Tail;Queue
+170;Head;Tête
+171;Neck;Cou
+172;Belly;Ventre
+173;Back;Dos
+174;Wing;Aile
+175;Legs;Pattes
+176;Tail;Queue
+177;Tail Tip;Queue (extrémité)
+178;Head;Tête
+179;Neck;Cou
+180;Belly;Ventre
+181;Back;Dos
+182;Wing;Aile
+183;Legs;Pattes
+184;Tail;Queue
+185;Tail Tip;Queue (extrémité)
+186;Head;Tête
+187;Neck;Cou
+188;Belly;Ventre
+189;Back;Dos
+190;Wing;Aile
+191;Legs;Pattes
+192;Tail;Queue
+193;Head;Tête
+194;Neck;Cou
+195;Belly;Ventre
+196;Back;Dos
+197;Wing;Aile
+198;Legs;Pattes
+199;Tail;Queue
+200;Tail Tip;Queue (extrémité)
+201;Head;Tête
+202;Neck;Cou
+203;Belly;Ventre
+204;Back;Dos
+205;Wing;Aile
+206;Legs;Pattes
+207;Tail;Queue
+208;Tail Tip;Queue (extrémité)
+209;Head;Tête
+210;Neck;Cou
+211;Belly;Ventre
+212;Back/Wings;Dos/ailes
+213;Wing Flaps;Aileron
+214;Legs;Pattes
+215;Tail;Queue
+216;Tail Tip;Queue (extrémité)
+217;Head;Tête
+218;Neck;Cou
+219;Belly;Ventre
+220;Back/Wings;Dos/ailes
+221;Wing Flaps;Aileron
+222;Legs;Pattes
+223;Tail;Queue
+224;Tail Tip;Queue (extrémité)
+225;Head;Tête
+226;Neck;Cou
+227;Back;Dos
+228;Breast;Ventre
+229;Front Legs;Pattes avant
+230;Back Legs;Pattes arrière
+231;Tail;Queue
+232;Egg;Œuf
+233;Head;Tête
+234;Neck;Cou
+235;Back;Dos
+236;Breast;Ventre
+237;Front Legs;Pattes avant
+238;Back Legs;Pattes arrière
+239;Tail;Queue
+240;Egg;Œuf
+241;Head;Tête
+242;Neck;Cou
+243;Back;Dos
+244;Breast;Ventre
+245;Front Legs;Pattes avant
+246;Back Legs;Pattes arrière
+247;Tail;Queue
+248;Egg;Œuf
+249;Head;Tête
+250;Neck;Cou
+251;Back;Dos
+252;Breast;Ventre
+253;Front Legs;Pattes avant
+254;Back Legs;Pattes arrière
+255;Tail;Queue
+256;Egg;Œuf
+257;Head;Tête
+258;Neck/Back;Cou/dos
+259;Belly;Ventre
+260;Thorns;Épines (aile)
+261;Front Legs;Pattes avant
+262;Back Legs;Pattes arrière
+263;Tail;Queue
+264;Head;Tête
+265;Neck/Back;Cou/dos
+266;Belly;Ventre
+267;Thorns;Épines (aile)
+268;Front Legs;Pattes avant
+269;Back Legs;Pattes arrière
+270;Tail;Queue
+271;Head;Tête
+272;Belly;Ventre
+273;Mane;Crinière
+274;Back;Dos
+275;Front Legs;Pattes avant
+276;Back Legs;Pattes arrière
+277;Tail;Queue
+278;Head;Tête
+279;Belly;Ventre
+280;Mane;Crinière
+281;Back;Dos
+282;Front Legs;Pattes avant
+283;Back Legs;Pattes arrière
+284;Tail;Queue
+285;Head;Tête
+286;Belly;Ventre
+287;Mane;Crinière
+288;Back;Dos
+289;Front Legs;Pattes avant
+290;Back Legs;Pattes arrière
+291;Tail;Queue
+292;Lantern;Lanterne
+293;Head;Tête
+294;Belly;Ventre
+295;Back;Dos
+296;Inflated Back;Dos (gonflé)
+297;Edges;Flancs
+298;Legs;Pattes
+299;Tail;Queue
+300;Lantern;Lanterne
+301;Head;Tête
+302;Belly;Ventre
+303;Back;Dos
+304;Inflated Back;Dos (gonflé)
+305;Edges;Flancs
+306;Legs;Pattes
+307;Tail;Queue
+308;Head;Tête
+309;Nose;Nez
+310;Gills;Branchies
+311;Mouth;Bouche
+312;Body/Tail;Corps/queue
+313;Belly;Ventre
+314;Back;Dos
+315;Legs;Pattes
+316;Head;Tête
+317;Nose;Nez
+318;Gills;Branchies
+319;Mouth;Bouche
+320;Body/Tail;Corps/queue
+321;Belly;Ventre
+322;Back;Dos
+323;Legs;Pattes
+324;Head;Tête
+325;Breast;Torse
+326;Body;Corps
+327;Back;Dos
+328;Legs;Pattes
+329;Tail;Queue
+330;Head;Tête
+331;Breast;Torse
+332;Body;Corps
+333;Back;Dos
+334;Front Legs;Pattes avant
+335;Back Legs;Pattes arrière
+336;Tail;Queue
+337;Head;Tête
+338;Breast;Torse
+339;Body;Corps
+340;Back;Dos
+341;Legs;Pattes
+342;Tail;Queue
+343;Head;Tête
+344;Neck;Cou
+345;Breast;Torse
+346;Body;Corps
+347;Fin;Nageoire
+348;Left Legs;Pattes gauche
+349;Right Legs;Pattes droite
+350;Tail;Queue
+351;Head;Tête
+352;Neck;Cou
+353;Breast;Torse
+354;Body;Corps
+355;Fin;Nageoire
+356;Left Legs;Pattes gauche
+357;Right Legs;Pattes droite
+358;Tail;Queue
+359;Head;Tête
+360;Neck;Cou
+361;Breast;Torse
+362;Body;Corps
+363;Fin;Nageoire
+364;Left Legs;Pattes gauche
+365;Right Legs;Pattes droite
+366;Tail;Queue
+367;Head;Tête
+368;Neck;Cou
+369;Breast;Torse
+370;Body;Corps
+371;Fin;Nageoire
+372;Left Legs;Pattes gauche
+373;Right Legs;Pattes droite
+374;Tail;Queue
+375;Head;Tête
+376;Neck/Back;Cou/dos
+377;Belly;Ventre
+378;Wing Blade;Rasoir (aile)
+379;Front Legs;Pattes avant
+380;Back Legs;Pattes arrière
+381;Tail;Queue
+382;Tail Tip;Queue (extrémité)
+383;Head;Tête
+384;Neck/Back;Cou/dos
+385;Belly;Ventre
+386;Wing Blade;Rasoir (aile)
+387;Front Legs;Pattes avant
+388;Back Legs;Pattes arrière
+389;Tail;Queue
+390;Tail Tip;Queue (extrémité)
+391;Head;Tête
+392;Neck/Back;Cou/dos
+393;Belly;Ventre
+394;Wing Blade;Rasoir (aile)
+395;Front Legs;Pattes avant
+396;Back Legs;Pattes arrière
+397;Tail;Queue
+398;Tail Tip;Queue (extrémité)
+399;Head;Tête
+400;Neck/Back;Cou/dos
+401;Belly;Ventre
+402;Wing Blade;Rasoir (aile)
+403;Front Legs;Pattes avant
+404;Back Legs;Pattes arrière
+405;Tail;Queue
+406;Tail Tip;Queue (extrémité)
+407;Head;Tête
+408;Neck/Back;Cou/dos
+409;Belly;Ventre
+410;Wing Blade;Rasoir (aile)
+411;Front Legs;Pattes avant
+412;Back Legs;Pattes arrière
+413;Tail;Queue
+414;Tail Tip;Queue (extrémité)
+415;Head;Tête
+416;Neck/Back;Cou/dos
+417;Belly;Ventre
+418;Wing Blade;Rasoir (aile)
+419;Front Legs;Pattes avant
+420;Back Legs;Pattes arrière
+421;Tail;Queue
+422;Tail Tip;Queue (extrémité)
+423;Head;Tête
+424;Body;Corps
+425;Back;Dos
+426;Front Legs;Pattes avant
+427;Back Legs;Pattes arrière
+428;Shoulder/Thigh;Épaule/cuisse
+429;Tail;Queue
+430;Tail Tip;Queue (extrémité)
+431;Head;Tête
+432;Body;Corps
+433;Back;Dos
+434;Front Legs;Pattes avant
+435;Back Legs;Pattes arrière
+436;Shoulder/Thigh;Épaule/cuisse
+437;Tail;Queue
+438;Tail Tip;Queue (extrémité)
+439;Head;Tête
+440;Body;Corps
+441;Back;Dos
+442;Front Legs;Pattes avant
+443;Back Legs;Pattes arrière
+444;Shoulder/Thigh;Épaule/cuisse
+445;Tail;Queue
+446;Tail Tip;Queue (extrémité)
+447;Head;Tête
+448;Body;Corps
+449;Back;Dos
+450;Front Legs;Pattes avant
+451;Back Legs;Pattes arrière
+452;Shoulder/Thigh;Épaule/cuisse
+453;Tail;Queue
+454;Tail Tip;Queue (extrémité)
+455;Head;Tête
+456;Neck;Cou
+457;Belly;Ventre
+458;Back;Dos
+459;Wing;Aile
+460;Legs;Pattes
+461;Tail;Queue
+462;Head;Tête
+463;Neck;Cou
+464;Belly;Ventre
+465;Back;Dos
+466;Wing;Aile
+467;Legs;Pattes
+468;Tail;Queue
+469;Horn;Corne
+470;Head;Tête
+471;Body;Corps
+472;Front Legs;Pattes avant
+473;Back Legs;Pattes arrière
+474;Tail;Queue
+475;Tail Tip;Queue (extrémité)
+476;Horn;Corne
+477;Head;Tête
+478;Beard;Barbe
+479;Breast;Torse
+480;Belly;Ventre
+481;Back;Dos
+482;Front Legs;Pattes avant
+483;Tail;Queue
+484;Horn;Corne
+485;Head;Tête
+486;Beard;Barbe
+487;Breast;Torse
+488;Belly;Ventre
+489;Back;Dos
+490;Front Legs;Pattes avant
+491;Tail;Queue
+492;Head;Tête
+493;Breast;Ventre
+494;Body;Corps
+495;Front Legs;Pattes avant
+496;Back Legs;Pattes arrière
+497;Tail;Queue
+498;Head;Tête
+499;Breast;Ventre
+500;Body;Corps
+501;Front Legs;Pattes avant
+502;Back Legs;Pattes arrière
+503;Tail;Queue
+504;Head;Tête
+505;Breast;Ventre
+506;Body;Corps
+507;Front Legs;Pattes avant
+508;Back Legs;Pattes arrière
+509;Tail;Queue
+510;Head;Tête
+511;Breast;Ventre
+512;Body;Corps
+513;Front Legs;Pattes avant
+514;Back Legs;Pattes arrière
+515;Tail;Queue
+516;Fang;Croc
+517;Mouth;Bouche
+518;Body;Corps
+519;Belly;Ventre
+520;Arm;Bras
+521;Fin;Nageoire
+522;Weakened Fin;Point faible (nageoire)
+523;Fang;Croc
+524;Mouth;Bouche
+525;Body;Corps
+526;Belly;Ventre
+527;Arm;Bras
+528;Fin;Nageoire
+529;Weakened Fin;Point faible (nageoire)

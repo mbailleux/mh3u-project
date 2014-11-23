@@ -1,3 +1,11 @@
+mh3_u_core:
+    resource: "@MH3UCoreBundle/Resources/config/routing.yml"
+    prefix:   /
+
+mh3_u_monster:
+    resource: "@MH3UMonsterBundle/Resources/config/routing.yml"
+    prefix:   /
+
 core_admin:
     resource: "@CoreAdminBundle/Resources/config/routing.yml"
     prefix:   /

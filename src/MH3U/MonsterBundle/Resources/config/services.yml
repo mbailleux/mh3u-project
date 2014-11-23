@@ -1,0 +1,4 @@
+services:
+#    mh3_u_monster.example:
+#        class: MH3U\MonsterBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
